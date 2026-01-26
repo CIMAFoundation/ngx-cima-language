@@ -1,0 +1,146 @@
+{
+  "HOME": {
+    "TITLE": "Home",
+    "LIST_SENSOR": "Station List",
+    "WAITING": "Loading data, please wait...",
+    "TOOLTIP": {
+      "TOOLS": "Tools",
+      "COMPARISON": "Sensor Comparison",
+      "MODIFY": "Modify Data"
+    },
+    "METADATI": {
+      "OPZIONI": {
+        "CODE": "Acronet Code",
+        "MSG_ISTANZA": "Instance not found",
+        "MSG_IMAG": "Image not found"
+      },
+      "TITLE": "Metadata",
+      "DESCRIPTION": "This section lists the main components that make up each station. For each station, information is provided such as the type of installed unit, identifying codes (Acronet code, pole number, SIM serial number, IMEI), and associated devices (e.g., solar panel, data acquisition board). The data is used for identifying, configuring, and monitoring stations in the field."
+    },
+    "GALLERIA": {
+      "TITLE": "Gallery",
+      "DESCRIPTION": "This section collects representative images of the stations and their components. The photos show field installations, technical device details (such as Acrostation, Acroboard, solar panels, sensors, etc.), and typical configurations. The gallery provides visual support useful for recognizing, documenting, and better understanding the composition of the stations.",
+      "MSG_ERROR": "No images were found for this station."
+    },
+    "QRCODE": {
+      "TITLE": "QR Code",
+      "DESCRIPTION": "This section provides a QR code for each station. The QR code is a two-dimensional barcode that can be scanned with a smartphone or tablet. By scanning the code, users can quickly access information related to the station, such as its location, monitoring data, and other relevant information."
+    },
+    "PREFERENCE": {
+      "OPZIONI": {
+        "PRIMARY_UNIT": "Primary Unit of Measurement",
+        "SECONDARY_UNIT": "Secondary Unit of Measurement",
+        "SELECT_UNITS": "Select Units of Measurement",
+        "SAVE": "Save Preferences",
+        "ADD": "Add Preference",
+        "REMOVE": "Remove Preference",
+        "MSG_PREFERENCE": "Preferences have been saved successfully."
+      },
+      "TITLE": "Preferences",
+      "DESCRIPTION": "This section allows customization of user preferences for the application. \nUsers can modify settings related to data visualization. \nSaved preferences are applied to all stations monitored by the user."
+    },
+    "DOWNLOAD": {
+      "OPZIONI": {
+        "SELECT_SENSOR": "Select a Sensor",
+        "SELECT_DATE": "Select Date",
+        "FORWARD": "Next",
+        "BACK": "Back",
+        "MONTHLY_AGGREGATE": "Monthly Aggregation",
+        "HOURLY_ACCUMULATED": "Hourly Accumulation",
+        "LOADING": "Loading Data",
+        "RESET": "Reset",
+        "MSG_DOWNLOAD": "Please wait while the selected sensor data is loaded for the specified period.",
+        "DOWNLOAD": "Download Data"
+      },
+      "TITLE": "Download",
+      "DESCRIPTION": "This section allows downloading station data. \nUsers can select the desired time period to export data. \nThis feature is useful for analyzing data offline or sharing it with others."
+    },
+    "THRESHOLD": {
+      "TITLE": "Thresholds",
+      "DESCRIPTION": "This section allows setting thresholds for station data. Users can define limit values for various parameters (e.g., temperature, humidity, etc.) and receive notifications when data exceeds those thresholds. This feature is useful for monitoring environmental conditions and making informed decisions."
+    },
+     "ND": "n.d."
+  },
+  "SIDE_NAV": {
+    "TOOLS": "Tools",
+    "NOTHING": "None",
+    "COMPARISON": "Sensor Comparison",
+    "LABEL_SEARCH": "Search Station...",
+    "ORDER_BY_AZ": "Sort A to Z",
+    "ORDER_BY_ZA": "Sort Z to A",
+    "ORDER_BY_DATE": "Sort by Date",
+    "COLLAPSE": "Collapse Stations",
+    "EXPAND": "Expand Stations",
+    "RESEARCH": "Search Station",
+    "RESEARCH_ADV": "Advanced Search",
+    "RESE_ADV": {
+      "TITLE": "Advanced Search",
+      "DESCRIPTION": "This section allows advanced searches among stations. Users can filter results based on various criteria such as geographic location, station type, monitored parameters, and more. This feature helps quickly find stations that meet specific monitoring needs.",
+      "TYPE_SENSORS": "Sensor Type",
+      "COORD_AREA": "Area Coordinates",
+      "REGION": "Region",
+      "APPLY": "Apply",
+      "RESET": "Reset Filter"
+    }
+  },
+  "TITLE_SENSOR": {
+    "LAST_UPDATE_LABEL": "Last available data - today at {{time}}\n({{ago}})",
+    "FAILED_UPDATE_DATE": "Update failed",
+    "1": "Battery Level",
+    "3": "Water Level",
+    "12": "Air Pressure",
+    "15": "GPRS Signal",
+    "55": "Indoor Temperature",
+    "2": "Rain Gauge",
+    "5": "Thermometer",
+    "9": "Humidity",
+    "11": "Wind Speed",
+    "10": "Wind Direction",
+    "20": "Wind Direction Gust",
+    "21": "Wind Speed ​​Gust",
+    "LIGHTSENSOR": "Light Sensor",
+    "41": "PM10",
+    "13": "Solar Radiation",
+    "51": "Minimum Temperature",
+    "52": "Maximum Temperature",
+    "43": "NO2",
+    "4": "Snow Level",
+    "90": "Soil Moisture",
+    "60": "Soil Temperature",
+    "40": "Ozone",
+    "45": "Ozone Temperature",
+    "46": "NO",
+    "99":"Panel",
+    "999": "Leaf Moisture"
+  },
+  "TIME_AGO": {
+  "LESS_THAN_MINUTE": "less than a minute ago",
+  "MINUTES_ONE": "{{value}} minute ago",
+  "MINUTES_OTHER": "{{value}} minutes ago",
+  "HOURS_ONE": "{{value}} hour ago",
+  "HOURS_OTHER": "{{value}} hours ago"
+  },
+  "TABLE_REG": {
+    "STATE": "State",
+    "REGION": "Region",
+    "COMUNE": "Municipality",
+    "STRADA": "Street",
+    "QUOTA": "Elevation",
+    "CONF": "Configuration",
+    "REFERENCE": "Reference",
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "EDIT": "Edit",
+    "TITLE": "Title",
+    "MU": "m.a.s.l.",
+    "SUGG_TITLE": "Enter text",
+    "SUGG_VALUE": "Enter value",
+    "NA": "Not Available"
+  },
+  "ORDER_BY_ZA": "Sort Z to A",
+  "ORDER_BY_DATE": "Sort by Date",
+  "COLLAPSE": "Collapse Stations",
+  "EXPAND": "Expand Stations",
+  "RESEARCH": "Search Station",
+  "RESEARCH_ADV": "Advanced Search"
+}

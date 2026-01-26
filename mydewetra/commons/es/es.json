@@ -1,0 +1,70 @@
+{
+  "COMMONS": {
+    "FULLSCREEN_MODE": "Modo Pantalla Completa",
+    "WINDOW_MODE": "Modo Ventana",
+    "PROFILE_IMAGE": "Imagen de perfil del usuario registrado o sus iniciales",
+    "LICENCES": "Licencias",
+    "PACKAGES": "Paquetes",
+    "CREDITS": "Créditos",
+    "TERMS_OF_USE": "Términos de uso",
+    "PRIVACY_POLICY": "Política de privacidad",
+    "TEXT_EDITOR": "Editor de Texto",
+    "LICENCES_TEXT": "El código fuente de la aplicación DEWETRA y de todas sus Obras Derivadas (MyDEWETRA, MyDEWETRA Word, y todas las aplicaciones de la suite) se publica como Open Source bajo la licencia EUPL.\nEl código integra componentes de terceros, que también se distribuyen bajo licencias open source compatibles con la licencia EUPL.\n\"En caso de conflicto entre las obligaciones del licenciatario derivadas de la licencia EUPL y las derivadas de las licencias de los componentes integrados, prevalecerán las obligaciones prescritas por la licencia compatible, conforme a la cláusula de compatibilidad.\""
+  },
+  "MENU_SIDEBAR": {
+    "non-mostrare": "No mostrar",
+    "menu-risorse": "Recursos",
+    "menu_post_evento": "Post-evento",
+    "menu-pianificazione": "Planificación",
+    "menu-planning": "Planificación",
+    "menu-monitoraggio": "Monitoreo",
+    "menu-comunicazione": "Comunicación",
+    "gestione_emergenze": "Gestión de Emergencias",
+    "admin": "Admin",
+    "null": "",
+    "CREDITS": "Créditos",
+    "DEWIKI": "Dewiki",
+    "ADMIN": "Admin"
+  },
+  "TIME_PICKER": {
+    "HOURS": "Horas",
+    "MINUTES": "Minutos",
+    "ENTER_DATE_RANGE": "Introducir un rango de fechas",
+    "START_DATE": "Fecha de Inicio",
+    "END_DATE": "Fecha de Fin",
+    "CANCEL": "Cancelar",
+    "APPLY": "Aplicar",
+    "RESTORE_TO_NOW": "Restaurar a Ahora",
+    "APPLY_CHANGES": "Aplicar Cambios",
+    "EXPAND": "Expandir",
+    "MINIMIZE": "Minimizar"
+  },
+  "TIMEBAR":{
+    "NOW": "Ahora"
+  },
+  "NOTIFICATIONS": {
+    "NOTIFICATION_SYSTEM": "Sistema de notificaciones",
+    "NO_NOTIFICATIONS_RECEIVED": "No se han recibido notificaciones"
+  },
+  "FILE_DROP": {
+    "FILE_EXCEEDS_SIZE_LIMIT": "El archivo supera el límite de tamaño permitido. Tamaño máximo permitido:"
+  },
+  "CONFIRM": {
+    "DEFAULT_TITLE": "Confirmación",
+    "DEFAULT_MESSAGE": "¿Estás seguro de que deseas continuar?",
+    "WARNING": "Advertencia",
+    "DOMAIN_CHANGED": "El dominio ha cambiado, la página se recargará.",
+    "YES": "Sí",
+    "NO": "No",
+    "OK": "Aceptar"
+  },
+  "ERRORS": {
+    "PERMISSION_DENIED": "Lo sentimos, no tienes permiso para acceder a esta plataforma.",
+    "CONTACT_FOCAL_POINT": "Por favor, contacta con tu punto focal para solicitar acceso.",
+    "UNABLE_TO_LOAD": "No se pudo conectar con el servidor. Inténtalo de nuevo más tarde.",
+    "INTERNAL_SERVER_ERROR": "Se produjo un error interno del servidor.",
+    "UNEXPECTED_ERROR": "Ocurrió un error inesperado:"
+  },
+  "NEW_VERSION_AVAILABLE": "Nueva versión disponible. ¿Quieres recargar la página ahora?"
+}
+

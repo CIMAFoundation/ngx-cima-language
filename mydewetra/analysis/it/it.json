@@ -1,0 +1,18 @@
+{
+    "ANALYSIS": {
+        "EXPECTED_CRITICALITY": "Criticità Prevista",
+        "OBSERVED_CRITICALITY": "Criticità Osservata"
+    },
+
+    "WEBALERT": {
+        "IDROGEO_RISK": "Rischio Idrogeologico",
+        "STORM_RISK": "Rischio Temporali",
+        "HYDRAULIC_RISK": "Rischio Idraulico",
+        "IDROGEO_RISK_TAB": "Tabella di contingenza per Rischio Idrogeologico",
+        "STORM_RISK_TAB": "Tabella di contingenza per Rischio Temporali",
+        "HYDRAULIC_RISK_TAB": "Tabella di contingenza per Rischio Idraulico"
+    },
+
+    "FIREALERT": {
+    }
+}
