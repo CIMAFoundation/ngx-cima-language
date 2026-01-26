@@ -1,0 +1,70 @@
+{
+  "COMMONS": {
+    "FULLSCREEN_MODE": "Mode Plein Écran",
+    "WINDOW_MODE": "Mode Fenêtre",
+    "PROFILE_IMAGE": "Image de profil de l'utilisateur enregistré  ou ses initiales",
+    "LICENCES": "Licences",
+    "PACKAGES": "Paquets",
+    "CREDITS": "Crédits",
+    "TERMS_OF_USE": "Conditions d'utilisation",
+    "PRIVACY_POLICY": "Politique de confidentialité",
+    "TEXT_EDITOR": "Éditeur de Texte",
+    "LICENCES_TEXT": "Le code source de l'application DEWETRA et de toutes ses Œuvres Dérivées (MyDEWETRA, MyDEWETRA Word, et toutes les applications de la suite) est publié en Open Source sous la licence EUPL.\nLe code intègre des composants tiers, qui sont également distribués sous des licences open source compatibles avec la licence EUPL.\n\"En cas de conflit entre les obligations du licencié découlant de la licence EUPL et celles découlant des licences des composants intégrés, les obligations prescrites par la licence compatible prévalent, conformément à la clause de compatibilité.\""
+  },
+  "MENU_SIDEBAR": {
+    "non-mostrare": "Ne pas afficher",
+    "menu-risorse": "Ressources",
+    "menu_post_evento": "Post-événement",
+    "menu-pianificazione": "Planification",
+    "menu-planning": "Planification",
+    "menu-monitoraggio": "Surveillance",
+    "menu-comunicazione": "Communication",
+    "gestione_emergenze": "Gestion des Urgences",
+    "admin": "Admin",
+    "null": "",
+    "CREDITS": "Crédits",
+    "DEWIKI": "Dewiki",
+    "ADMIN": "Admin"
+  },
+  "TIME_PICKER": {
+    "HOURS": "Heures",
+    "MINUTES": "Minutes",
+    "ENTER_DATE_RANGE": "Entrer une plage de dates",
+    "START_DATE": "Date de Début",
+    "END_DATE": "Date de Fin",
+    "CANCEL": "Annuler",
+    "APPLY": "Appliquer",
+    "RESTORE_TO_NOW": "Restaurer à Maintenant",
+    "APPLY_CHANGES": "Appliquer les Changements",
+    "EXPAND": "Développer",
+    "MINIMIZE": "Minimiser"
+  },
+  "TIMEBAR":{
+    "NOW": "Maintenant"
+  },
+  "NOTIFICATIONS": {
+    "NOTIFICATION_SYSTEM": "Système de notifications",
+    "NO_NOTIFICATIONS_RECEIVED": "Aucune notification reçue"
+  },
+  "FILE_DROP": {
+    "FILE_EXCEEDS_SIZE_LIMIT": "Le fichier dépasse la taille maximale autorisée. Taille maximale autorisée :"
+  },
+  "CONFIRM": {
+    "DEFAULT_TITLE": "Confirmation",
+    "DEFAULT_MESSAGE": "Êtes-vous sûr de vouloir continuer ?",
+    "WARNING": "Attention",
+    "DOMAIN_CHANGED": "Le domaine a changé, la page va être rechargée.",
+    "YES": "Oui",
+    "NO": "Non",
+    "OK": "OK"
+  },
+  "ERRORS": {
+    "PERMISSION_DENIED": "Désolé, vous n'avez pas l'autorisation d'accéder à cette plateforme.",
+    "CONTACT_FOCAL_POINT": "Veuillez contacter votre point focal pour demander l'accès.",
+    "UNABLE_TO_LOAD": "Impossible de se connecter au serveur. Veuillez réessayer plus tard.",
+    "INTERNAL_SERVER_ERROR": "Une erreur interne du serveur est survenue.",
+    "UNEXPECTED_ERROR": "Une erreur inattendue est survenue :"
+  },
+  "NEW_VERSION_AVAILABLE": "Nouvelle version disponible. Voulez-vous recharger la page maintenant ?"
+}
+

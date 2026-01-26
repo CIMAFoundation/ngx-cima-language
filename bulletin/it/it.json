@@ -1,0 +1,154 @@
+{
+    "ACROWEB": {
+        "CANCEL": "Annulla",
+        "DO_LOGIN": "Effettua il login",
+        "LOGIN": "Login",
+        "LOGOUT": "Logout",
+        "USERNAME_OR_PASSWORD_ERROR": "Nome Utente o Password errati"
+    },
+    "BULLETIN_LIST": {
+        "HEADER": {
+            "CREATION_DATE": "Data Creazione",
+            "ID": "ID",
+            "LAST_MODIFIED": "Ultima Modifica",
+            "PUBLISHED": "Pubblicato",
+            "STATUS": "Stato",
+            "VALIDITY": "Validità",
+            "ACTIONS": "Azioni"
+        },
+        "OPEN": "Aperto",
+        "TOTAL": "Totale",
+        "ROW": {
+            "CLOSE": "Chiudi",
+            "DELETE": "Elimina",
+            "CLOSED": "Chiuso",
+            "DOWNLOAD_PDF": "Scarica PDF",
+            "EDIT": "Modifica",
+            "NOT_PUBLISHED": "Non Pubblicato",
+            "OPEN": "Aperto",
+            "PUBLISH": "Pubblica",
+            "UNPUBLISH": "Depubblica",
+            "PUBLISHED": "Pubblicato",
+            "UPDATE": "Aggiorna",
+            "CLONE": "Clona",
+          "CLOSE_FLAG_TITLE": "Avviso di Chiusura Bollettino",
+          "CLOSE_FLAG_MESSAGE": "Sei sicuro di voler chiudere il bollettino? Non tutti i concorrenti hanno finito di modificare."
+        }
+    },
+    "COMMON": {
+        "CREATE_PDF": "Genera PDF",
+        "GENERATING_PDF": "GENERAZIONE PDF IN CORSO",
+        "DOWNLOADING_PDF": "DOWNLOAD PDF IN CORSO",
+        "LOADING": "Caricamento",
+        "TRY_CHANGE_ROLE": "Prova a cambiare ruolo",
+        "USER_NOT_ENABLED": "Utente non abilitato",
+        "PAGE_LOCKED": "sta editando questo bollettino",
+        "PAGE_WAIT": "In attesa di poter editare",
+        "PAGE_IDLE": "Utente inattivo",
+        "CREATING": "Inizializzazione del bollettino in corso",
+        "CLONING": "Duplicazione del bollettino in corso",
+        "DELETING": "Eliminazione del bollettino in corso",
+        "CLOSING": "Chiusura del bollettino in corso",
+        "PUBLISHING": "Pubblicazione del bollettino in corso",
+        "UNPUBLISHING": "Depubblicazione del bollettino in corso",
+        "ERROR": "Errore nella operazione",
+        "CLOSING_MODAL_TITLE": "Conferma chiusura",
+        "CLOSING_MODAL_MESSAGE": "Vuoi chiudere il bollettino?",
+        "DELETE_MODAL_TITLE": "Conferma eliminazione",
+        "DELETE_MODAL_MESSAGE": "Vuoi eliminare il bollettino?",
+        "INFORMATIONS": "Informazioni",
+        "MOBILE_MSG": "QUESTA APPLICAZIONE NON è OTTIMIZZATA <br> PER L'UTILIZZO MOBILE",
+        "CONFIRM": "ok",
+        "CANCEL": "annulla",
+        "BACK": "indietro"
+    },
+    "LANGUAGE_BAR": {
+        "MASTER_LANGUAGE": "Lingua Sorgente",
+        "AUTO_TRANSLATION_ON": "Traduzione automatica: ON",
+        "AUTO_TRANSLATION_TURN_ON": "ATTIVA",
+        "AUTO_TRANSLATION_OFF": "Traduzione automatica: OFF",
+        "AUTO_TRANSLATION_WARNING": "Attivare la traduzione automatica? Tutte le modifiche andranno perse."
+    },
+    "COMPILER": {
+        "AUTOSAVE_DIALOG": " Il sistema salva automaticamente ogni modifica apportata al documento.",
+        "AUTOSAVE_MESSAGE": "Salvataggio Automatico",
+        "GO_BACK": "Torna indietro",
+        "HIDE_PREVIEW": "Nascondi Anteprima",
+        "HOME": "Home",
+        "SHOW_PREVIEW": "Mostra Anteprima",
+        "VALIDITY_DATE": "Data di validità",
+        "VALIDITY_DATES": "Date di validità",
+        "END_SESSION": "Termina Sessione",
+        "END_SESSION_MODAL_TITLE": "Conferma fine sessione",
+        "END_SESSION_MODAL_MESSAGE": "Vuoi terminare la sessione?"
+    },
+    "COMPONENTS": {
+        "MULTI_OPTIONS": {
+            "SAVE": "Salva",
+            "CANCEL": "Annulla",
+            "ADD": "Aggiungi",
+            "NEW_OPTION": "Nuova Opzione",
+            "CLOSE_SETTINGS": "Chiudi",
+            "PATTERN_ERROR": "Valore inserito non valido"
+        }
+    },
+    "DYNAMIC": {
+        "GEOJSON_MAP_EDITOR": {
+            "CHOOSE_LAYER": "Scegli Layer",
+            "DELETE": "Elimina",
+            "DOWNLOAD": "Scarica",
+            "DISCARD_CHANGES": "Annulla modifiche",
+            "ADD": "Aggiungi Punto",
+            "DRAG": "Sposta",
+            "DRAW": "Disegna",
+            "EDIT": "Modifica",
+            "LAYER_LIST": "Lista Layer",
+            "SAVE": "Salva Modifiche",
+            "ERROR_DROP_TITLE": "Drop file: errore",
+            "ERROR_DROP_SHAPE_FORMAT": "Shapefile non valido",
+            "ERROR_DROP_JSON_FORMAT": "Formato file json non valido",
+            "ERROR_DROP_ONE_FILE": "Carica solo uno shapefile",
+            "ERROR_DROP_FILE_EMPTY": "Il file caricato non esiste o è vuoto"
+        },
+        "MULTIRISK_MAP_SET": {
+            "FORECAST_FOR": "Situazione prevista per"
+        },
+        "MULTISELECT_TEXT": {
+            "OPEN_SETTINGS": "Opzioni",
+            "CLOSE_SETTINGS": "Chiudi",
+            "SAVE": "Salva"
+        },
+        "DATAPOINTS_TABLE": {
+            "NAME": "Nome",
+            "DATE": "Data",
+            "TIME": "Ora",
+            "CLEAR": "Cancella"
+        },
+        "DATETEXT": {
+            "SET_NOW": "Aggiorna",
+            "AUTO_SET_NOW": "Aggiornamento automatico"
+        },
+        "EMAIL_RECIPIENTS_EDITOR": {
+            "NEW_ADDRESS": "Nuovo indirizzo email"
+        },
+        "SMS_RECIPIENTS_EDITOR": {
+            "NEW_NUMBER": "Nuovo numero di telefono"
+        },
+        "MAPSET": {
+            "SELECTION_MODE": {
+                "SINGLE": "Selezione singola",
+                "POLYGON": "Selezione poligonale",
+                "RECTANGLE": "Selezione rettangolare"
+            }
+        }
+    },
+    "HEADER": {
+        "VERSION": "Versione"
+    },
+    "HOME": {
+        "DOCUMENT_TYPE": "Tipologia documento",
+        "NEW_BULLETIN": "Nuovo",
+        "DIALOG_CANCEL": "Annulla",
+        "DIALOG_CONFIRM": "Ok"
+    }
+}

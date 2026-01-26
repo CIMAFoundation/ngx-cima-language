@@ -1,0 +1,40 @@
+{
+    "HOME": {
+        "HOME": "Home",
+        "L_ADMINISTRATION": "Amministrazione",
+        "B_ADD_QUESTION": "Aggiungi domanda"
+    },
+    "ANSWERDIALOG": {
+        "L_EDITOR": "Editor risposte",
+        "L_NEW": "Nuova risposta",
+        "L_TITLE": "Titolo",
+        "L_VIDEO_URL": "https://player.vimeo.com/video/123456789",
+        "B_CANCEL": "Annulla",
+        "B_SAVE": "Salva",
+        "B_DELETE": "Elimina",
+        "B_UPDATE": "Aggiorna"
+    },
+    "QUESTIONDIALOG": {
+        "L_EDITOR": "Editor domande",
+        "L_NEW": "Nuova domanda",
+        "L_APPLICATIONS": "Applicazioni",
+        "L_TITLE": "Titolo",
+        "L_VIDEO_URL": "https://player.vimeo.com/video/123456789",
+        "B_CANCEL": "Annulla",
+        "B_SAVE": "Salva",
+        "B_DELETE": "Elimina",
+        "B_UPDATE": "Aggiorna"
+    },
+    "QUESTIONLIST": {
+        "L_SEARCH_QUESTION": "Cerca domanda o applicazione"   
+     },
+    "PAGES": {
+        "QUESTION": {
+            "L_SEARCH_QUESTION": "Cerca domanda o applicazione",
+            "L_APPLICATIONS": "Applicazioni",
+            "L_TITLE_ID": "ID Titolo",
+            "L_LANGUAGES": "Lingue",
+            "L_ACTIONS": "Azioni"
+        }
+    }
+}

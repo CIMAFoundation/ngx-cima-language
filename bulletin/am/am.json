@@ -1,0 +1,148 @@
+{
+	"ACROWEB": {
+		"CANCEL": "ይቅር",
+		"DO_LOGIN": "ግባ",
+		"LOGIN": "ግባ",
+		"LOGOUT": "ውጣ",
+		"USERNAME_OR_PASSWORD_ERROR": "የተሳሳተ የተጠቃሚ ስም ወይም የይለፍ ቃል።"
+	},
+	"BULLETIN_LIST": {
+		"HEADER": {
+			"CREATION_DATE": "የተፈጠረበት ቀን",
+			"ID": "መታወቂያ",
+			"LAST_MODIFIED": "በመጨረሻ የተሻሻለው",
+			"PUBLISHED": "ታትሟል",
+			"STATUS": "ሁኔታ",
+			"VALIDITY": "ትክክለኝነት",
+			"ACTIONS": "እርምጃዎች"
+		},
+		"OPEN": "ክፈት",
+		"TOTAL": "ընդհանուր",
+		"ROW": {
+			"CLOSE": "ዝጋ",
+			"DELETE": "ሰርዝ",
+			"CLOSED": "ተዘግቷል",
+			"DOWNLOAD_PDF": "ፒዲኤፍ አውርድ",
+			"EDIT": "አሻሽል",
+			"NOT_PUBLISHED": "አልታተመም",
+			"OPEN": "ክፈት",
+			"PUBLISH": "አትም",
+			"UNPUBLISH": "አታትም",
+			"PUBLISHED": "ታትሟል",
+			"UPDATE": "አዘምን",
+			"CLONE": "ክሎን።",
+      "CLOSE_FLAG_TITLE": "የማስታወቂያ ዝጋታ ማስጠንቀቂያ",
+      "CLOSE_FLAG_MESSAGE": "ማስታወቂያን መዝጋት እርግጠኛ ነህ? ሁሉም ተወዳዳሪዎች ማስታወቂያውን ለመሻሻል አልጨረሱም።"
+		}
+	},
+	"COMMON": {
+		"CREATE_PDF": "ፒዲኤፍ ፍጠር",
+		"GENERATING_PDF": "ፒዲኤፍ በማፍለቅ ላይ",
+		"DOWNLOADING_PDF": "ፒዲኤፍ በማውረድ ላይ",
+		"LOADING": "በመጫን ላይ",
+		"TRY_CHANGE_ROLE": "ሚና ለመቀየር ሞክር",
+		"USER_NOT_ENABLED": "ተጠቃሚ አልነቃም",
+		"PAGE_LOCKED": " ይህን ማስታወቂያ በማርተዕ ላይ",
+		"PAGE_WAIT": "ለማርተዕ ፈቃድ በመጠበቅ ላይ",
+		"PAGE_IDLE": "ሥራ የፈታ ተጠቃሚ",
+		"CREATING": "ማስታወቂያ በማስጀመር ላይ",
+		"CLONING": "የማስታወቂያ መሰል በመፍጠር ላይ",
+		"DELETING": "ማስታወቂያ በመሰረዝ ላይ...",
+		"CLOSING": "ማስታወቂያ በመዝጋት ላይ",
+		"PUBLISHING": "ማስታወቂያ በማተም ላይ",
+		"UNPUBLISHING": "ማስታወቂያ እንዳይታተም በማድረግ ላይ",
+		"ERROR": "በወቅታዊ ክንውን ላይ ስህተት",
+		"CLOSING_MODAL_TITLE": "መዝጋትን አራጋግጥ",
+		"CLOSING_MODAL_MESSAGE": "ማስታወቂያን በእርግጠኝነት መዝጋት ይፈልጋሉ?",
+		"DELETE_MODAL_TITLE": "መሰረዝን አረጋግጥ",
+		"DELETE_MODAL_MESSAGE": "ማስታወቂያን መሰረዝ ይፈልጋሉ?",
+		"INFORMATIONS": "መረጃዎች",
+		"MOBILE_MSG": "ይህ ማመልከቻ ለሞባይል አጠቃቀም አይመችም",
+		"CONFIRM": "እሺ",
+		"CANCEL": "ይቅር",
+		"BACK": "ተመለስ"
+	},
+	"LANGUAGE_BAR": {
+		"MASTER_LANGUAGE": "ምንጭ",
+		"AUTO_TRANSLATION_ON": "ራስ-ትርጉም: በርቷል",
+		"AUTO_TRANSLATION_TURN_ON": "ማዞር",
+		"AUTO_TRANSLATION_OFF": "ራስ-ትርጉም: ጠፍቷል",
+		"AUTO_TRANSLATION_WARNING": "ራስ-ትርጉምዎን ያብሩ?ሁሉም ለውጦች ይጠፋሉ."
+	},
+	"COMPONENTS": {
+		"MULTI_OPTIONS": {
+			"SAVE": "አስቀምጥ",
+			"CANCEL": "ይቅር",
+			"ADD": "አክል",
+			"NEW_OPTION": "አዲስ ምርጫ",
+			"CLOSE_SETTINGS": "ማሰናጃዎችን ዝጋ",
+			"PATTERN_ERROR": "Input value not valid"
+		}
+	},
+	"COMPILER": {
+		"AUTOSAVE_DIALOG": "ሥርዓቱ በሰነዱ ላይ ማንኛውንም ለውጦች በራስሰር ያስቀምጣል",
+		"AUTOSAVE_MESSAGE": "በራስሰር አስቀምጥ",
+		"GO_BACK": "ወደኋላ ተመለስ",
+		"HIDE_PREVIEW": "ቅድመ ዕይታን ደብቅ",
+		"HOME": "መነሻ",
+		"SHOW_PREVIEW": "ቅድመ ዕይታን አሳይ",
+		"VALIDITY_DATE": "ትክክለኛ ቀን",
+		"VALIDITY_DATES": "ትክክለኛ ቀኖች",
+		"END_SESSION": "የመጨረሻ ክፍለ ጊዜ",
+		"END_SESSION_MODAL_TITLE": "የማረጋገጫ ክፍለ ጊዜ ማብቂያ",
+		"END_SESSION_MODAL_MESSAGE": "ክፍለ ጊዜውን ማቆም ይፈልጋሉ?"
+	},
+	"DYNAMIC": {
+		"GEOJSON_MAP_EDITOR": {
+			"CHOOSE_LAYER": "ንብርብር ምረጥ",
+			"DELETE": "ሰርዝ",
+			"DOWNLOAD": "Download",
+			"DISCARD_CHANGES": "ለውጦችን አስወግድ",
+			"ADD": "ነጥብ ያክሉ",
+			"DRAG": "ጎትት",
+			"DRAW": "ሳል",
+			"EDIT": "አርትዕ",
+			"LAYER_LIST": "ንብርብር ዝርዝር",
+			"SAVE": "አርትዖችን አስቀምጥ"
+		},
+		"ERROR_DROP_TITLE": "የፋይል ስህተት",
+		"ERROR_DROP_SHAPE_FORMAT": "የርዕሰ-አልባ ቅርጸት ትክክለኛ አይደለም",
+		"ERROR_DROP_JSON_FORMAT": "የጄሰን ፋይል ቅርጸት ትክክለኛ አይደለም",
+		"ERROR_DROP_ONE_FILE": "አንድ የግርጌ ማስታወሻ ብቻ ይስቀሉ",
+		"ERROR_DROP_FILE_EMPTY": "የተሸጠው ፋይል የለም ወይም ባዶ ነው",
+		"MULTISELECT_TEXT": {
+			"OPEN_SETTINGS": "ምርጫዎች",
+			"SAVE": "አስቀምጥ",
+			"CLOSE_SETTINGS": "ዝጋ"
+		},
+		"DATAPOINTS_TABLE": {
+			"NAME": "ስም",
+			"DATE": "ቀን",
+			"TIME": "ጊዜ",
+			"CLEAR": "አጽዳ"
+		},
+		"DATETEXT": {
+			"SET_NOW": "አሁን አዘጋጅ",
+			"AUTO_SET_NOW": "ራስ-ሰር ዝመና"
+		},
+		"EMAIL_RECIPIENTS_EDITOR": {
+			"NEW_ADDRESS": "አዲስ የኢ-ሜይል አድራሻ"
+		},
+		"MAPSET": {
+			"SELECTION_MODE": {
+				"SINGLE": "ነጠላ ምርጫ",
+				"POLYGON": "ፖሊጎን ምርጫ",
+				"RECTANGLE": "አራት ማእዘን ምርጫ"
+			}
+		}
+	},
+	"HEADER": {
+		"VERSION": "ሥሪት"
+	},
+	"HOME": {
+		"DOCUMENT_TYPE": "የሰነድ ዓይነት",
+		"NEW_BULLETIN": "አዲስ",
+		"DIALOG_CANCEL": "ይቅር",
+		"DIALOG_CONFIRM": "እሺ"
+	}
+}

@@ -1,0 +1,916 @@
+{
+
+  "DRAW": {
+    "TOOLBAR": {
+      "ACTIONS": {
+        "TITLE": "Annulla disegno",
+        "TEXT": "Annulla"
+      },
+      "FINISH": {
+        "TITLE": "Termina disegno",
+        "TEXT": "Termina"
+      },
+      "UNDO": {
+        "TITLE": "Annulla ultimo punto",
+        "TEXT": "Annulla"
+      },
+      "BUTTONS": {
+        "POLYLINE": "Disegna una linea",
+        "POLYGON": "Disegna un poligono",
+        "RECTANGLE": "Disegna un rettangolo",
+        "CIRCLE": "Disegna un cerchio",
+        "MARKER": "Aggiungi un marcatore",
+        "CIRCLEMARKER": "Aggiungi un marcatore circolare"
+      }
+    },
+    "HANDLERS": {
+      "CIRCLE": {
+        "TOOLTIP": {
+          "START": "Clicca e trascina per disegnare un cerchio."
+        },
+        "RADIUS": "Raggio"
+      },
+      "MARKER": {
+        "TOOLTIP": {
+          "START": "Clicca sulla mappa per piazzare un marcatore."
+        }
+      },
+      "POLYGON": {
+        "TOOLTIP": {
+          "START": "Clicca per iniziare a disegnare una forma.",
+          "CONT": "Clicca per continuare a disegnare.",
+          "END": "Clicca sul primo punto per chiudere il poligono."
+        }
+      },
+      "POLYLINE": {
+        "TOOLTIP": {
+          "START": "Clicca per iniziare una linea.",
+          "CONT": "Clicca per continuare la linea.",
+          "END": "Clicca sull'ultimo punto per terminare la linea."
+        }
+      },
+      "RECTANGLE": {
+        "TOOLTIP": {
+          "START": "Clicca e trascina per disegnare un rettangolo."
+        }
+      },
+      "CIRCLEMARKER": {
+        "TOOLTIP": {
+          "START": "Clicca sulla mappa per piazzare un marcatore circolare."
+        }
+      }
+    }
+  },
+  "EDIT": {
+    "TOOLBAR": {
+      "ACTIONS": {
+        "SAVE": {
+          "TITLE": "Salva modifiche",
+          "TEXT": "Salva"
+        },
+        "CANCEL": {
+          "TITLE": "Annulla modifiche",
+          "TEXT": "Annulla"
+        },
+        "CLEARALL": {
+          "TITLE": "Rimuovi tutte le forme",
+          "TEXT": "Cancella tutto"
+        }
+      },
+      "BUTTONS": {
+        "EDIT": "Modifica forme",
+        "EDITDISABLED": "Nessuna forma da modificare",
+        "REMOVE": "Cancella forme",
+        "REMOVEDISABLED": "Nessuna forma da cancellare"
+      }
+    },
+    "HANDLERS": {
+      "EDIT": {
+        "TOOLTIP": {
+          "TEXT": "Trascina i nodi o le forme per modificare.",
+          "SUBTEXT": "Clicca su \"Salva\" quando hai finito."
+        }
+      },
+      "REMOVE": {
+        "TOOLTIP": {
+          "TEXT": "Clicca su una forma per rimuoverla."
+        }
+      }
+    }
+  },
+
+  "common_command": {
+    "loading_data": "Caricamento dei dati in corso...",
+    "data_loaded": "Dati pronti...",
+    "btn_edit": "Modifica",
+    "btn_save": "Salva",
+    "btn_save_close": "Salva e Chiudi",
+    "btn_cancel": "Annulla",
+    "btn_close": "Chiudi",
+    "btn_close_edit": "Chiudi modalità modifica",
+    "btn_apply": "Applica",
+    "btn_back": "Indietro",
+    "btn_download": "Scarica",
+    "btn_agree": "Accetto",
+    "select_value": "-- Seleziona valore --",
+    "warning_date_range": "Attenzione, l'intervallo di date sembra non essere valido",
+    "yes": "Si",
+    "no": "No",
+    "reset_filter": "Resetta filtri"
+  },
+
+  "common_service_errors": {
+    "domain": "Errore nel caricamento dei DOMINI",
+    "province": "Errore nel caricamento delle PROVINCE",
+    "municipality": "Errore nel caricamento dei COMUNI",
+    "river_basin": "Errore nel caricamento dei BACINI IDROGRAFICI",
+    "river_basin_district": "Errore nel caricamento dei DISTRETTI IDROGRAFICI",
+    "mechanisms_of_flooding": "Errore nel caricamento dei MECCANISMI DELLA PIENA",
+    "source_of_flooding": "Errore nel caricamento delle ORIGINI DELLA PIENA",
+    "categories_of_flooding": "Errore nel caricamento delle CATEGORIE DELLA PIENA",
+    "units_of_management": "Errore nel caricamento delle UNITA' DI GESTIONE",
+    "units_of_management_mine": "Errore nel caricamento delle UNITA' DI GESTIONE (PROFILO UTENTE)",
+    "characteristics_of_flooding": "Errore nel caricamento delle CARATTERISTICHE DELLA PIENA",
+    "referent_event_subjects": "Errore nel caricamento dei SOGGETTI DI RIFERIMENTO DELL'EVENTO",
+    "phenomenon_reference_subjects": "Errore nel caricamento dei SOGGETTI DI RIFERIMENTO DEL FENOMENO",
+    "categories_of_damage": "Errore nel caricamento delle CATEGORIE DEI DANNI",
+    "subcategories_of_damage": "Errore nel caricamento delle SOTTOCATEGORIE DEI DANNI",
+    "units_of_measure": "Errore nel caricamento delle UNITA' DI MISURA"
+  },
+
+  "toolbar": {
+    "add_event": "Nuovo evento",
+    "date_range": "Intervallo date",
+    "start_date": "Data inizio",
+    "end_date": "Data fine",
+    "adv_search": "Ricerca avanzata",
+    "search": "Cerca",
+    "report": "Tabella di Riepilogo",
+    "reporting": "Reporting",
+    "geo_search": "Ricerca geografica",
+    "help_btn": "Note compilazione",
+    "svalidation_request": "Richieste di svalidazione",
+    "download_dpc": "Esportazione eventi"
+  },
+
+  "help_document": {
+    "title": "NOTE COMPILAZIONE DEL CATALOGO",
+    "guide": "Guida completa",
+    "event": "NOTE compilazione EVENTI",
+    "pheno": "NOTE compilazione FENOMENI",
+    "damages": "NOTE compilazione DANNI",
+    "link_event": "Note compilazione EVENTO",
+    "link_pheno": "Note compilazione FENOMENO",
+    "link_damage": "Note compilazione DANNI"
+  },
+
+  "validation_process": {
+    "title": "VALIDAZIONE EVENTO:",
+    "validation_run": "Validazione in corso...",
+    "validation_ok": "VALIDAZIONE EFFETTUATA",
+    "warnings": "Avvisi",
+    "no_warnings": "Nessun avviso da visualizzare",
+    "errors": "Errori",
+    "no_errors": "Nessun errore da visualizzare",
+    "validation_error": "Errore durante la validazione dell'evento: ",
+    "validation_error": "Errore durante la validazione dell'evento: ",
+    "invalidation_label": "SVALIDA",
+    "invalidation_title": "SVALIDAZIONE EVENTO",
+    "invalidation_confirm_msg": "Confermando l'evento sarà svalidato per consentire le necessarie modifiche. Procedere?",
+
+    "svalidation_ok": "Richiesta di svalidazione evento inviata con successo!",
+    "svalidation_ko": "Errore durante l'invio della richiesta: ",
+    "svalidation_set": "Richiesta di svalidazione già presente",
+    "svalidation_waiting": "Richiesta di svalidazione in attesa di elaborazione"
+  },
+
+  "svalidation_request": {
+    "title": "RICHIESTE DI SVALIDAZIONE",
+    "total": "Richieste totali",
+    "request_date": "Data richiesta",
+    "event_user": "Utente",
+    "request_process": "Data elaborazione",
+    "status": "Status",
+    "error": "Errore nel caricamento dei dati",
+
+    "event_label": "Evento",
+    "event_code": "Codice evento",
+    "event_date": "Data evento",
+    "event_uom": "UOM",
+    "event_origin": "Origine",
+    "event_invalidated": "Evento svalidato con successo",
+    "request_user": "Utente",
+    "request_confirm": "AUTORIZZA",
+    "request_nodata": "Nessuna richiesta presente",
+    "request_description": "Motivazione",
+    "request_sent": "Richiesta inviata con successo",
+    "request_auth_date": "Data autorizzazione",
+    "request_invalidation_date": "Data svalidazione",
+    "request_pending": "In attesa",
+    "request_completed": "Completi"
+  },
+
+  "reporting": {
+    "title": "Reporting",
+    "model_label": "Modelli disponibili",
+    "uom_label": "Unità di gestione",
+    "mdb_data": "Flood directive schema - mdb",
+    "xml_data": "Flood directive schema - xml",
+    "creating_data": "Preparazione dei dati in corso",
+    "success_download": "Download in corso ...",
+    "error_loading": "Errore nel download: potrebbero non esserci eventi validati con il filtro impostato",
+    "error_template": "Attenzione, selezionare il modello di esportazione"
+  },
+
+  "adv_search": {
+    "title": "Ricerca avanzata",
+    "date_range": "Intervallo date",
+    "start_date": "Data inizio",
+    "end_date": "Data fine",
+    "filter": "Area di interesse",
+    "no_filter": "Nessun filtro",
+    "cath": "Bacini idrografici",
+    "bound": "Confini amministrativi",
+    "domains": "Domini",
+    "domain": "Autorità Competenti",
+    "uom": "Unità di gestione",
+    "rbd": "Autorità di Bacino Distrettuale",
+    "river_basin": "Bacino idrografico",
+    "region": "Regione",
+    "district": "Provincia",
+    "municipality": "Comune",
+    "source_of_flooding": "Origine alluvione",
+    "event_type": "Tipologia di evento",
+    "event_type_opt_2": "Eventi senza danni",
+    "event_type_opt_3": "Eventi con almeno un danno",
+    "event_category": "Categoria",
+    "validation_title": "Stato validazione",
+    "validation": "Eventi validati",
+    "no_validation": "Eventi non validati",
+    "free_text": "Ricerca libera (Codice evento, Nome evento)",
+    "catchment_search": "Ricerca bacino idrografico"
+  },
+
+  "mechanisms_of_flooding": {
+    "LBL_MEC_FLOOD_COD_A21": "Superamento della capacità di contenimento naturale",
+    "LBL_MEC_FLOOD_COD_A22": "Superamento della capacità di contenimento delle opere di difesa",
+    "LBL_MEC_FLOOD_COD_A23": "Cedimenti/collassi/malfunzionamenti delle opere di difesa",
+    "LBL_MEC_FLOOD_COD_A24": "Rigurgiti conseguenti a ostruzione/restringimento naturale o artificiale della sezione di deflusso",
+    "LBL_MEC_FLOOD_COD_A25": "Altro meccanismo",
+    "LBL_MEC_FLOOD_COD_A26": "Nessun dato disponibile sui meccanismi dell'inondazione",
+    "LBL_MEC_FLOOD_COD_A27": "Meccanismo di inondazione incerto",
+    "LBL_MEC_FLOOD_COD_A21_EXT": "Inondazione di aree per superamento della capacità di contenimento dell'alveo o per superamento del livello delle aree a esso adiacenti",
+    "LBL_MEC_FLOOD_COD_A22_EXT": "Inondazione di aree dovuta a sormonto delle opere di difesa dalle alluvioni",
+    "LBL_MEC_FLOOD_COD_A23_EXT": "Inondazione di aree dovuta a rottura delle opere/infrastrutture di difesa naturali o artificiali (inclusi, ad es., rotture arginali, mancato funzionamento di impianti di pompaggio o paratoie)",
+    "LBL_MEC_FLOOD_COD_A24_EXT": "Inondazione di aree dovuta a ostruzioni/restringimenti naturali o artificiali (inclusi, ad es., insufficienza del reticolo fognario, ostruzione tra le pile dei ponti, luci insufficienti dei ponti, mancato contenimento delle acque in canali sotterranei/tombature, ostruzioni dell'alveo dovute blocchi di ghiaccio o a frane)",
+    "LBL_MEC_FLOOD_COD_A25_EXT": "Inondazione di aree dovuta ad altri meccanismi, quali, ad es., il vento",
+    "LBL_MEC_FLOOD_COD_A26_EXT": "Nessun dato disponibile sui meccanismi dell'inondazione",
+    "LBL_MEC_FLOOD_COD_A27_EXT": "Incertezze sul meccanismo dell'inondazione"
+  },
+
+  "source_of_flooding": {
+    "LBL_SRC_FLOOD_COD_A11": "Fluviale",
+    "LBL_SRC_FLOOD_COD_A12": "Pluviale",
+    "LBL_SRC_FLOOD_COD_A13": "Da acque sotterranee",
+    "LBL_SRC_FLOOD_COD_A14": "Marina",
+    "LBL_SRC_FLOOD_COD_A15": "Inondazione/allagamento da insufficienza delle infrastrutture di collettamento",
+    "LBL_SRC_FLOOD_COD_A16": "Altro",
+    "LBL_SRC_FLOOD_COD_A17": "Nessun dato disponibile (solo per eventi precedenti al 22/12/2011)",
+    "LBL_SRC_FLOOD_COD_A18": "Origine dell'inondazione incerta",
+
+    "LBL_SRC_FLOOD_COD_A11_EXT": "Alluvione dovuta all'esondazione delle acque del reticolo idrografico (fiumi, torrenti, canali di drenaggio, corsi d'acqua effimeri, laghi e alluvioni causate da fusione nivale)",
+    "LBL_SRC_FLOOD_COD_A12_EXT": "Allagamento provocato direttamente dalle acque di pioggia. Include nubifragi, ruscellamento superficiale o ristagno per superamento delle capacità di drenaggio in ambiente rurale, anche a seguito di scioglimento nivale",
+    "LBL_SRC_FLOOD_COD_A13_EXT": "Inondazione per risalita in superficie di acque sotterranee (emersione delle acque di falda)",
+    "LBL_SRC_FLOOD_COD_A14_EXT": "Inondazione marina delle aree costiere (maree, mareggiate): Alluvione dovuta alle acque provenienti dal mare, estuari e laghi costieri, incluse maree e/o mareggiate",
+    "LBL_SRC_FLOOD_COD_A15_EXT": "Inondazione provocata dal malfunzionamento dei sistemi artificiali di drenaggio, canalizzazione, invaso, difesa",
+    "LBL_SRC_FLOOD_COD_A16_EXT": "Inondazione dovute a origini diverse (tra cui tsunami)",
+    "LBL_SRC_FLOOD_COD_A17_EXT": "Nessun dato disponibile (solo per eventi precedenti al 22/12/2011)",
+    "LBL_SRC_FLOOD_COD_A18_EXT": "Origine dell'inondazione incerta"
+  },
+
+  "category_of_flooding": {
+    "LBL_CAT_FLOOD_PAST": "Eventi del passato - Tipo 4.2 (b)",
+    "LBL_CAT_FLOOD_PAST_1": "Eventi del passato - tipo 4.2 (c)",
+    "LBL_CAT_FLOOD_FUTURE": "Potenziale evento futuro"
+  },
+
+  "characteristics_of_flooding": {
+    "LBL_CHAR_FLOOD_COD_A31": "Piena rapida e improvvisa o repentina (Flash flood)",
+    "LBL_CHAR_FLOOD_COD_A32": "Alluvione da fusione nivale",
+    "LBL_CHAR_FLOOD_COD_A33": "Piena con tempi rapidi di propagazione in alveo diverse dalle flash flood",
+    "LBL_CHAR_FLOOD_COD_A34": "Piena con tempi medi di propagazione in alveo rispetto alle flash flood",
+    "LBL_CHAR_FLOOD_COD_A35": "Piena con tempi lunghi di propagazione in alveo",
+    "LBL_CHAR_FLOOD_COD_A36": "Colata detritica",
+    "LBL_CHAR_FLOOD_COD_A37": "Alluvione caratterizzata da elevata velocità di propagazione nelle aree inondate",
+    "LBL_CHAR_FLOOD_COD_A38": "Alluvione caratterizzata da elevati battenti idrici nelle aree inondate",
+    "LBL_CHAR_FLOOD_COD_A39": "Altri tipi di caratteristiche o nessuno speciale tipo di caratteristica",
+    "LBL_CHAR_FLOOD_COD_A40": "Nessun dato disponibile sulle caratteristiche dell'inondazione",
+    "LBL_CHAR_FLOOD_COD_A41": "Caratteristiche dell'inondazione incerte",
+
+    "LBL_CHAR_FLOOD_COD_A31_EXT": "Piena che si sviluppa ed evolve rapidamente e caratterizzata da tempo di preavviso limitato o nullo, solitamente associata a precipitazioni intense su un'area relativamente ristretta",
+    "LBL_CHAR_FLOOD_COD_A32_EXT": "Alluvione dovuta al rapido scioglimento delle nevi, eventualmente in combinazione con pioggia o ostruzioni dovute a blocchi di ghiaccio",
+    "LBL_CHAR_FLOOD_COD_A33_EXT": "Piena con tempi rapidi di propagazione in alveo diverse dalle flash flood",
+    "LBL_CHAR_FLOOD_COD_A34_EXT": "Piena con tempi medi di propagazione in alveo rispetto alle flash flood",
+    "LBL_CHAR_FLOOD_COD_A35_EXT": "Piena con tempi lunghi di propagazione in alveo",
+    "LBL_CHAR_FLOOD_COD_A36_EXT": "Colata detritica",
+    "LBL_CHAR_FLOOD_COD_A37_EXT": "Alluvione caratterizzata da elevata velocità di propagazione nelle aree inondate",
+    "LBL_CHAR_FLOOD_COD_A38_EXT": "Alluvione caratterizzata da elevati battenti idrici nelle aree inondate",
+    "LBL_CHAR_FLOOD_COD_A39_EXT": "Altri tipi di caratteristiche o nessuno speciale tipo di caratteristica",
+    "LBL_CHAR_FLOOD_COD_A40_EXT": "Nessun dato disponibile sulle caratteristiche dell'inondazione",
+    "LBL_CHAR_FLOOD_COD_A41_EXT": "Caratteristiche dell'inondazione incerte"
+  },
+
+  "flood_event_reference_subjects": {
+    "LBL_FLOODDATA_1": "CATEGORIA (categoryOfFlood)",
+    "LBL_FLOODDATA_2": "DATA INIZIO (dateOfCommencement)",
+    "LBL_FLOODDATA_3": "DURATA (durationOfFlood)",
+    "LBL_FLOODDATA_4": "AREA INONDATA/ TRATTO INTERESSATO (area/length)",
+    "LBL_FLOODDATA_5": "TEMPO DI RITORNO/RICORRENZA (frequency/recurrence)"
+  },
+
+  "phenomenon_reference_subjects": {
+    "LBL_FLOODLOCDATA_1":	"Localizzazione spaziale dell’area inondata o del tratto interessato - Fenomeno (FloodLocation)",
+    "LBL_FLOODLOCDATA_2":	"Localizzazione spaziale delle aree danneggiate (FloodLocation)",
+    "LBL_FLOODLOCDATA_3":	"Origine dell’alluvione (TypeofFlood - sourceOfFlooding)",
+    "LBL_FLOODLOCDATA_4":	"Caratteristica dell’alluvione (TypeofFlood - characteristicsOfFlooding)",
+    "LBL_FLOODLOCDATA_5":	"Meccanismi dell’alluvione (TypeofFlood - mechanismOfFlooding)",
+    "LBL_FLOODLOCDATA_6":	"Tipo e grado dei danni associati alle FloodLocation - HumanHealth-Social (TypeofPotentialConsequences)",
+    "LBL_FLOODLOCDATA_7":	"Tipo e grado dei danni associati alle FloodLocation - Economic (TypeofPotentialConsequences)",
+    "LBL_FLOODLOCDATA_8":	"Tipo e grado dei danni associati alle FloodLocation - Environment (TypeofPotentialConsequences)",
+    "LBL_FLOODLOCDATA_9":	"Tipo e grado dei danni associati alle FloodLocation - Cultural Heritage(TypeofPotentialConsequences)"
+  },
+
+  "categories_of_damage": {
+    "LBL_DAM_CAT_3": "AGRICOLTURA, ZOOTECNIA, PESCA, MINIERE",
+    "LBL_DAM_CAT_4": "BENI CULTURALI, PAESAGGISTICI",
+    "LBL_DAM_CAT_5": "POPOLAZIONE/SALUTE UMANA",
+    "LBL_DAM_CAT_6": "EDIFICI E BENI PRIVATI",
+    "LBL_DAM_CAT_7": "STRUTTURE/SERVIZI DI PUBBLICO INTERESSE",
+    "LBL_DAM_CAT_8": "ATTIVITÀ ECONOMICHE SETTORE COMMERCIO, INDUSTRIA, ARTIGIANATO, EDILIZIA",
+    "LBL_DAM_CAT_9": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO",
+    "LBL_DAM_CAT_10": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO",
+    "LBL_DAM_CAT_11": "OPERE IDRAULICHE",
+    "LBL_DAM_CAT_13": "ATTIVITÀ ECONOMICHE SETTORE TURISTICO-RICREATIVE",
+    "LBL_DAM_CAT_15": "AMBIENTE"
+  },
+
+  "subcategories_of_damage": {
+    "LBL_DAM_SUBCAT_4": "AREE A SEMINATIVO",
+    "LBL_DAM_SUBCAT_9": "AREE BOSCATE/PRATI/PASCOLI",
+    "LBL_DAM_SUBCAT_13": "COLTURE ARBOREE (PIOPPETI, SALICETI, ETC)",
+    "LBL_DAM_SUBCAT_14": "SERRE",
+    "LBL_DAM_SUBCAT_15": "MUSEI",
+    "LBL_DAM_SUBCAT_16": "MONUMENTI",
+    "LBL_DAM_SUBCAT_17": "EDIFICI/LUOGHI DI CULTO",
+    "LBL_DAM_SUBCAT_18": "SITI/BENI STORICI E ARCHITETTONICI",
+    "LBL_DAM_SUBCAT_19": "BIBLIOTECHE",
+    "LBL_DAM_SUBCAT_20": "OPERE D'ARTE",
+    "LBL_DAM_SUBCAT_22": "DANNI ALLA POPOLAZIONE-MORTI",
+    "LBL_DAM_SUBCAT_23": "DANNI ALLA POPOLAZIONE-FERITI",
+    "LBL_DAM_SUBCAT_24": "DANNI ALLA POPOLAZIONE-EVACUATI",
+    "LBL_DAM_SUBCAT_25": "Altro/Non applicabile",
+    "LBL_DAM_SUBCAT_26": "Condomini",
+    "LBL_DAM_SUBCAT_27": "Case Monofamiliari",
+    "LBL_DAM_SUBCAT_33": "EDIFICI PUBBLICI/PRIVATI A USO ABITATIVO (residenziale, ad es., centri abitati, condomini, case monofamiliari, edilizia popolare, garage, scantinati)",
+    "LBL_DAM_SUBCAT_34": "ATTIVITÀ ECONOMICHE SETTORE COMMERCIO",
+    "LBL_DAM_SUBCAT_35": "STRUTTURE/SERVIZI PER ASSISTENZA SANITARIA-OSPEDALI",
+    "LBL_DAM_SUBCAT_36": "STRUTTURE/SERVIZI PER AMMISTRAZIONE PUBBLICA (SEDI/ATTIVITÀ DI COMUNI, PROVINCIA, REGIONE, PREFETTURA)",
+    "LBL_DAM_SUBCAT_37": "STRUTTURE/SERVIZI PER ISTRUZIONE-ASILI/SCUOLE/UNIVERSITÀ",
+    "LBL_DAM_SUBCAT_38": "STRUTTURE/SERVIZI PER AMMISTRAZIONE PUBBLICA-ALTRI UFFICI/SERVIZI PUBBLICI",
+    "LBL_DAM_SUBCAT_39": "STRUTTURE/SERVIZI PER LA SICUREZZA-CASERME VVF",
+    "LBL_DAM_SUBCAT_40": "STRUTTURE/SERVIZI PER LA SICUREZZA-CASERME VARIE (CC-PS-EI)",
+    "LBL_DAM_SUBCAT_41": "STRUTTURE/SERVIZI PER LA SICUREZZA-PENITENZIARI, CARCERI",
+    "LBL_DAM_SUBCAT_43": "ATTIVITÀ ECONOMICHE SETTORE SPORTIVO (Centri/impianti sportivi, palestre, stadi...)",
+    "LBL_DAM_SUBCAT_44": "Altro/Non applicabile",
+    "LBL_DAM_SUBCAT_45": "ATTIVITÀ ECONOMICHE SETTORE INDUSTRIA",
+    "LBL_DAM_SUBCAT_46": "CONTAMINAZIONE/INQUINAMENTO PER PRESENZA DI IMPIANTI SEVESO",
+    "LBL_DAM_SUBCAT_47": "CONTAMINAZIONE/INQUINAMENTO PER PRESENZA DI IMPIANTI IPPC",
+    "LBL_DAM_SUBCAT_48": "CONTAMINAZIONE/INQUINAMENTO PER PRESENZA DI IMPIANTI IPPC E SEVESO",
+    "LBL_DAM_SUBCAT_49": "Altro/Non applicabile",
+    "LBL_DAM_SUBCAT_54": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-TRASPORTI A FUNE",
+    "LBL_DAM_SUBCAT_55": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-ACQUEDOTTI",
+    "LBL_DAM_SUBCAT_56": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-GASDOTTI",
+    "LBL_DAM_SUBCAT_57": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-LINEE TELEFONICHE FISSE E MOBILI",
+    "LBL_DAM_SUBCAT_58": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-CONDOTTE FORZATE",
+    "LBL_DAM_SUBCAT_59": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-SISTEMI FOGNARI",
+    "LBL_DAM_SUBCAT_60": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-OLEODOTTI",
+    "LBL_DAM_SUBCAT_61": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-LINEE DI DISTRIBUZIONE ENERGIA ELETTRICA",
+    "LBL_DAM_SUBCAT_62": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-STRADE PROVINCIALI",
+    "LBL_DAM_SUBCAT_63": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-STRADE STATALI",
+    "LBL_DAM_SUBCAT_64": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-FERROVIE/METROPOLITANE",
+    "LBL_DAM_SUBCAT_65": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-STRADE COMUNALI",
+    "LBL_DAM_SUBCAT_66": "Strade Private",
+    "LBL_DAM_SUBCAT_67": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-PONTI, VIADOTTI, ATTRAVERSAMENTI",
+    "LBL_DAM_SUBCAT_68": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-STRADE PRIVATE/INTERPODERALI",
+    "LBL_DAM_SUBCAT_69": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-AEROPORTI",
+    "LBL_DAM_SUBCAT_70": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-AUTOSTRADE/SUPERSTRADE",
+    "LBL_DAM_SUBCAT_71": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-PORTI",
+    "LBL_DAM_SUBCAT_72": "OPERE IDRAULICHE-OPERE DI SBARRAMENTO (dighe, traverse)",
+    "LBL_DAM_SUBCAT_73": "OPERE IDRAULICHE-OPERE DI DIFESA LONGITUDINALI (argini, muri di sponda, pennelli)",
+    "LBL_DAM_SUBCAT_74": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-DEPURATORI",
+    "LBL_DAM_SUBCAT_75": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-INCENERITORI",
+    "LBL_DAM_SUBCAT_76": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-DISCARICHE",
+    "LBL_DAM_SUBCAT_77": "ATTIVITÀ ECONOMICHE SETTORE TURISMO (STRUTTURE RICETTIVE, ALBERGHI)",
+    "LBL_DAM_SUBCAT_78": "ATTIVITÀ ECONOMICHE SETTORE TURISMO - CAMPEGGI",
+    "LBL_DAM_SUBCAT_79": "ATTIVITÀ ECONOMICHE SETTORE TURISMO - STABILIMENTI BALNEARI",
+    "LBL_DAM_SUBCAT_82": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-ELIPORTI",
+    "LBL_DAM_SUBCAT_83": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-VIE D'ACQUA INTERNE (ES. NAVIGLI)",
+    "LBL_DAM_SUBCAT_84": "OPERE IDRAULICHE-CASSE DI ESPANSIONE/VASCHE DI LAMINAZIONE",
+    "LBL_DAM_SUBCAT_85": "Traverse",
+    "LBL_DAM_SUBCAT_86": "OPERE IDRAULICHE-SCOLMATORI/SCARICATORI/SFIORATORI",
+    "LBL_DAM_SUBCAT_87": "OPERE IDRAULICHE-OPERE DI DIFESA TRASVERSALI (soglie, briglie, traverse)",
+    "LBL_DAM_SUBCAT_88": "Sponde/Difese Spondali",
+    "LBL_DAM_SUBCAT_89": "ALTRE OPERE IDRAULICHE",
+    "LBL_DAM_SUBCAT_90": "OPERE IDRAULICHE-OPERE DI BONIFICA",
+    "LBL_DAM_SUBCAT_91": "OPERE IDRAULICHE-CHIAVICHE",
+    "LBL_DAM_SUBCAT_92": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-RADIO/TELEVISIONE",
+    "LBL_DAM_SUBCAT_93": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO",
+    "LBL_DAM_SUBCAT_94": "IMPIANTI ZOOTECNICI/ALLEVAMENTO BESTIAME",
+    "LBL_DAM_SUBCAT_95": "CAVE E MINIERE",
+    "LBL_DAM_SUBCAT_96": "VIGNETI, FRUTTETI, OLIVETI, ETC",
+    "LBL_DAM_SUBCAT_97": "ATTIVITÀ AGRICOLE",
+    "LBL_DAM_SUBCAT_98": "SITI/BENI ARCHEOLOGICI",
+    "LBL_DAM_SUBCAT_99": "BENI PAESAGGISTICI, PARCHI E RISERVE NATURALI",
+    "LBL_DAM_SUBCAT_100": "CONTAMINAZIONE/INQUINAMENTO - AREE PROTETTE RETE NATURA 2000 (DIR. HABITAT, UCCELLI)",
+    "LBL_DAM_SUBCAT_101": "CONTAMINAZIONE/INQUINAMENTO DI CORPI IDRICI",
+    "LBL_DAM_SUBCAT_102": "IMPATTI SULLE CARATTERISTICHE IDROMORFOLOGICHE DEL CORPO IDRICO (CROLLI DI SPONDA/INCISIONI/EROSIONI/DEPOSIZIONI/TAGLI DI MEANDRO/FENOMENI DI AVULSIONE)",
+    "LBL_DAM_SUBCAT_103": "Altro/Non applicabile",
+    "LBL_DAM_SUBCAT_104": "ALTRI IMPATTI SUL PATRIMONIO CULTURALE E PAESAGGISTICO",
+    "LBL_DAM_SUBCAT_105": "Altro/Non applicabile",
+    "LBL_DAM_SUBCAT_106": "STRUTTURE/SERVIZI PER LA SALUTE-CASE DI CURA, CASE DI ACCOGLIENZA PER ANZIANI, DIVERSAMENTE ABILI, ECC.",
+    "LBL_DAM_SUBCAT_107": "ALTRE STRUTTURE/SERVIZI DI PUBBLICO INTERESSE - CIMITERI",
+    "LBL_DAM_SUBCAT_108": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-IMPIANTI A SUPPORTO DELLE RETI (CENTRALI, CABINE ELETTRICHE, IMPIANTI FOTOVOLTAICI)",
+    "LBL_DAM_SUBCAT_109": "DANNI ALLA POPOLAZIONE-DISPERSI",
+    "LBL_DAM_SUBCAT_110": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-STAZIONI FERROVIARIE/METROPOLITANE",
+    "LBL_DAM_SUBCAT_111": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-STRADE REGIONALI",
+    "LBL_DAM_SUBCAT_112": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-SOTTOPASSI",
+    "LBL_DAM_SUBCAT_113": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO-AREE DI SERVIZIO, PARCHEGGI",
+    "LBL_DAM_SUBCAT_114": "INFRASTRUTTURE TECNOLOGICHE E DI SERVIZIO-PUNTI DI PRELIEVO DI ACQUA POTABILE (POZZI, SORGENTI)",
+    "LBL_DAM_SUBCAT_115": "INFRASTRUTTURE DI COMUNICAZIONE E TRASPORTO",
+    "LBL_DAM_SUBCAT_116": "OPERE IDRAULICHE-IDROVORE",
+    "LBL_DAM_SUBCAT_118": "OPERE IDRAULICHE-OPERE DI DIFESA COSTIERA (AD ES., PENNELLI, BARRIERE)",
+    "LBL_DAM_SUBCAT_119": "ATTIVITÀ ECONOMICHE SETTORE CULTURALE/RICREATIVO (Cinema, teatri, esposizioni, congressi..)",
+    "LBL_DAM_SUBCAT_120": "Altro/Non applicabile",
+    "LBL_DAM_SUBCAT_122": "Archivi Storici",
+    "LBL_DAM_SUBCAT_123": "CONTAMINAZIONE/INQUINAMENTO - AREE DESIGNATE PER L'ESTRAZIONE DI ACQUA PER USO POTABILE",
+    "LBL_DAM_SUBCAT_124": "CONTAMINAZIONE/INQUINAMENTO - CORPI IDRICI INTESI A SCOPO RICREATIVO COMPRESE LE ACQUE DI BALNEAZIONE",
+    "LBL_DAM_SUBCAT_125": "CONTAMINAZIONE/INQUINAMENTO PER PRESENZA DI FONTI PUNTUALI O DIFFUSE DI INQUINAMENTO",
+    "LBL_DAM_SUBCAT_126": "CONTAMINAZIONE/INQUINAMENTO PER PRESENZA DI AREE SENSIBILI AI NUTRIENTI COMPRESE LE ZONE VULNERABILI A NORMA DELLE DIRETTIVE NITRATI E REFLUI",
+    "LBL_DAM_SUBCAT_127": "CONTAMINAZIONE/INQUINAMENTO PER PRESENZA DI DISCARICHE",
+    "LBL_DAM_SUBCAT_128": "CONTAMINAZIONE/INQUINAMENTO PER PRESENZA DI INCENERITORI",
+    "LBL_DAM_SUBCAT_129": "ALTRI IMPATTI SUL SUOLO, SULLA BIODIVERSITÀ, LA FLORA E LA FAUNA",
+    "LBL_DAM_SUBCAT_130": "EDIFICI PRIVATI A USO NON ABITATIVO (non residenziale, ad es., uffici, negozi, magazzini)",
+    "LBL_DAM_SUBCAT_131": "MEZZI DI TRASPORTO PRIVATI",
+    "LBL_DAM_SUBCAT_132": "BENI CONTENUTI IN EDIFICI PRIVATI",
+    "LBL_DAM_SUBCAT_133": "BENI CONTENUTI IN AREE PRIVATE",
+    "LBL_DAM_SUBCAT_134": "RISAIE",
+    "LBL_DAM_SUBCAT_135": "PESCA",
+    "LBL_DAM_SUBCAT_136": "ATTIVITÀ ECONOMICHE SETTORE ARTIGIANATO",
+    "LBL_DAM_SUBCAT_137": "ATTIVITÀ ECONOMICHE SETTORE EDILIZIA (cantieri)",
+    "LBL_DAM_SUBCAT_138": "RIMOZIONE DETRITI TRASPORTATI DA ALLUVIONE (da alvei, spiagge, aree inondate…)",
+    "LBL_DAM_SUBCAT_139": "OPERE IDRAULICHE-CANALIZZAZIONI (comprese le tombinature)",
+    "LBL_DAM_SUBCAT_140": "DANNI ALLA SALUTE UMANA-DA INQUINAMENTO O CONTAMINAZIONE",
+    "LBL_DAM_SUBCAT_141": "DANNI ALLA SALUTE UMANA-INTERRUZIONE SERVIZI (fornitura/trattamento acqua, comunicazione, trasporto, energia, gas…)",
+    "LBL_DAM_SUBCAT_142": "DANNI ALLA POPOLAZIONE-ISOLATI",
+    "LBL_DAM_SUBCAT_143": "ALTRE STRUTTURE/SERVIZI DI PUBBLICO INTERESSE - AREE VERDI URBANE",
+    "LBL_DAM_SUBCAT_144": "ALTRI IMPATTI SULLA SALUTE UMANA/POPOLAZIONE"
+  },
+
+  "units_of_measure": {
+    "LBL_MU_1": "metri",
+    "LBL_MU_2": "chilometri",
+    "LBL_MU_3": "ettari",
+    "LBL_MU_4": "metri quadrati",
+    "LBL_MU_5": "chilometri quadrati",
+    "LBL_MU_6": "numero",
+    "LBL_MU_99": "Non definito"
+  },
+
+  "downlaod_data_dialog": {
+    "title": "Scarica dati",
+    "date_from": "Data inizio",
+    "date_to": "Data fine",
+    "models": "Modelli disponibili",
+    "xml_schema": "Schema della direttiva sulle alluvioni (xml)",
+    "mdb_schema": "Schema della direttiva sulle alluvioni (mdb)",
+    "uom": "Unità di gestione"
+  },
+
+  "main_map": {
+    "layer_info": "Informazioni layer",
+    "no_layer_info": "Nessuna informazione trovata per il layer selezionato",
+    "layer_msg_error": "Impossibile recuperare i dati dal server",
+    "error_server": "Errore durante il caricamento dei dettagli della mappa",
+    "search_address": "Digita l'indirizzo da cercare",
+    "search_not_found": "Indirizzo non trovato"
+  },
+
+  "detail_map": {
+    "draw": "Disegna localizzazione",
+    "confirm": "Conferma localizzazione",
+    "error_no_geometry": "Attenzione, occorre inserire una geometria",
+    "error_confirm_geometry": "Attenzione, geometria non confermata"
+  },
+
+  "reference": {
+    "reference": "Fonte dati",
+    "event_reference": "Fonti dati evento",
+    "pheno_reference": "Fonti dati fenomeno",
+    "type": "Tipo",
+    "web_link": "Collegamento web",
+    "file": "File allegato",
+    "select_file": "seleziona file",
+    "name": "URL (es: https://dominio.ex/)",
+    "name_weblink": "URL (es: https://dominio.ex/)",
+    "name_file": "Nome file",
+    "download": "Scarica file",
+    "edit_reference": "Modifica fonte dati",
+    "delete_reference": "Cancella fonte dati",
+    "title": "Titolo",
+    "author": "Autore",
+    "subject_bookmark": "Soggetto/Bookmark",
+    "bookmark": "Bookmark",
+    "bookmark_ext": "Capitolo/Paragrafi o le pagine del documento",
+    "no_reference": "Nessuna fonte dati inserita",
+    "new_reference": "Nuova fonte dati",
+    "reference_save_ok": "Fonte dati salvata con successo",
+    "reference_save_ko": "Errore nel salvataggio della fonte dati",
+    "reference_server_error": "Errore server imprevisto",
+    "error_subject": "Deve essere selezionato almeno uno dei soggetti disponibili",
+    "error_name": "Il campo URL è obbligatorio e deve iniziare con http o https.",
+    "error_title": "Il titolo della fonte dati è obbligatorio.",
+    "error_file": "File non selezionato"
+  },
+
+  "event_list": {
+    "title": "EVENTI",
+    "status": "Stato",
+    "event_name": "Nome evento",
+    "event_code": "Codice evento",
+    "pheno_nr": "Nr. Fenomeni",
+    "damage_nr": "Nr. Danni",
+    "starting_date": "Data inizio",
+    "download_events": "Scarica eventi",
+    "search_event": "Cerca evento",
+    "error_export_data": "Errore imprevisto nell'esportazione dei dati",
+    "pop_msg_valid_event": "Evento validato",
+    "pop_msg_invalid_event": "Evento non validato",
+    "pop_msg_localization": "Evento geolocalizzato",
+    "pop_msg_editable": "Evento modificabile",
+    "pop_msg_not_editable": "Evento non modificabile",
+    "pop_msg_open_event": "Apri scheda evento"
+  },
+
+  "event_dialog": {
+    "new_event": "Nuovo evento",
+    "event_details": "Dettaglio evento",
+    "search": "Cerca",
+    "events": "Eventi",
+    "delete_event": "Cancella evento",
+    "delete_pheno": "Cancella fenomeno",
+    "delete_damage": "Cancella danno",
+    "validate": "Valida",
+    "invalidate": "Richiedi svalidazione",
+    "error_reference": "Errore nel recupero delle fonti dati",
+    "error_pheno": "Errore nel recupero fenomeni",
+    "error_event": "Errore caricamento dettaglio evento",
+    "error_event_delete": "Impossibile eliminare l'evento",
+    "success_event_delete": "Evento eliminato con successo",
+    "error_pheno_delete": "Impossibile eliminare il fenomeno",
+    "success_pheno_delete": "Fenomeno eliminato con successo",
+    "error_damage_delete": "Impossibile eliminare il danno",
+    "success_damage_delete": "Danno eliminato con successo"
+  },
+
+  "event_details": {
+    "event_id": "EVENTO ID",
+    "event_code": "Codice evento",
+    "name": "Nome dell'evento",
+    "name_ext": "max 250 chr",
+    "flood_origin": "Origine",
+    "flood_origin_ext": "Inserire l'Origine della piena a scelta tra i valori disponibili",
+    "flood_origin_ext_desc": "Descrizione estesa origine della piena",
+    "other_source": "Altra origine",
+    "uncertainty_cause": "Causa dell'incertezza",
+    "event_category": "Categoria evento",
+    "event_category_ext": "Inserire la categoria dell'evento a scelta tra i valori disponibili",
+    "date_from": "Data inizio",
+    "date_from_ext": "Data inizio (gg/mm/yyyy)",
+    "duration": "Durata (giorni)",
+    "duration_ext": "Durata dell’Evento, in termini di giorni/parti di giorni",
+    "duration_unknown": "Sconosciuto (-9999)",
+    "duration_no_misurament": "Non ancora misurato (-8888)",
+    "not_applicable": "Non applicabile (-7777)",
+    "uom": "Unità di gestione",
+    "flooded_area": "Area inondata",
+    "flooded_area_ext": "Estensione del'area inondata dell'evento in Km^2",
+    "flooded_section": "Tratto interessato",
+    "flooded_section_ext": "Lunghezza del tratto di fiume o di costa interessato in Km",
+    "recurrence": "Ricorrenza",
+    "recurrence_ext": "numero medio di anni: valore maggiore di zero oppure uno tra i valori disponibili",
+    "return_time": "Tempo di ritorno",
+    "return_time_ext": "Tempo medio in anni: valore maggiore di zero oppure uno tra i valori disponibili",
+    "error_source": "Selezionare almeno un'origine della piena.",
+    "error_source_date": "Fonte di allagamento non selezionabile per eventi con data successiva al 22/12/2011",
+    "error_source_selectable": "Fonte di allagamento non selezionabile per eventi con data successiva al 22/12/2011",
+    "error_other_field": "Il campo Altra fonte è obbligatorio e deve essere lungo almeno 10 caratteri.",
+    "error_uncertainty_field": "Il campo Cause of Uncertainty è obbligatorio e deve contenere almeno 10 caratteri.",
+    "error_uom": "Nessuna unità di gestione selezionata",
+    "error_area_length_empty": "Un campo tra Area Inondata e Tratto Interessato deve essere compilato ed essere un numero positivo",
+    "error_flooded_area": "L'area inondata deve essere un numero decimale positivo",
+    "error_flood_length": "Il tratto interessato deve essere un numero decimale positivo",
+    "error_recurrency": "Deve essere compilato un campo tra Ricorrenza e Frequenza. Se non disponibile selezionare una delle scelte suggerite.",
+    "error_recurrence": "Il campo RICCORRENZA deve essere un numero maggiore di zero oppure un valore tra i disponibili",
+    "error_frequency": "Il campo FREQUENZA deve essere un numero maggiore di zero oppure un valore tra i disponibili",
+    "error_event_date": "Il campo Data di inizio è obbligatorio (es: gg/mm/aaaa)",
+    "error_event_date_future": "Il campo Data non può essere una data futura",
+    "error_recurrency_negative": "Il campo Ricorrenza deve essere un numero maggiore di zero oppure un valore tra i disponibili",
+    "error_duration": "Il campo durata deve essere un numero maggore di zero oppure un valore tra i disponibili",
+    "event_save_ok": "Evento salvato con successo",
+    "event_save_ko": "Errore nel salvataggio dell'evento:",
+    "event_delete_title": "Cancella evento",
+    "event_delete_msg": "Sei sicuro di voler cancellare l'evento?",
+    "event_ref_delete_title": "Elimina fonte dati",
+    "event_ref_delete_msg": "Sei sicuro di voler cancellare la fonte dati?"
+  },
+
+  "pheno_list": {
+    "title": "Fenomeno",
+    "search": "Cerca fenomeno",
+    "download": "Esporta Fenomeni",
+    "name": "Nome",
+    "code": "Codice",
+    "damages": "Danni",
+    "action": "Azione",
+    "location": "Localizzazione",
+    "no_data": "Nessun fenomeno inserito",
+    "error_export_data": "Errore imprevisto nell'esportazione dei dati",
+    "new_phenomenon": "Inserisci Fenomeno",
+    "details":"dettaglio fenomeno"
+  },
+
+  "pheno_details": {
+    "pheno_id": "FENOMENO ID",
+    "pheno_code": "Codice fenomeno",
+    "water_body": "Corpo idrico",
+    "water_body_ext": "Elenco corpi idrici interessati",
+    "no_water_body": "Nessun corpo idrico interessato",
+    "pheno_name": "Nome",
+    "pheno_name_ext": "Inserisci il nome del fenomeno",
+    "pheno_description": "Descrizione",
+    "pheno_description_ext": "Sintesi descrittiva del fenomeno, dinamica con cui si è verificata l'inondazione",
+    "pheno_characteristic": "Caratteristiche della piena",
+    "pheno_characteristic_EXT": "Caratteristiche della piena, descrizione estesa",
+    "other_characteristic": "Altre caratteristiche",
+    "uncertainty_characteristic": "Causa dell'incertezza",
+    "pheno_mechanism": "Meccanismo della piena",
+    "other_mechanism": "Altro meccanismo della piena",
+    "uncertainty_mechanism": "Causa dell'incertezza",
+    "shapefile": "Shapefile",
+    "file_extensions": ".shp, .shx, .prj, .dbf",
+    "drag_and_drop": "Drag & Drop file oppure",
+    "browse": "Browse Files",
+    "data_source": "Fonte dati",
+    "error_pheno": "Errore nel caricamento dei fenomeni",
+    "success_pheno": "Fenomeno salvato con successo",
+    "error_pheno_save": "Errore nel salvataggio del fenomeno",
+    "error_pheno_reference": "Errore nel caricamento delle fonti dati del fenomeno",
+    "error_pheno_reference_delete": "Fonte dati non eliminata",
+    "error_name": "Il nome del fenomeno è obbligatorio e deve contenere dai 3 ai 250 caratteri.",
+    "error_mechanism": "Nessun meccanismo della piena selezionato.",
+    "error_other_mechanism": "Il campo Altro meccanismo è obbligatorio e deve contenere almeno 10 caratteri.",
+    "error_uncertain_mechanism": "Il campo causa di incertezza è obbligatorio e deve contenere almeno 10 caratteri.",
+    "error_characteristic": "Nessuna caratteristica della piena selezionata",
+    "error_other_characteristic": "Il campo Altre caratteristiche è obbligatorio e deve essere lungo almeno 10 caratteri.",
+    "error_uncertain_characteristic": "Il campo causa di incertezza è obbligatorio e deve contenere almeno 10 caratteri.",
+    "error_characteristic_A17_A18": "Caratteristica selezionabile solo se l'origine della piena non è disponibile o è incerta.",
+    "error_water_body": "Attenzione water body obbligatorio",
+    "alert_msg": "ATTENZIONE: il Meccanismo della Piena {{mechCode}} che stai eliminando risulta associato ad alcuni Danni. La conferma dell'operazione causerà la perdita dell'informazione del Meccanismo di Piena per tali Danni. E' obbligatorio associare un Meccanismo di Piena a ciascun Danno, altrimenti non sarà possibile validare l'Evento. Correggere le schede Danno associate al Fenomeno corrente:",
+    "alert_msg_A26": "Impossibile selezionare questo meccanismo: ci sono danni legati agli attuali meccanismi, per procedere eliminare i danni del fenomeno.",
+    "alert_msg_A26_remove": "Impossibile selezionare questo meccanismo: meccanismo A26 - Nessun dato disponibile sui meccanismi dell'inondazione non è disattivabile perché utilizzato nei danni.",
+    "pheno_delete_title": "Cancella fenomeno",
+    "pheno_delete_msg": "Sei sicuro di voler cancellare il fenomeno?",
+    "pheno_ref_delete_title": "Elimina fonte dati",
+    "pheno_ref_delete_msg": "Sei sicuro di voler cancellare la fonte dati?",
+    "warning_msg_other_mechanism": "ATTENZIONE! Si sta per selezionare una caratteristica generica; si consiglia di utilizzarne una specifica.",
+    "pheno_confirm_delete_location_title": "Cancellare la localizzazione del fenomeno?",
+    "pheno_confirm_delete_location_msg": "Confermando la localizzazione del fenomeno sarà eliminata in modo permanente, l'operazione non è annullabile.",
+    "pheno_delete_location_success": "Localizzazione del fenomeno cancellata con successo",
+    "pheno_delete_location_error": "Errore durante la cancellazione della localizzazione del fenomeno",
+    "pheno_force_saving_title": "Localizzazione non coerente",
+    "pheno_force_saving_msg": "La localizzazione del fenomeno non è coerente con la localizzazione dei danni. Vuoi forzare il salvataggio?",
+    "pheno_force_saving_ok": "FORZA SALVATAGGIO",
+    "pheno_force_saving_cancel": "ANNULLA"
+  },
+
+  "damage_list": {
+    "title": "Danno",
+    "search": "Cerca danno",
+    "download": "Esporta Danni",
+    "name": "Nome",
+    "code": "Codice",
+    "details_nr": "Nr. Dettagli",
+    "localization": "Localizzazione",
+    "error_get_pheno": "Errore nel caricamento dei fenomeni",
+    "error_export_data": "Errore imprevisto nell'esportazione dei dati",
+    "new_damage": "Inserisci Danno"
+  },
+
+  "damage_details": {
+    "damage_id": "DANNO ID",
+    "damage_code": "Codice",
+    "damage_name": "Nome",
+    "damage_synthesis": "Sintesi del danno",
+    "damage_date": "Data",
+    "damage_date_ext": "La data deve essere compresa tra la data evento e la durata impostata se conosciuta",
+    "damage_mechanism": "Meccanismo della piena",
+    "shapefile": "Shapefile",
+    "file_ext": "File extensions: .shp, .shx, .prj, .dbf",
+    "drag_and_drop": "Drag & Drop file oppure",
+    "browse": "Cerca file",
+    "damage_details": "Dettagli di danno",
+    "category_code": "Codice categoria",
+    "subcategory_desc": "Descrizione sottocategoria",
+    "delete_category": "Cancella gruppo di dettagli",
+    "edit_details": "Modifica dettaglio",
+    "delete_details": "Cancella dettaglio",
+    "numeric_value": "Valore numerico",
+    "economic_value": "Valore economico",
+    "damage_class": "Classe di danno",
+    "detail_description": "Descrizione",
+    "add_detail": "Aggiungi dettaglio di danno",
+    "error_damage": "Errore nel caricamento dei dati del danno",
+    "error_details": "Errore caricamento dettagli di danno",
+    "error_name": "Il campo nome è obbligatorio e deve contenere dai 3 ai 250 caratteri.",
+    "error_mechanism": "Nessun meccanismo della piena selezionato.",
+    "success_saving_details": "Dettaglio di danno salvato con successo",
+    "error_saving_details": "Impossibile salvare il danno, nessun dettaglio di danno inserito.",
+    "success_saving": "Danno salvato con successo",
+    "error_saving": "Errore nel salvataggio del danno",
+    "error_delete_details": "Impossibile eliminare i dettagli di danno",
+    "success_delete_category": "Categoria rimossa con successo",
+    "success_delete_detail": "Dettagli di danno eliminato con successo",
+    "error_delete_detail": "Impossibile eliminare il dettaglio di danno",
+    "error_delete_details_number": "Attenzione impossibile eliminare tutti i dettagli, il danno deve avere almeno un dettaglio inserito.",
+    "error_location": "La localizzazione del danno è obbligatoria se il fenomeno non è localizzato",
+    "damage_delete_title": "Cancella danno",
+    "damage_delete_msg": "Sei sicuro di voler cancellare il danno?",
+    "damage_detail_delete_title": "Cancella dettaglio di danno",
+    "damage_detail_delete_msg": "Sei sicuro di voler cancellare il dettaglio del danno?",
+    "damage_category_delete_title": "Cancella categoria di dettagli di danno",
+    "damage_category_delete_msg": "Sei sicuro di voler cancellare la categoria di dettagli di danno?",
+    "damage_confirm_delete_location_title": "Cancellare la localizzazione del danno?",
+    "damage_confirm_delete_location_msg": "Confermando la localizzazione del danno sarà eliminata in modo permanente, l'operazione non è annullabile.",
+    "damage_delete_location_success": "Localizzazione del danno cancellata con successo",
+    "damage_delete_location_error": "Errore durante la cancellazione della localizzazione del danno",
+    "damage_force_saving_title": "Localizzazione non coerente",
+    "damage_force_saving_msg": "La localizzazione del danno non è coerente con la localizzazione del fenomeno. Vuoi forzare il salvataggio?",
+    "damage_force_saving_ok": "FORZA SALVATAGGIO",
+    "damage_force_saving_cancel": "ANNULLA"
+  },
+
+  "details": {
+    "title": "Dettaglio di danno",
+    "category": "Categoria",
+    "subcategory": "Sottocategoria",
+    "numeric_value": "Valore numerico",
+    "measurement_unit": "Unità di misura",
+    "economic_value": "Valore economico",
+    "damage_class": "Classe di danno",
+    "damage_description": "Descrizione",
+    "damage_class_opz1": "Non significativo",
+    "damage_class_opz2": "Basso",
+    "damage_class_opz3": "Medio",
+    "damage_class_opz4": "Alto",
+    "damage_class_opz5": "Molto alto",
+    "another_detail": "Dettaglio inserito, vuoi aggiungere un altro dettaglio?",
+    "success_save_detail": "Dettagli di danno salvato con successo",
+    "error_save_details": "Impossibile salvare il dettaglio di danno",
+    "damage_details_other_warning": "ATTENZIONE! Si sta utilizzando una sottocategoria di danno generica; si consiglia di utilizzare, se esistente, una sottocategoria specifica."
+  },
+
+  "recap_table": {
+    "recap_range": "Riepilogo dati da {{date_from}} a {{date_to}}",
+    "hydrographic_district": "Distretto idrografico",
+    "total_events": "Nr totale eventi",
+    "validated": "Validati",
+    "not_validated": "Non validati",
+    "pheno_validated": "Fenomeni validati",
+    "damage_validated": "Danni validati",
+    "tot_validated_damage": "Tot. danno stimato Validati",
+    "tot_damage": "Tot. danno stimato",
+    "tot_validated_victims": "Tot. vittime Validati",
+    "tot_victims": "Tot. vittime",
+    "uom": "Unità di gestione",
+    "ca": "Autorità competente",
+    "error_aggregation": "Errore nel caricamento dei dati aggregati",
+    "error_export_aggregation": "Errore imprevisto nell'esportazione dei dati"
+  },
+
+  "water_body": {
+    "title": "Corpo idrico del fenoemeno",
+    "polygon": "POLIGONI",
+    "line": "LINEE",
+    "record": "Record",
+    "loading": "Lista in caricamento...",
+    "error_loading": "Attenzione lista corpi idrici non caricata, errore server",
+    "error_loading_geometry": "Attenzione geometria corpo idrico non caricata, errore server",
+    "error_polygon_list": "Attenzione lista corpi idrici POLIGONI non caricata, errore server",
+    "error_line_list": "Attenzione lista corpi idrici LINEE non caricata, errore server",
+    "error_waterbody_code": "Attenzione, il codice water body presente non è stato trovato"
+  },
+
+  "warning_unsaved_data": {
+    "title": "Dati non salvati",
+    "msg": "Attenzione! Chiudendo la Scheda si perderanno i dati e/o le localizzazioni inserite non ancora salvate.",
+    "event_list": "DATI EVENTO",
+    "pheno_list": "DATI FENOMENO",
+    "damage_list": "DATI DANNI",
+    "btnOK": "Torna alla scheda",
+    "btnKO": "Chiudi senza salvare",
+    "event_data": {
+      "event_name": "Nome evento",
+      "source_of_flooding": "Origine della piena",
+      "other_source_of_flooding": "Altra origine",
+      "category_of_flood": "Categoria evento",
+      "date_of_commencement": "Data inizio",
+      "duration": "Durata",
+      "unit_of_management": "Unità di gestione",
+      "flooded_area": "Area inondata",
+      "flooded_section": "Tratto interessato",
+      "recurrence_value": "Ricorrenza",
+      "frequency": "Tempo di ritorno (selezione)",
+      "frequency_value": "Tempo di ritorno",
+      "new_reference": "Fonti di dati"
+    },
+    "pheno_data": {
+      "water_body": "Corpo idrico",
+      "name": "Nome",
+      "description": "Descrizione",
+      "characteristic_of_flooding": "Caratteristiche della piena",
+      "other_characteristic": "Altre caratteristiche",
+      "uncertainty_characteristic": "Causa dell'incertezza",
+      "mechanism_of_flooding": "Meccanismo della piena",
+      "other_mechanism_of_flooding": "Altro meccanismo della piena",
+      "uncertain_mechanism_of_flooding": "Causa dell'incertezza",
+      "shape_location": "Localizzazione con shapefile",
+      "draw_location": "Localizzazione disegnata"
+    },
+    "damage_data": {
+      "damage_name": "Nome",
+      "damage_synthesis": "Sintesi del danno",
+      "date": "Data",
+      "damage_mechanism": "Meccanismo della piena",
+      "shape_location": "Localizzazione con shapefile",
+      "draw_location": "Localizzazione disegnata"
+    },
+    "map_data": {
+      "shape_location": "Localizzazione con shapefile"
+    }
+  },
+
+  "import_tool": {
+    "title": "FLOODCAT IMPORT TOOL",
+    "new_import": "Nuovo file",
+    "loading_list": "Lista in caricamento...",
+    "new_zip": "Carica nuovo ZIP file",
+    "new_zip_msg": "Indicazioni sul formato file da caricare:",
+    "new_zip_msg1": "Il sistema accetta solo file ZIP",
+    "new_zip_msg2": "All'interno del file ZIP non devono esserci sottocartelle ma solo i file interessati",
+    "new_zip_msg3": "Il file EVENTI deve essere in formato XLSX e dovrà avere nel nome il prefisso \"floodcat_eventi_\" (es: floodcat_eventi_NOMEDELMIOFILE.xlsx)",
+    "new_zip_msg4": "I file REFERENCES possono essere più di uno e devono essere nei formati ammessi dalla direttiva",
+    "new_zip_msg5": "&Egrave; possibile inserire nel file ZIP i file SHAPE necessari",
+    "upload_date": "Data caricamento",
+    "waiting_msg": "File caricato in attesa di elaborazione",
+    "try_import": "SIMULA IMPORTAZIONE",
+    "simulation_running": "Simulazione in corso...",
+    "simulation_ok": "Simulazione riuscita, in attesa di importazione",
+    "import": "IMPORTA",
+    "report": "REPORT ERRORI",
+    "simulation_error": "Simulazione non riuscita",
+    "import_running": "Importazione in corso...",
+    "import_ok": "Record importati correttamente",
+    "import_error": "Importazione non riuscita",
+    "warning": "Avvisi",
+    "error": "Errori",
+
+    "error_pack_list": "Errore nel caricamento della lista",
+    "error_file_type": "Attenzione il file caricato non è un file ZIP",
+    "error_import": "Impossibile continuare con l'importazione",
+    "upload_ok": "File caricato con successo",
+    "error_upload": "Errore nel caricamento del file",
+    "error_simulation": "Simulazione fallita, errore imprevisto",
+
+    "report_no_data": "Errore nel caricamento del report per questa importazione",
+    "report_no_data_msg": "Riprova più tardi e se il problema persiste segnala l'anomalia.",
+    "report_no_error": "Nessun errore grave presente.",
+    "report_no_warning": "Nessun warning presente.",
+    "report_download": "Download report"
+  },
+
+  "export_event_tools": {
+    "title": "ESPORTAZIONE EVENTI",
+    "date_type": "Data di riferimento"
+  }
+
+}

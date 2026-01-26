@@ -1,0 +1,151 @@
+{
+  "ACROWEB": {
+    "CANCEL": "Cancel",
+    "DO_LOGIN": "Log in",
+    "LOGIN": "Log in",
+    "LOGOUT": "Log out",
+    "USERNAME_OR_PASSWORD_ERROR": "Wrong username or password."
+  },
+  "BULLETIN_LIST": {
+    "HEADER": {
+      "ACTIONS": "Actions",
+      "CREATION_DATE": "Creation date",
+      "ID": "ID",
+      "LAST_MODIFIED": "Last Modified",
+      "PUBLISHED": "Published",
+      "STATUS": "Status",
+      "VALIDITY": "Validity"
+    },
+    "OPEN": "Open",
+    "TOTAL": "Total",
+    "ROW": {
+      "CLOSE": "Close",
+      "CLOSED": "Closed",
+      "DELETE": "Delete",
+      "DOWNLOAD_PDF": "Download PDF",
+      "EDIT": "Modify",
+      "NOT_PUBLISHED": "Not Published",
+      "OPEN": "Open",
+      "PUBLISH": "Publish",
+      "PUBLISHED": "Published",
+      "UNPUBLISH": "Unpublish",
+      "UPDATE": "Update",
+      "CLONE": "Clone",
+      "CLOSE_FLAG_TITLE": "Close Bulletin Warning",
+      "CLOSE_FLAG_MESSAGE": "Are you sure you want to close the bulletin? Not all concurrent has finished editing."
+    }
+  },
+  "COMMON": {
+    "CLONING": "Cloning the bulletin",
+    "CLOSING": "Closing the bulletin",
+    "CLOSING_MODAL_MESSAGE": "Do you really want to close the bulletin?",
+    "CLOSING_MODAL_TITLE": "Confirm closing",
+    "CREATE_PDF": "Create PDF",
+    "CREATING": "Initializing the bulletin",
+    "DELETE_MODAL_MESSAGE": "Do you want to delete the bulletin?",
+    "DELETE_MODAL_TITLE": "Confirm deletion",
+    "DELETING": "Deleting the bulletin...",
+    "DOWNLOADING_PDF": "Downloading PDF",
+    "ERROR": "Error in the current operation",
+    "GENERATING_PDF": "Generating PDF",
+    "INFORMATIONS": "Information",
+    "LOADING": "Loading",
+    "PAGE_IDLE": "Idle User",
+    "PAGE_LOCKED": " is editing this bulletin",
+    "PAGE_WAIT": "Waiting for permission to edit",
+    "PUBLISHING": "Publishing the bulletin",
+    "TRY_CHANGE_ROLE": "Try changing role",
+    "UNPUBLISHING": "Unpublishing the bulletin",
+    "USER_NOT_ENABLED": "User not enabled",
+    "MOBILE_MSG": "THIS APPLICATION IS NOT OPTIMIZED<br> FOR MOBILE USE ",
+    "CONFIRM": "ok",
+    "CANCEL": "cancel",
+    "BACK": "back"
+  },
+  "COMPONENTS": {
+    "MULTI_OPTIONS": {
+      "ADD": "Add",
+      "CANCEL": "Cancel",
+      "CLOSE_SETTINGS": "Close",
+      "NEW_OPTION": "New Option",
+      "SAVE": "Save",
+      "PATTERN_ERROR": "Input value not valid"
+    }
+  },
+  "LANGUAGE_BAR": {
+    "MASTER_LANGUAGE": "Source Language",
+    "AUTO_TRANSLATION_ON": "Auto-translation: ON",
+    "AUTO_TRANSLATION_TURN_ON": "Turn On",
+    "AUTO_TRANSLATION_OFF": "Auto-translation: OFF",
+    "AUTO_TRANSLATION_WARNING": "Turn on auto-translation? All changes will be lost."
+  },
+  "COMPILER": {
+    "AUTOSAVE_DIALOG": "The system saves automatically any changes to the document",
+    "AUTOSAVE_MESSAGE": "Autosave",
+    "GO_BACK": "Go back",
+    "HIDE_PREVIEW": "Hide Preview",
+    "HOME": "Home",
+    "SHOW_PREVIEW": "Show Preview",
+    "VALIDITY_DATE": "Validity Date",
+    "VALIDITY_DATES": "Validity Dates",
+    "END_SESSION": "End Session",
+    "END_SESSION_MODAL_TITLE": "Confirmation session end",
+    "END_SESSION_MODAL_MESSAGE": "Do you want to end the session?"
+  },
+  "DYNAMIC": {
+    "GEOJSON_MAP_EDITOR": {
+      "CHOOSE_LAYER": "Choose Layer",
+      "DELETE": "Delete",
+      "DOWNLOAD": "Download",
+      "DISCARD_CHANGES": "Discard Changes",
+      "ADD": "Add Point",
+      "DRAG": "Drag",
+      "DRAW": "Draw",
+      "EDIT": "Edit",
+      "LAYER_LIST": "Layer List",
+      "SAVE": "Save Edits",
+      "ERROR_DROP_TITLE": "Drop file error",
+      "ERROR_DROP_SHAPE_FORMAT": "Shape file format not valid",
+      "ERROR_DROP_JSON_FORMAT": "JSON file format not valid",
+      "ERROR_DROP_ONE_FILE": "Upload only one shape file",
+      "ERROR_DROP_FILE_EMPTY": "The uploaded file does not exist or is empty"
+    },
+   "MULTIRISK_MAP_SET": {
+      "FORECAST_FOR": "Expected situation for"
+    },
+    "MULTISELECT_TEXT": {
+      "OPEN_SETTINGS": "Options",
+      "CLOSE_SETTINGS": "Close",
+      "SAVE": "Save"
+    },
+    "DATAPOINTS_TABLE": {
+      "NAME": "Name",
+      "DATE": "Date",
+      "TIME": "Time",
+      "CLEAR": "Clear"
+    },
+    "DATETEXT": {
+      "SET_NOW": "Update",
+      "AUTO_SET_NOW": "Automatic update"
+    },
+    "EMAIL_RECIPIENTS_EDITOR": {
+      "NEW_ADDRESS": "New e-mail address"
+    },
+    "MAPSET": {
+      "SELECTION_MODE": {
+        "SINGLE": "Single Selection",
+        "POLYGON": "Polygon Selection",
+        "RECTANGLE": "Rectangle Selection"
+      }
+    }
+  },
+  "HEADER": {
+    "VERSION": "Version"
+  },
+  "HOME": {
+    "DIALOG_CANCEL": "Cancel",
+    "DIALOG_CONFIRM": "Ok",
+    "DOCUMENT_TYPE": "Document Type",
+    "NEW_BULLETIN": "New"
+  }
+}

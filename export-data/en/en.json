@@ -1,0 +1,41 @@
+{
+  "NEXT": "Next",
+  "PREVIOUS": "Previous",
+  "AVAILABLE_TOOLS": "Available tools",
+  "DATE_FROM": "Date from",
+  "DATE_TO": "Date to",
+  "SENSOR_CLASS": "Sensor class",
+  "TYPE": "Type",
+  "AGGREGATION": "Aggregation",
+  "DATA_FORMAT": "Data format",
+  "DOWNLOAD_DATA": "Download data",
+  "SEND_DATA": "Send data",
+  "EMAIL": "Email",
+  "PERIOD": "Period",
+  "RESEARCH_DETAILS": "Research details",
+  "SEARCH": "Search",
+  "NO_RESULT": "No result",
+  "LOADING_DATA": "Loading",
+  "ERROR_LOADING_DATA": "Error loading data",
+  "CUMULATED": "Cumulated",
+  "USER_NOT_ENABLED": "User not enabled",
+  "FUTURE_DATE": "The selected period is in the futur or not valid",
+  "MAX_PERIOD": " days is the maximum period selectable for offline export",
+  "RADAR_PRODUCT": "Radar product",
+  "PARTIAL_AVAILABLE_MESSAGE": " is partially available for selected period. Valid period: ",
+  "NEW_ANALYSIS": "New analysis",
+  "SENSORS": {
+    "STEP_1_TEXT_PART1": "Select the period for export (for periods longer than ",
+    "STEP_1_TEXT_PART2": " days, the data will be sent via email due to processing times)",
+    "STEP_2_TEXT": "Select the sensor class, optional aggregation, and export format",
+    "STEP_3_TEXT": "Refine the search",
+    "STEP_4_TEXT": "Summary of requested data:"
+  },
+  "RADAR": {
+    "STEP_1_TEXT": "Select the period for export, the data will be sent via email due to processing times.",
+    "STEP_2_TEXT": "Select the radar product from which you want to export data.",
+    "STEP_3_TEXT": "Refine the search",
+    "MAIL_MESSAGE": "You will receive the data via email once the processing is complete.<br>\nThis operation may take up to 24 hours depending on the size of the data.",
+    "FORMAT_DATA_MESSAGE": "The data will be sent in compressed format (.zip). Inside the .zip files, the datasets will be available: <br>\n - in vector format (ESRI Shapefile) for HRD, HRW, HRT, and HRM;<br>\n - in raster format (geotiff) for all others (CAPPI, SRT, SRI, ETM, POH, VMI);"
+  }
+}
