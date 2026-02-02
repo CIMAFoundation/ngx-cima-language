@@ -5,6 +5,7 @@
   "ADMINISTRATIVE_BOUNDARIES_LEV_0": "LIMITES ADMINISTRATIVOS NÍVEL 0",
   "ADMINISTRATIVE_BOUNDARIES_LEV_1": "LIMITES ADMINISTRATIVOS NÍVEL 1",
   "ADMINISTRATIVE_BOUNDARIES_LEV_2": "LIMITES ADMINISTRATIVOS NÍVEL 2",
+  "ANALYSED_SEA_SURFACE_TEMPERATURE": "Temperatura da superfície do mar analisada",
   "DEWETRA3": {
     "AREA_HA": "Área (ha)",
     "DATA_TYPE": "Tipo de dados",
@@ -506,6 +507,8 @@
     "DIMENSIONS": "Dimensões",
     "DRAW_POLYGON": "Desenhar polígono",
     "DRAW_POLYLINE": "Desenhar polilinha",
+    "DYNAMIC_PALETTE_MAX": "Paleta dinâmica Max",
+    "DYNAMIC_PALETTE_MIN": "Paleta dinâmica Min",
     "LAST": "Último",
     "LAYER_ID": "ID da Camada",
     "LOADING": "Carregando",
