@@ -30,6 +30,7 @@
             "PUBLISHED": "Publié",
             "UPDATE": "Mettre à jour",
             "CLONE": "Cloner",
+          "VIEW": "Voir",
           "CLOSE_FLAG_TITLE": "Avertissement de fermeture du bulletin",
           "CLOSE_FLAG_MESSAGE": "Êtes-vous sûr de vouloir fermer le bulletin? Tous les concurrents n'ont pas fini de modifier."
         }

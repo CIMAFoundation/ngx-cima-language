@@ -32,7 +32,8 @@
       "UPDATE": "Update",
       "CLONE": "Clone",
       "CLOSE_FLAG_TITLE": "Close Bulletin Warning",
-      "CLOSE_FLAG_MESSAGE": "Are you sure you want to close the bulletin? Not all concurrent has finished editing."
+      "CLOSE_FLAG_MESSAGE": "Are you sure you want to close the bulletin? Not all concurrent has finished editing.",
+      "VIEW": "View"
     }
   },
   "COMMON": {

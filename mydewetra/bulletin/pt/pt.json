@@ -31,6 +31,7 @@
       "UNPUBLISH": "Cancelar publicação",
       "UPDATE": "Atualizar",
       "CLONE": "Clone",
+      "VIEW": "Ver",
       "CLOSE_FLAG_TITLE": "Aviso de fechamento do boletim",
       "CLOSE_FLAG_MESSAGE": "Tem certeza de que deseja fechar o boletim? Nem todos os concorrentes terminaram de editar."
     }

@@ -31,6 +31,7 @@
             "PUBLISHED": "Publicado",
             "UPDATE": "Actualizar",
             "CLONE": "Clon",
+          "VIEW": "Ver",
           "CLOSE_FLAG_TITLE": "Advertencia de cierre del boletín",
           "CLOSE_FLAG_MESSAGE": "¿Estás seguro de que deseas cerrar el boletín? No todos los concurrentes han terminado de editar."
         }
