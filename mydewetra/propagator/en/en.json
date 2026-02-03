@@ -14,11 +14,11 @@
     "SIMULATIONS": "Simulations"
   },
   "SIMULATION_PARAMS": {
-    "NEW_SIMULATION_FROM_SET": "New Simulation from this Set",
+    "NEW_SIMULATION_FROM_SET": "Clone Simulation",
     "NAME": "Name",
     "DATE": "Date",
-    "TILE_SET": "Tile Set",
-    "TIME_LIMIT": "Time Limit",
+    "TILE_SET": "Dataset",
+    "TIME_LIMIT": "Simulation Duration",
     "SPOTTING": "Spotting",
     "BOUNDARIES_CONDITIONS": "Boundaries Conditions",
     "DOWNLOAD_BOUNDARIES": "Download Boundaries Conditions",
@@ -64,16 +64,16 @@
     "REMOVE_ALL_FEATURES": "Remove All Features",
     "START_SIMULATION": "Start Simulation",
     "ACTIONS": "Actions",
-    "ADD_CANADAIR": "Add Canadair Extinguish Action",
-    "ADD_HELICOPTER": "Add Helicopter Extinguish Action",
-    "ADD_WATERLINE": "Add Waterline Extinguish Action",
-    "ADD_HEAVY_LINE": "Add Heavy Extinguish Line",
+    "ADD_CANADAIR": "Add Canadair Action",
+    "ADD_HELICOPTER": "Add Helicopter Action",
+    "ADD_WATERLINE": "Add Waterline Action",
+    "ADD_HEAVY_LINE": "Add Heavy Action",
     "ADD_BOUNDARY": "Add Boundary Conditions",
     "EDIT_BOUNDARY": "Edit Boundary Conditions",
     "REMOVE_BOUNDARY": "Remove Boundary Conditions"
   },
   "SIMULATION_ARCHIVE": {
-    "SEARCH_RUNS": "Search Runs",
+    "SEARCH_RUNS": "Search Simulations",
     "ENTER_DATE_RANGE": "Enter Date Range",
     "START_DATE": "Start Date",
     "END_DATE": "End Date",
@@ -95,14 +95,14 @@
     "PLAY": "Play",
     "PAUSE": "Pause",
     "DOWNLOAD_DATA": "Download Data",
-    "IMAGE_TYPE": "Image Type",
+    "IMAGE_TYPE": "Variable",
     "MAX_INTENSITY": "Max Intensity",
     "MAX_ROS": "Max ROS",
     "MEAN_ROS": "Mean ROS",
     "MEAN_INTENSITY": "Mean Intensity",
     "PROBABILITY": "Probability",
     "CURRENT_TIME": "Current Time",
-    "OFFSET_TIME": "Offset (Actual Time)"
+    "OFFSET_TIME": "Offset"
   },
   "MAP": {
     "TOGGLE_LAYERS_LIST": "Toggle Layers List",
