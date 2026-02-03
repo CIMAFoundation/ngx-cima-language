@@ -18,6 +18,7 @@
     "NAME": "Nome",
     "DATE": "Data",
     "TILE_SET": "Dataset",
+    "_TILE_SET": "Dataset",
     "TIME_LIMIT": "Durata Simulazione",
     "SPOTTING": "Spotting",
     "BOUNDARIES_CONDITIONS": "Condizioni al contorno",
