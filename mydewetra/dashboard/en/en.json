@@ -74,7 +74,9 @@
     "TEMPERATUREMAP_5TERRE": "5 Terre Temperature Map",
     "RAINMAP_5TERRE": "5 Terre Rain Map",
     "PREVCOM_ALERTA": "Significant Weather Phenomena Expected",
-    "PREVCOM_FASI": "Municipal Prevention - PHASES"
+    "PREVCOM_FASI": "Municipal Prevention - PHASES",
+     "MULTI_SST": "Sea Surface Temperature",
+     "MULTI_CHL": "Chlorophyll Concentration"
   
   }
 }
