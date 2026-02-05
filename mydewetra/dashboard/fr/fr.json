@@ -73,7 +73,8 @@
       "TEMPERATUREMAP_5TERRE": "Carte des températures 5 Terre",
       "RAINMAP_5TERRE": "Carte des pluies 5 Terre",
       "PREVCOM_ALERTA": "Phénomènes météorologiques significatifs prévus",
-      "PREVCOM_FASI": "Prévention municipale - PHASES"
-     
+      "PREVCOM_FASI": "Prévention municipale - PHASES",
+      "MULTI_CHL": "Chlorophylle Multispectrale",
+      "MULTI_SST": "Température de surface de la mer"
    }
   }
