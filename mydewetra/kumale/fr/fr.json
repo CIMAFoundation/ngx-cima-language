@@ -1,0 +1,62 @@
+{
+    "ALERT": "De nouveaux messages sont disponibles",
+    "FILTER": {
+        "POST_FILTER": "Filtrer les messages",
+        "LABEL_CIRCLES": "Domaine",
+        "LABEL_APPS": "Applications",
+        "LABEL_USERS": "Utilisateurs",
+        "LABEL_LEVEL": "Niveau"
+    },
+    "CREATE": {
+        "NEW_POST": "Nouveau message",
+        "TITLE_DIALOG": "Créer un nouveau message",
+        "TITLE": "Titre du message",
+        "PLACEHOLDER_TITLE": "Saisir le titre",
+        "CHARS": "Caractères",
+        "HINT_CHARS": "Caractères restants",
+        "HINT_REQUIRED": "Champ obligatoire",
+        "LOAD_TITLE": "Contenu à télécharger",
+        "LOAD_SUBTITLE": "Saisir un fichier à joindre au message",
+        "INSERT_TITLE": "Contenu du message",
+        "INSERT_SUBTITLE": "Saisir le corps du message",    
+        "CIRCLE_TITLE": "Attribution du domaine",
+        "CIRCLE_SUBTITLE": "Sélectionner le domaine qui verra votre message",
+        "SELECT": "Choisir",
+        "LEVEL_TITLE": "Attribuer un niveau de priorité",
+        "LEVEL_SUBTITLE": "Priorité du message",
+        "RESUME": "Résumé",
+        "BTN_CANCEL": "Annuler",
+        "BTN_NEXT": "Suivant",
+        "BTN_BACK": "Retour",
+        "BTN_SEND": "Envoyer",
+        "SENTENCE": "Compléter les champs obligatoires",
+        "LABEL_STEP-1": "Étape 1",
+        "LABEL_STEP-2": "Étape 2",
+        "LABEL_STEP-3": "Étape 3"
+    },
+    "POST": {
+        "NOBODY": "Personne",
+        "SHOW": "Afficher",
+        "MORE": "plus",
+        "LESS": "moins",
+        "LEVEL": {
+            "LOW": "Faible",
+            "MEDIUM": "Moyen",
+            "HIGH": "Élevé"
+        },
+        "DELETE": "Supprimer le message",
+        "COMMENT_SEND": "Envoyer",
+        "COMMENT_PLACEHOLDER": "Commentaire",
+        "COMMENT_DELETE": "Supprimer le commentaire"
+    },
+    "SENTINEL": {
+        "SENSOR": "Capteur",
+        "NAME": "Nom",
+        "SEVERITY": "Gravité",
+        "SOGLIA": "Seuil",
+        "UM": "U.M.",
+        "VALUE": "Valeur",
+        "DATE": "Date",
+        "TITLE": "Seuil instrumental dépassé"
+    }
+}

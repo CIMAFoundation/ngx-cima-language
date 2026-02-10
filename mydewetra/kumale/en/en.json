@@ -44,7 +44,10 @@
             "MEDIUM": "Medium",
             "HIGH": "High"
         },
-        "COMMENT_SEND": "Send"
+        "DELETE": "Delete post",
+        "COMMENT_SEND": "Send",
+        "COMMENT_PLACEHOLDER": "Comment",
+        "COMMENT_DELETE": "Delete comment"
     },
     "SENTINEL": {
         "SENSOR": "Sensor",

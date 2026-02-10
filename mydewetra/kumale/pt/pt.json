@@ -1,0 +1,62 @@
+{
+    "ALERT": "Há novas mensagens disponíveis",
+    "FILTER": {
+        "POST_FILTER": "Filtrar mensagens",
+        "LABEL_CIRCLES": "Domínio",
+        "LABEL_APPS": "Aplicações",
+        "LABEL_USERS": "Utilizadores",
+        "LABEL_LEVEL": "Nível"
+    },
+    "CREATE": {
+        "NEW_POST": "Nova mensagem",
+        "TITLE_DIALOG": "Criar nova mensagem",
+        "TITLE": "Título do post",
+        "PLACEHOLDER_TITLE": "Inserir o título",
+        "CHARS": "Caracteres",
+        "HINT_CHARS": "Caracteres restantes",
+        "HINT_REQUIRED": "Campo obrigatório",        
+        "LOAD_TITLE": "Conteúdo a carregar",
+        "LOAD_SUBTITLE": "Inserir um ficheiro para anexar à mensagem",
+        "INSERT_TITLE": "Conteúdo da mensagem",
+        "INSERT_SUBTITLE": "Inserir o corpo da mensagem",    
+        "CIRCLE_TITLE": "Atribuição do domínio",
+        "CIRCLE_SUBTITLE": "Selecionar o domínio que irá visualizar a sua mensagem",
+        "SELECT": "Escolher",
+        "LEVEL_TITLE": "Atribuir o nível de prioridade",
+        "LEVEL_SUBTITLE": "Prioridade da mensagem",
+        "RESUME": "Resumo",
+        "BTN_CANCEL": "Cancelar",
+        "BTN_NEXT": "Avançar",
+        "BTN_BACK": "Voltar",
+        "BTN_SEND": "Enviar",
+        "SENTENCE": "Preencher os campos obrigatórios",
+        "LABEL_STEP-1": "Passo 1",
+        "LABEL_STEP-2": "Passo 2",
+        "LABEL_STEP-3": "Passo 3"
+    },
+    "POST":{
+        "NOBODY": "Ninguém",
+        "SHOW": "Mostrar",
+        "MORE": "mais",
+        "LESS": "menos",
+        "LEVEL": {
+            "LOW": "Baixo",
+            "MEDIUM": "Médio",
+            "HIGH": "Alto"
+        },
+        "DELETE": "Eliminar este post",
+        "COMMENT_SEND": "Enviar",
+        "COMMENT_PLACEHOLDER": "Comentar",
+        "COMMENT_DELETE": "Eliminar este comentário"
+    },
+    "SENTINEL":{
+        "SENSOR": "Sensor",
+        "NAME": "Nome",
+        "SEVERITY": "Severidade",
+        "SOGLIA": "Limite",
+        "UM": "U.M.",
+        "VALUE": "Valor",
+        "DATE": "Data",
+        "TITLE": "Limite instrumental excedido"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "ALERT": "Hay nuevas publicaciones disponibles",
+    "FILTER": {
+        "POST_FILTER": "Filtrar publicaciones",
+        "LABEL_CIRCLES": "Dominio",
+        "LABEL_APPS": "Aplicaciones",
+        "LABEL_USERS": "Usuarios",
+        "LABEL_LEVEL": "Nivel"
+    },
+    "CREATE": {
+        "NEW_POST": "Nueva publicación",
+        "TITLE_DIALOG": "Crear nueva publicación",
+        "TITLE": "Título de la publicación",
+        "PLACEHOLDER_TITLE": "Introduce el título",
+        "CHARS": "Caracteres",
+        "HINT_CHARS": "Caracteres restantes",
+        "HINT_REQUIRED": "Campo obligatorio",
+        "LOAD_TITLE": "Contenido a cargar",
+        "LOAD_SUBTITLE": "Introduce un archivo para adjuntar a la publicación",
+        "INSERT_TITLE": "Contenido de la publicación",
+        "INSERT_SUBTITLE": "Introduce el cuerpo de la publicación",
+        "CIRCLE_TITLE": "Asignación de dominio",
+        "CIRCLE_SUBTITLE": "Selecciona el dominio que verá tu publicación",
+        "SELECT": "Elegir",
+        "LEVEL_TITLE": "Asignar nivel de prioridad",
+        "LEVEL_SUBTITLE": "Prioridad de la publicación",
+        "RESUME": "Resumen",
+        "BTN_CANCEL": "Cancelar",
+        "BTN_NEXT": "Siguiente",
+        "BTN_BACK": "Atrás",
+        "BTN_SEND": "Enviar",
+        "SENTENCE": "Completa los campos obligatorios",
+        "LABEL_STEP-1": "Paso 1",
+        "LABEL_STEP-2": "Paso 2",
+        "LABEL_STEP-3": "Paso 3"
+    },
+    "POST": {
+        "NOBODY": "Nadie",
+        "SHOW": "Mostrar",
+        "MORE": "más",
+        "LESS": "menos",
+        "LEVEL": {
+            "LOW": "Baja",
+            "MEDIUM": "Media",
+            "HIGH": "Alta"
+        },
+        "DELETE": "Eliminar publicación",
+        "COMMENT_SEND": "Enviar",
+        "COMMENT_PLACEHOLDER": "Comentario",
+        "COMMENT_DELETE": "Eliminar comentario"
+    },
+    "SENTINEL": {
+        "SENSOR": "Sensor",
+        "NAME": "Nombre",
+        "SEVERITY": "Severidad",
+        "SOGLIA": "Umbral",
+        "UM": "U.M.",
+        "VALUE": "Valor",
+        "DATE": "Fecha",
+        "TITLE": "Umbral instrumental superado"
+    }
+}
