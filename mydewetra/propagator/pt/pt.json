@@ -56,7 +56,7 @@
     "GEOJSON_INVALID_FILE": "Selecione um arquivo GeoJSON valido",
     "GEOJSON_LOADED": "Carregado corretamente {{fileName}}",
     "GEOJSON_INVALID_FORMAT": "Formato GeoJSON invalido",
-    "BOUNDARIY_CONDITIONS": "Condicoes de contorno",
+    "BOUNDARY_CONDITIONS": "Condicoes de contorno",
     "GEOJSON_LOAD_FIRST": "Carregue primeiro um arquivo GeoJSON",
     "ADD_IGNITION_POINT": "Adicionar ponto de ignicao",
     "ADD_IGNITION_LINE": "Adicionar linha de ignicao",

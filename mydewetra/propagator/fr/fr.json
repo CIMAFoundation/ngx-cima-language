@@ -60,7 +60,7 @@
     "ADD_IGNITION_POINT": "Ajouter un point d'ignition",
     "ADD_IGNITION_LINE": "Ajouter une ligne d'ignition",
     "ADD_IGNITION_POLYGON": "Ajouter un polygone d'ignition",
-    "BOUNDARIY_CONDITIONS": "Conditions aux limites",
+    "BOUNDARY_CONDITIONS": "Conditions aux limites",
     "REMOVE_FEATURES": "Supprimer des éléments",
     "REMOVE_ALL_FEATURES": "Supprimer tous les éléments",
     "START_SIMULATION": "Démarrer la simulation",
