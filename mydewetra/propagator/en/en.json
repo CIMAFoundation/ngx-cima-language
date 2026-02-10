@@ -1,5 +1,6 @@
 {
   "COMMONS": {
+    "TEST": "test",
     "NEW_SIMULATION": "New Simulation",
     "STOP_SIMULATION": "Stop Simulation",
     "SIMULATION_DETAILS": "Simulation Details",
@@ -58,6 +59,7 @@
     "GEOJSON_INVALID_FORMAT": "Invalid GeoJSON format",
     "GEOJSON_LOAD_FIRST": "Please load a GeoJSON file first",
     "ADD_IGNITION_POINT": "Add Ignition Point",
+    "BOUNDARIY_CONDITIONS": "Boundary Conditions",
     "ADD_IGNITION_LINE": "Add Ignition Line",
     "ADD_IGNITION_POLYGON": "Add Ignition Polygon",
     "REMOVE_FEATURES": "Remove Features",

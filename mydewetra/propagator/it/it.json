@@ -61,6 +61,7 @@
     "REMOVE_FEATURES": "Rimuovi elementi",
     "REMOVE_ALL_FEATURES": "Rimuovi tutti gli elementi",
     "START_SIMULATION": "Avvia simulazione",
+    "BOUNDARIY_CONDITIONS": "Condizioni al contorno",
     "ACTIONS": "Azioni di contrasto",
     "ADD_CANADAIR": "Aggiungi azione di contrasto Canadair",
     "ADD_HELICOPTER": "Aggiungi azione di contrasto elicottero",

@@ -25,6 +25,7 @@
     "TIME": "Hora",
     "HOUR": "Hora",
     "MINUTE": "Minuto",
+    "BOUNDARIY_CONDITIONS": "Condiciones de contorno",
     "WIND_DIR": "Dirección del viento",
     "WIND_SPEED": "Velocidad del viento",
     "FUEL_MOISTURE": "Humedad del combustible",
