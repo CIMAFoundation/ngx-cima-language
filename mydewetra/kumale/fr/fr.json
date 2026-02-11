@@ -51,11 +51,19 @@
     },
     "DIALOG": {
         "POST": {
-            "INFO": "Supprimer le message"
+            "DELETE_TITLE": "Supprimer le message",
+            "DELETE_POST": "Êtes-vous sûr de vouloir supprimer ce message?",
+            "DELETE_POST_INFO": "Message supprimé correctement",
+            "DELETE_POST_ERROR": "Une erreur s'est produite lors de la suppression du message",
+            "POST_CREATE_INFO": "Message créé correctement",
+            "POST_ERROR_INFO": "Une erreur s'est produite lors de la création du message",
+            "POST_ERROR_UPLOAD": "Une erreur s'est produite lors du téléchargement du fichier"
         },
         "COMMENT": {
             "DELETE_TITLE": "Supprimer le commentaire",
-            "DELETE_MESSAGE": "Êtes-vous sûr de vouloir supprimer ce commentaire?"
+            "DELETE_MESSAGE": "Êtes-vous sûr de vouloir supprimer ce commentaire?",
+            "DELETE_COMMENT_INFO": "Commentaire supprimé correctement",
+            "DELETE_COMMENT_ERROR": "Une erreur s'est produite lors de la suppression du commentaire"
         }
     },
     "SENTINEL": {

@@ -51,11 +51,20 @@
     },
      "DIALOG": {
         "POST": {
-            "INFO": "Cancella il post"
+            "DELETE_TITLE": "Cancella il post",
+            "DELETE_POST": "Sei sicuro di voler cancellare questo post?",
+            "DELETE_POST_INFO": "Post cancellato correttamente",
+            "DELETE_POST_ERROR": "Si è verificato un errore durante la cancellazione del post",
+            "POST_CREATE_INFO": "Post creato correttamente",
+            "POST_ERROR_INFO": "Si è verificato un errore durante la creazione del post",
+            "POST_ERROR_UPLOAD": "Si è verificato un errore durante il caricamento del file"
+
         },
         "COMMENT": {
             "DELETE_TITLE": "Elimina questo commento",
-            "DELETE_MESSAGE": "Sei sicuro di voler eliminare questo commento?"
+            "DELETE_MESSAGE": "Sei sicuro di voler eliminare questo commento?",
+            "DELETE_COMMENT_INFO": "Commento eliminato correttamente",
+            "DELETE_COMMENT_ERROR": "Si è verificato un errore durante l'eliminazione del commento"
         }
     },
     "SENTINEL":{

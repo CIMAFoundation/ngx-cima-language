@@ -51,11 +51,19 @@
     },
     "DIALOG": {
         "POST": {
-            "INFO": "Eliminar publicación"
+            "DELETE_TITLE": "Eliminar publicación",
+            "DELETE_POST": "¿Estás seguro de que quieres eliminar esta publicación?",
+            "DELETE_POST_INFO": "Publicación eliminada correctamente",
+            "DELETE_POST_ERROR": "Se produjo un error al eliminar la publicación",
+            "POST_CREATE_INFO": "Publicación creada correctamente",
+            "POST_ERROR_INFO": "Se produjo un error al crear la publicación",
+            "POST_ERROR_UPLOAD": "Se produjo un error al cargar el archivo"
         },
         "COMMENT": {
             "DELETE_TITLE": "Eliminar comentario",
-            "DELETE_MESSAGE": "¿Estás seguro de que quieres eliminar este comentario?"
+            "DELETE_MESSAGE": "¿Estás seguro de que quieres eliminar este comentario?",
+            "DELETE_COMMENT_INFO": "Comentario eliminado correctamente",
+            "DELETE_COMMENT_ERROR": "Se produjo un error al eliminar el comentario"
         }
     },
     "SENTINEL": {

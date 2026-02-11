@@ -49,15 +49,23 @@
         "COMMENT_PLACEHOLDER": "Comment",
         "COMMENT_DELETE": "Delete comment"
     },
-        "DIALOG": {
-            "POST": {
-                "INFO": "Delete post"
-            },
-            "COMMENT": {
-                "DELETE_TITLE": "Delete comment",
-                "DELETE_MESSAGE": "Are you sure you want to delete this comment?"
-            }
-        },
+    "DIALOG": {
+        "POST": {
+        "DELETE_TITLE": "Delete post",
+        "DELETE_POST": "Are you sure you want to delete this post?",
+        "DELETE_POST_INFO": "Post deleted successfully",
+        "DELETE_POST_ERROR": "An error occurred while deleting the post",
+        "POST_CREATE_INFO": "Post created successfully",
+        "POST_ERROR_INFO": "An error occurred while creating the post",
+        "POST_ERROR_UPLOAD": "An error occurred while uploading the file"
+    },
+    "COMMENT": {
+        "DELETE_TITLE": "Delete comment",
+        "DELETE_MESSAGE": "Are you sure you want to delete this comment?",
+        "DELETE_COMMENT_INFO": "Comment deleted successfully",
+        "DELETE_COMMENT_ERROR": "An error occurred while deleting the comment"
+    }
+    },
     "SENTINEL": {
         "SENSOR": "Sensor",
         "NAME": "Name",

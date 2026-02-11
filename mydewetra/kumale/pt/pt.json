@@ -50,12 +50,20 @@
         "COMMENT_DELETE": "Eliminar este comentário"
     },
     "DIALOG": {
-        "POST": {
-            "INFO": "Eliminar o post"
+       "POST": {
+            "DELETE_TITLE": "Eliminar publicação",
+            "DELETE_POST": "Tem a certeza de que deseja eliminar esta publicação?",
+            "DELETE_POST_INFO": "Publicação eliminada com sucesso",
+            "DELETE_POST_ERROR": "Ocorreu um erro ao eliminar a publicação",
+            "POST_CREATE_INFO": "Publicação criada com sucesso",
+            "POST_ERROR_INFO": "Ocorreu um erro ao criar a publicação",
+            "POST_ERROR_UPLOAD": "Ocorreu um erro ao carregar o ficheiro"
         },
         "COMMENT": {
-            "DELETE_TITLE": "Eliminar este comentário",
-            "DELETE_MESSAGE": "Tem a certeza de que deseja eliminar este comentário?"
+            "DELETE_TITLE": "Eliminar comentário",
+            "DELETE_MESSAGE": "Tem a certeza de que deseja eliminar este comentário?",
+            "DELETE_COMMENT_INFO": "Comentário eliminado com sucesso",
+            "DELETE_COMMENT_ERROR": "Ocorreu um erro ao eliminar o comentário"
         }
     },
     "SENTINEL":{
