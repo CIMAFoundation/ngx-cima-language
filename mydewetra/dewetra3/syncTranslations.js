@@ -59,8 +59,8 @@ function loadJSON(filePath) {
   try {
     return JSON.parse(fs.readFileSync(filePath, 'utf8'));
   } catch (error) {
-    console.error(`Errore caricando il file ${filePath}:`, error);
-    return {};
+    const message = `Errore caricando il file ${filePath}: ${error.message}`;
+    throw new Error(message);
   }
 }
 
@@ -142,6 +142,9 @@ function removeObsoleteKeys(reference, target) {
 async function syncTranslations(referenceFile = defaultFile) {
   const refPath = path.join(__dirname, referenceFile);
   const referenceData = loadJSON(refPath);
+  if (!referenceData || typeof referenceData !== 'object' || Array.isArray(referenceData) || Object.keys(referenceData).length === 0) {
+    throw new Error(`Il file di riferimento ${referenceFile} è vuoto o non valido.`);
+  }
   const sortedReferenceData = sortKeysRecursively(referenceData);
   const sourceLang = referenceFile.split('/')[0];
 
@@ -171,4 +174,7 @@ async function syncTranslations(referenceFile = defaultFile) {
 const referenceFile = process.argv[2] || defaultFile;
 syncTranslations(referenceFile)
   .then(() => console.log('Done'))
-  .catch(err => console.error('Errore nello script:', err));
+  .catch(err => {
+    console.error('Errore nello script:', err);
+    process.exitCode = 1;
+  });
