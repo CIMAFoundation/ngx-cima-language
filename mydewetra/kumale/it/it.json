@@ -57,7 +57,8 @@
         "UM": "U.M.",
         "VALUE": "Valore",
         "DATE": "Data",
-        "TITLE": "Soglia strumentale superata"
+        "TITLE": "Soglia strumentale superata",
+        "Soglia superata": "Soglia superata"
 
     }
 }

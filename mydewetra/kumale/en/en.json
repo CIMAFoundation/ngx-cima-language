@@ -57,6 +57,7 @@
         "UM": "U.M.",
         "VALUE": "Value",
         "DATE": "Date",
-        "TITLE": "Instrumental threshold exceeded"
+        "TITLE": "Instrumental threshold exceeded",
+        "Soglia superata": "Threshold exceeded"
     }
 }

@@ -57,6 +57,7 @@
         "UM": "U.M.",
         "VALUE": "Valor",
         "DATE": "Data",
-        "TITLE": "Limite instrumental excedido"
+        "TITLE": "Limite instrumental excedido",
+        "Soglia superata": "Limite excedido"
     }
 }

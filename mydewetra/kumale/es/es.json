@@ -57,6 +57,7 @@
         "UM": "U.M.",
         "VALUE": "Valor",
         "DATE": "Fecha",
-        "TITLE": "Umbral instrumental superado"
+        "TITLE": "Umbral instrumental superado",
+        "Soglia superata": "Umbral superado"
     }
 }
