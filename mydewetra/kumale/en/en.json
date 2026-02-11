@@ -55,7 +55,7 @@
         "SEVERITY": "Severity",
         "SOGLIA": "Threshold",
         "UM": "U.M.",
-        "VALUE": "Value",
+        "MEASURE": "Value",
         "DATE": "Date",
         "TITLE": "Instrumental threshold exceeded",
         "Soglia superata": "Threshold exceeded"

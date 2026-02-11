@@ -55,7 +55,7 @@
         "SEVERITY": "Severidade",
         "SOGLIA": "Limite",
         "UM": "U.M.",
-        "VALUE": "Valor",
+        "MEASURE": "Valor",
         "DATE": "Data",
         "TITLE": "Limite instrumental excedido",
         "Soglia superata": "Limite excedido"

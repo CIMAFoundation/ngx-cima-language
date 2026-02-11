@@ -55,7 +55,7 @@
         "SEVERITY": "Gravité",
         "SOGLIA": "Seuil",
         "UM": "U.M.",
-        "VALUE": "Valeur",
+        "MEASURE": "Valeur",
         "DATE": "Date",
         "TITLE": "Seuil instrumental dépassé",
         "Soglia superata": "Seuil dépassé"

@@ -55,7 +55,7 @@
         "SEVERITY": "Severidad",
         "SOGLIA": "Umbral",
         "UM": "U.M.",
-        "VALUE": "Valor",
+        "MEASURE": "Valor",
         "DATE": "Fecha",
         "TITLE": "Umbral instrumental superado",
         "Soglia superata": "Umbral superado"
