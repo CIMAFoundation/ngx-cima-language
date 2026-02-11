@@ -49,11 +49,21 @@
         "COMMENT_PLACEHOLDER": "Commenta",
         "COMMENT_DELETE": "Elimina questo commento"
     },
+     "DIALOG": {
+        "POST": {
+            "INFO": "Cancella il post"
+        },
+        "COMMENT": {
+            "DELETE_TITLE": "Elimina questo commento",
+            "DELETE_MESSAGE": "Sei sicuro di voler eliminare questo commento?"
+        }
+    },
     "SENTINEL":{
         "SENSOR": "Sensore",
         "NAME": "Nome",
         "SEVERITY": "Severitá",
         "SOGLIA": "Soglia",
+        "VALUE": "Valore",
         "UM": "U.d.M.",
         "MEASURE": "Misura",
         "DATE": "Data",
