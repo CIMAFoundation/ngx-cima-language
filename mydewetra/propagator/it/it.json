@@ -12,7 +12,8 @@
     "NO": "No",
     "NO_DATA": "Nessun dato",
     "SIMULATIONS": "Simulazioni",
-    "TERMINATE": "Termina"
+    "TERMINATE": "Termina",
+    "SEARCH": "Ricerca"
   },
   "SIMULATION_PARAMS": {
     "NEW_SIMULATION_FROM_SET": "Clona Simulatione",
