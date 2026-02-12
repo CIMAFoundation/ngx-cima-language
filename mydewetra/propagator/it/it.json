@@ -11,7 +11,8 @@
     "YES": "Sì",
     "NO": "No",
     "NO_DATA": "Nessun dato",
-    "SIMULATIONS": "Simulazioni"
+    "SIMULATIONS": "Simulazioni",
+    "TERMINATE": "Termina"
   },
   "SIMULATION_PARAMS": {
     "NEW_SIMULATION_FROM_SET": "Clona Simulatione",
@@ -101,7 +102,8 @@
     "MEAN_INTENSITY": "Intensità media",
     "PROBABILITY": "Probabilità",
     "CURRENT_TIME": "Ora corrente",
-    "OFFSET_TIME": "Offset"
+    "OFFSET_TIME": "Offset",
+    "FOLLOW": "Segui su mappa"
   },
   "MAP": {
     "TOGGLE_LAYERS_LIST": "Mostra/Nascondi lista layer",
