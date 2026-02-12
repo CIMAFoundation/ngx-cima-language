@@ -268,11 +268,15 @@
     "MAKE_STATIC": "Rendre statique",
     "MAX_PLUVIO": {
       "ALL": "Toutes les régions",
+      "AUTO_RELOAD": "Rechargement automatique (5 min)",
+      "AUTO_RELOAD_IN_PROGRESS": "Rechargement automatique en cours...",
       "DOWNLOAD_ALL": "Téléchargez tout",
       "DOWNLOAD_CSV": "Télécharger le fichier .csv",
       "DOWNLOAD_SELECTED": "Téléchargement sélectionné",
+      "LAST_UPDATE": "Dernière mise à jour",
       "NO_DATA": "Aucune donnée",
       "REGIONS": "Régions",
+      "RELOAD": "Recharger",
       "TITLE": "Pluviomètre maximal",
       "ZERO_VALUE": "Valeur nulle"
     },

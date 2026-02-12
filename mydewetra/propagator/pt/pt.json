@@ -11,7 +11,9 @@
     "YES": "Sim",
     "NO": "Nao",
     "NO_DATA": "Sem dados",
-    "SIMULATIONS": "Simulacoes"
+    "SIMULATIONS": "Simulacoes",
+    "SEARCH": "Search...",
+    "FIND_LAYER": "Encontrar camada..."
   },
   "SIMULATION_PARAMS": {
     "NEW_SIMULATION_FROM_SET": "Clonar simulacao",

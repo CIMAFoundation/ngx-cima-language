@@ -268,11 +268,15 @@
     "MAKE_STATIC": "Tornar Estático",
     "MAX_PLUVIO": {
       "ALL": "All regions",
+      "AUTO_RELOAD": "Recarga automática (5 min)",
+      "AUTO_RELOAD_IN_PROGRESS": "Recarga automática em andamento...",
       "DOWNLOAD_ALL": "Download all",
       "DOWNLOAD_CSV": "Download .csv",
       "DOWNLOAD_SELECTED": "Download selected",
+      "LAST_UPDATE": "Última atualização",
       "NO_DATA": "No data",
       "REGIONS": "Regions",
+      "RELOAD": "Recarregue",
       "TITLE": "Maximum Rain Gauge",
       "ZERO_VALUE": "Zero value"
     },

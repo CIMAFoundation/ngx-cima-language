@@ -12,8 +12,9 @@
     "NO": "No",
     "NO_DATA": "Nessun dato",
     "SIMULATIONS": "Simulazioni",
-    "TERMINATE": "Termina",
-    "SEARCH": "Ricerca"
+    "SEARCH": "Cerca...",
+    "FIND_LAYER": "Cerca layer...",
+    "TERMINATE": "Termina"
   },
   "SIMULATION_PARAMS": {
     "NEW_SIMULATION_FROM_SET": "Clona Simulatione",

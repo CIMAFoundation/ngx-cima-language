@@ -268,11 +268,15 @@
     "MAKE_STATIC": "Rendi Statico",
     "MAX_PLUVIO": {
       "ALL": "Tutte le regioni",
+      "AUTO_RELOAD": "Ricarica automatica (5 min)",
+      "AUTO_RELOAD_IN_PROGRESS": "Ricarica automatica in corso...",
       "DOWNLOAD_ALL": "Scarica tutti",
       "DOWNLOAD_CSV": "Scarica .csv",
       "DOWNLOAD_SELECTED": "Scarica selezionati",
+      "LAST_UPDATE": "Ultimo aggiornamento",
       "NO_DATA": "No data",
       "REGIONS": "Regioni",
+      "RELOAD": "Ricarica",
       "TITLE": "Massimi Pluviometrici",
       "ZERO_VALUE": "Valori Zero"
     },

@@ -12,9 +12,10 @@
     "YES": "Yes",
     "NO": "No",
     "NO_DATA": "No data",
-    "SIMULATIONS": "Simulations",
     "TERMINATE": "Terminate",
-    "SEARCH": "Search"
+    "SIMULATIONS": "Simulations",
+    "SEARCH": "Search...",
+    "FIND_LAYER": "Find layer..."
   },
   "SIMULATION_PARAMS": {
     "NEW_SIMULATION_FROM_SET": "Clone Simulation",
@@ -91,7 +92,7 @@
     "PENDING": "Pending",
     "INITIALIZING": "Initializing",
     "RUNNING": "Running",
-    "UNKNOWN": "Unknown"    
+    "UNKNOWN": "Unknown"
   },
   "TIME_LINE": {
     "SKIP_NEXT": "Skip Next",
