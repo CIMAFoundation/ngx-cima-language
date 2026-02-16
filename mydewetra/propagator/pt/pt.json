@@ -105,7 +105,19 @@
     "MEAN_INTENSITY": "Intensidade media",
     "PROBABILITY": "Probabilidade",
     "CURRENT_TIME": "Hora atual",
-    "OFFSET_TIME": "Deslocamento"
+    "OFFSET_TIME": "Deslocamento",
+    "MIN_ARRIVAL_TIME": "Tempo de chegada mínimo",
+    "MEAN_ARRIVAL_TIME": "Tempo de chegada médio",
+    "SPOTTING_RECEIVING_PROBABILITY": "Probabilidade de recepção de spotting",
+    "SPOTTING_GENERATION_PROBABILITY": "Probabilidade de geração de spotting",
+    "FOLLOW": "Seguir no mapa"
+  },
+    "SIMULATION_ARTIFACTS": {
+    "DOWNLOAD_TITLE": "Baixar dados da simulação",
+    "CLOSE_DIALOG": "Fechar diálogo",
+    "NETCDF_OUTPUT": "Saída NetCDF",
+    "ISOCHRONES_GPKG": "Isochrone GPKG",
+    "DOWNLOAD": "Baixar"
   },
   "MAP": {
     "TOGGLE_LAYERS_LIST": "Mostrar/Ocultar lista de camadas",
