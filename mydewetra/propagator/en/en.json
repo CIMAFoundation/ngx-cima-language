@@ -116,6 +116,7 @@
   },
     "SIMULATION_ARTIFACTS": {
     "DOWNLOAD_TITLE": "Download Simulation Data",
+    "DOWNLOAD_BUTTON": "Simulation Data",
     "CLOSE_DIALOG": "Close Dialog",
     "NETCDF_OUTPUT": "NetCDF Output",
     "ISOCHRONES_GPKG": "Isochrone GPKG",
