@@ -91,5 +91,6 @@
   "SCREEN_TYPE_STATIC_LAYERS": "Layer statici",
   "SCREEN_TYPE_LAYER_GROUPS": "Layer Groups",
   "SCREEN_TYPE_DDS_ISTANCES": "Istanze DDS",
-  "SCREEN_TYPE_BUCKETS": "Buckets"
+  "SCREEN_TYPE_BUCKETS": "Buckets",
+  "SECONDS": "Secondi"
 }
