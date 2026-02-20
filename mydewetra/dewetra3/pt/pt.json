@@ -518,7 +518,9 @@
     "UPDATE_DATES": "Datas de atualização",
     "X_AXIS": "X Axis",
     "Y_AXIS": "Y Axis",
-    "Y_RAINFALL": "Precipitação sub-horária acumulada [mm]"
+    "Y_RAINFALL": "Precipitação sub-horária acumulada [mm]",
+    "yaxis": "Eixo Y1",
+    "yaxis2": "Eixo Y2"
   },
   "DEWETRA3CORE": {
     "ACCUMULATION_SELECTED": "Acumulação selecionada",

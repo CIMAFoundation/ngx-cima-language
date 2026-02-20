@@ -518,7 +518,9 @@
     "UPDATE_DATES": "Date de mise à jour",
     "X_AXIS": "Axe X",
     "Y_AXIS": "Axe Y",
-    "Y_RAINFALL": "Précipitations instantanées [mm/ΔT]"
+    "Y_RAINFALL": "Précipitations instantanées [mm/ΔT]",
+    "yaxis": "Axe Y1",
+    "yaxis2": "Axe Y2"
   },
   "DEWETRA3CORE": {
     "ACCUMULATION_SELECTED": "Accumulation sélectionnée",
