@@ -87,6 +87,8 @@
     "HIDE_PREVIEW": "Hide Preview",
     "HOME": "Home",
     "SHOW_PREVIEW": "Show Preview",
+    "BULLETIN_PREVIEW": "Bulletin Preview",
+    "EXPORTER": "Exporter",
     "VALIDITY_DATE": "Validity Date",
     "VALIDITY_DATES": "Validity Dates",
     "END_SESSION": "End Session",

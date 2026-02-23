@@ -87,6 +87,8 @@
         "HIDE_PREVIEW": "Ocultar vista previa",
         "HOME": "Inicio",
         "SHOW_PREVIEW": "Mostrar vista previa",
+      "BULLETIN_PREVIEW": "Vista previa del boletín",
+      "EXPORTER": "Exportador",
         "VALIDITY_DATE": "Fecha de validez",
         "VALIDITY_DATES": "Periodo de referencia",
         "END_SESSION": "Finalizar sesión",

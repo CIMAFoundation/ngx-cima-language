@@ -83,6 +83,8 @@
         "HIDE_PREVIEW": "Cacher l‘aperçu",
         "HOME": "Page d‘accueil",
         "SHOW_PREVIEW": "Afficher l‘aperçu",
+      "BULLETIN_PREVIEW": "Aperçu du Bulletin",
+      "EXPORTER": "Exportateur",
         "VALIDITY_DATE": "Date de validité",
         "VALIDITY_DATES": "Dates de validité",
         "END_SESSION": "Fin de session",
