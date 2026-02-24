@@ -21,7 +21,7 @@
   "USER_NOT_ENABLED": "Utente non abilitato",
   "FUTURE_DATE": "Il periodo selezionato è nel futuro o non valido",
   "MAX_PERIOD": " giorni è il periodo massimo selezionabile per l'esportazione offline",
-  "RADAR_PRODUCT": "Prodotto radar",
+  "RADAR_PRODUCT": "Prodotto",
   "NEW_ANALYSIS": "Nuova analisi",
   "PARTIAL_AVAILABLE_MESSAGE": "  è parzialmente disponibile per il periodo selezionato. Periodo valido: ",
   "SENSORS": {
@@ -34,7 +34,7 @@
   },
   "RADAR": {
     "STEP_1_TEXT": "Seleziona il periodo per l'esportazione, i dati verranno inviati via email a causa dei tempi di elaborazione.",
-    "STEP_2_TEXT": "Seleziona il prodotto radar del quale vuoi esportare i dati.",
+    "STEP_2_TEXT": "Seleziona il prodotto del quale vuoi esportare i dati.",
     "STEP_3_TEXT": "Riepilogo dei dati richiesti:",
     "MAIL_MESSAGE": "              Riceverai i dati via email al termine dell'elaborazione.<br>\n                Questa operazione potrebbe richiedere fino a 24h seconda della dimensione dei dati.<br>\n",
     "FORMAT_DATA_MESSAGE": "I dati verranno inviati in formato compresso (.zip). All'interno dei file .zip i dataset saranno disponibili: <br>\n - in formato vettoriale (ESRI Shapefile) per quanto riguarda HRD, HRW, HRT e HRM;<br>\n - in formato raster (geotiff) per quanto riguarda tutti gli altri (CAPPI, SRT, SRI, ETM, POH, VMI);"
