@@ -47,7 +47,11 @@
         "DELETE": "Cancella questo post",
         "COMMENT_SEND": "Invia",
         "COMMENT_PLACEHOLDER": "Commenta",
-        "COMMENT_DELETE": "Elimina questo commento"
+        "COMMENT_DELETE": "Elimina questo commento",
+         "POST_DATE_TODAY": "Oggi",
+        "POST_DATE_YESTERDAY": "Ieri",
+        "COMMENT_DATE_TODAY": "Oggi",
+        "COMMENT_DATE_YESTERDAY": "Ieri"
     },
      "DIALOG": {
         "POST": {

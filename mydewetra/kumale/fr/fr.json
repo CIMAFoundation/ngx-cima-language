@@ -47,7 +47,11 @@
         "DELETE": "Supprimer le message",
         "COMMENT_SEND": "Envoyer",
         "COMMENT_PLACEHOLDER": "Commentaire",
-        "COMMENT_DELETE": "Supprimer le commentaire"
+        "COMMENT_DELETE": "Supprimer le commentaire",
+        "POST_DATE_TODAY": "Aujourd'hui",
+        "POST_DATE_YESTERDAY": "Hier",
+        "COMMENT_DATE_TODAY": "Aujourd'hui",
+        "COMMENT_DATE_YESTERDAY": "Hier"
     },
     "DIALOG": {
         "POST": {

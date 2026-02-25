@@ -47,7 +47,11 @@
         "DELETE": "Eliminar publicación",
         "COMMENT_SEND": "Enviar",
         "COMMENT_PLACEHOLDER": "Comentario",
-        "COMMENT_DELETE": "Eliminar comentario"
+        "COMMENT_DELETE": "Eliminar comentario",
+        "POST_DATE_TODAY": "Hoy",
+        "POST_DATE_YESTERDAY": "Ayer",
+        "COMMENT_DATE_TODAY": "Hoy",
+        "COMMENT_DATE_YESTERDAY": "Ayer"
     },
     "DIALOG": {
         "POST": {

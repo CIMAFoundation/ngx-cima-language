@@ -47,7 +47,11 @@
         "DELETE": "Delete post",
         "COMMENT_SEND": "Send",
         "COMMENT_PLACEHOLDER": "Comment",
-        "COMMENT_DELETE": "Delete comment"
+        "COMMENT_DELETE": "Delete comment",
+        "POST_DATE_TODAY": "Today",
+        "POST_DATE_YESTERDAY": "Yesterday",
+        "COMMENT_DATE_TODAY": "Today",
+        "COMMENT_DATE_YESTERDAY": "Yesterday"
     },
     "DIALOG": {
         "POST": {
