@@ -15,7 +15,9 @@
     "TERMINATE": "Terminate",
     "SIMULATIONS": "Simulations",
     "SEARCH": "Search...",
-    "FIND_LAYER": "Find layer..."
+    "FIND_LAYER": "Find layer...",
+    "ALL": "All",
+    "DISMISS": "Dismiss"
   },
   "SIMULATION_PARAMS": {
     "NEW_SIMULATION_FROM_SET": "Clone Simulation",
@@ -114,16 +116,52 @@
     "OFFSET_TIME": "Offset",
     "FOLLOW": "Follow on map"
   },
-    "SIMULATION_ARTIFACTS": {
+  "SIMULATION_ARTIFACTS": {
     "DOWNLOAD_TITLE": "Download Simulation Data",
     "DOWNLOAD_BUTTON": "Simulation Data",
     "CLOSE_DIALOG": "Close Dialog",
     "NETCDF_OUTPUT": "NetCDF Output",
     "ISOCHRONES_GPKG": "Isochrone GPKG",
-    "DOWNLOAD": "Download"
+    "DOWNLOAD": "Download",
+    "GENERATING": "Artifacts are still being generated and uploaded..."
   },
   "MAP": {
     "TOGGLE_LAYERS_LIST": "Toggle Layers List",
-    "ADD_LAYER": "Add Layer"
+    "ADD_LAYER": "Add Layer",
+    "LAYERS_COUNT": "{{count}} layers",
+    "RESET_FILTERS": "Reset filters",
+    "LAYER_CATEGORIES": "Layer categories",
+    "NO_LAYERS_HINT": "Try a different search or clear the filters."
+  },
+  "BOUNDARY_CONDITIONS": {
+    "SELECT_TASK_CONFIG": "Select task configuration",
+    "START_DOWNLOAD": "Start download",
+    "CLOSE_DOWNLOAD_DIALOG": "Close download dialog",
+    "RUNNING_TASK": "Running task",
+    "DOWNLOAD_FAILED": "Download failed",
+    "NO_IGNITION_POINTS": "No ignition points",
+    "STARTING_EXTRACTION": "Starting boundary conditions extraction...",
+    "REQUEST_TIMEOUT": "Boundary conditions request timed out. No response from server.",
+    "CLIENT_TIMEOUT": "Client timeout - no response received",
+    "START_FAILED": "Failed to start boundary conditions download",
+    "DOWNLOAD_CANCELLED": "Boundary conditions download cancelled",
+    "PROCESSING": "Processing...",
+    "UNKNOWN_ERROR": "Unknown error occurred",
+    "LOADED_COUNT": "Loaded {{count}} boundary conditions",
+    "DOWNLOAD_TIMEOUT": "Boundary conditions download timed out. Please try again or reduce the date range.",
+    "DOWNLOAD_ERROR": "Error downloading boundary conditions: {{error}}",
+    "CONNECTION_ERROR": "Connection error while downloading boundary conditions"
+  },
+  "SYSTEM_STATUS": {
+    "LOADING": "System status loading...",
+    "UNAVAILABLE": "System status unavailable",
+    "HEALTHY": "Healthy",
+    "DEGRADED": "Degraded",
+    "STATUS": "Status",
+    "ACTIVE_JOBS": "Active jobs",
+    "ACTIVE_TASKS": "Active tasks",
+    "TOTAL_MAX": "Total / max",
+    "CPU": "CPU",
+    "MEMORY": "Memory"
   }
 }

@@ -13,7 +13,10 @@
     "NO_DATA": "Sin datos",
     "SIMULATIONS": "Simulaciones",
     "SEARCH": "Buscar...",
-    "FIND_LAYER": "Buscar capa..."
+    "FIND_LAYER": "Buscar capa...",
+    "TERMINATE": "Terminar",
+    "ALL": "Todos",
+    "DISMISS": "Cerrar"
   },
   "SIMULATION_PARAMS": {
     "NEW_SIMULATION_FROM_SET": "Clonar simulación",
@@ -112,16 +115,52 @@
     "OFFSET_TIME": "Desfase",
     "FOLLOW": "Seguir en el mapa"
   },
-    "SIMULATION_ARTIFACTS": {
+  "SIMULATION_ARTIFACTS": {
     "DOWNLOAD_TITLE": "Descargar datos de simulación",
     "DOWNLOAD_BUTTON": "Datos de simulación",
     "CLOSE_DIALOG": "Cerrar diálogo",
     "NETCDF_OUTPUT": "Salida NetCDF",
     "ISOCHRONES_GPKG": "Isochrone GPKG",
-    "DOWNLOAD": "Descargar"
+    "DOWNLOAD": "Descargar",
+    "GENERATING": "Los artefactos todavía se están generando y cargando..."
   },
   "MAP": {
     "TOGGLE_LAYERS_LIST": "Mostrar/Ocultar lista de capas",
-    "ADD_LAYER": "Agregar capa"
+    "ADD_LAYER": "Agregar capa",
+    "LAYERS_COUNT": "{{count}} capas",
+    "RESET_FILTERS": "Restablecer filtros",
+    "LAYER_CATEGORIES": "Categorías de capas",
+    "NO_LAYERS_HINT": "Prueba otra búsqueda o limpia los filtros."
+  },
+  "BOUNDARY_CONDITIONS": {
+    "SELECT_TASK_CONFIG": "Selecciona la configuración de tarea",
+    "START_DOWNLOAD": "Iniciar descarga",
+    "CLOSE_DOWNLOAD_DIALOG": "Cerrar diálogo de descarga",
+    "RUNNING_TASK": "Tarea en ejecución",
+    "DOWNLOAD_FAILED": "Descarga fallida",
+    "NO_IGNITION_POINTS": "No hay puntos de ignición",
+    "STARTING_EXTRACTION": "Iniciando extracción de condiciones de contorno...",
+    "REQUEST_TIMEOUT": "La solicitud de condiciones de contorno agotó el tiempo de espera. No hubo respuesta del servidor.",
+    "CLIENT_TIMEOUT": "Tiempo de espera del cliente agotado: no se recibió respuesta",
+    "START_FAILED": "No se pudo iniciar la descarga de condiciones de contorno",
+    "DOWNLOAD_CANCELLED": "Descarga de condiciones de contorno cancelada",
+    "PROCESSING": "Procesando...",
+    "UNKNOWN_ERROR": "Se produjo un error desconocido",
+    "LOADED_COUNT": "Se cargaron {{count}} condiciones de contorno",
+    "DOWNLOAD_TIMEOUT": "La descarga de condiciones de contorno agotó el tiempo de espera. Vuelve a intentarlo o reduce el rango de fechas.",
+    "DOWNLOAD_ERROR": "Error al descargar las condiciones de contorno: {{error}}",
+    "CONNECTION_ERROR": "Error de conexión al descargar las condiciones de contorno"
+  },
+  "SYSTEM_STATUS": {
+    "LOADING": "Cargando estado del sistema...",
+    "UNAVAILABLE": "Estado del sistema no disponible",
+    "HEALTHY": "Correcto",
+    "DEGRADED": "Degradado",
+    "STATUS": "Estado",
+    "ACTIVE_JOBS": "Trabajos activos",
+    "ACTIVE_TASKS": "Tareas activas",
+    "TOTAL_MAX": "Total / máx.",
+    "CPU": "CPU",
+    "MEMORY": "Memoria"
   }
 }

@@ -13,7 +13,10 @@
     "NO_DATA": "Aucune donnée",
     "SIMULATIONS": "Simulations",
     "SEARCH": "Rechercher...",
-    "FIND_LAYER": "Trouver une couche..."
+    "FIND_LAYER": "Trouver une couche...",
+    "TERMINATE": "Terminer",
+    "ALL": "Tous",
+    "DISMISS": "Fermer"
   },
   "SIMULATION_PARAMS": {
     "NEW_SIMULATION_FROM_SET": "Cloner la simulation",
@@ -112,16 +115,52 @@
     "OFFSET_TIME": "Décalage",
     "FOLLOW": "Suivre sur la carte"
   },
-    "SIMULATION_ARTIFACTS": {
+  "SIMULATION_ARTIFACTS": {
     "DOWNLOAD_TITLE": "Télécharger les données de simulation",
     "DOWNLOAD_BUTTON": "Données de simulation",
     "CLOSE_DIALOG": "Fermer le dialogue",
     "NETCDF_OUTPUT": "Sortie NetCDF",
     "ISOCHRONES_GPKG": "Isochrone GPKG",
-    "DOWNLOAD": "Télécharger"
-  },    
+    "DOWNLOAD": "Télécharger",
+    "GENERATING": "Les artefacts sont encore en cours de génération et de téléversement..."
+  },
   "MAP": {
     "TOGGLE_LAYERS_LIST": "Afficher/Masquer la liste des couches",
-    "ADD_LAYER": "Ajouter une couche"
+    "ADD_LAYER": "Ajouter une couche",
+    "LAYERS_COUNT": "{{count}} couches",
+    "RESET_FILTERS": "Réinitialiser les filtres",
+    "LAYER_CATEGORIES": "Catégories de couches",
+    "NO_LAYERS_HINT": "Essayez une autre recherche ou effacez les filtres."
+  },
+  "BOUNDARY_CONDITIONS": {
+    "SELECT_TASK_CONFIG": "Sélectionner la configuration de tâche",
+    "START_DOWNLOAD": "Démarrer le téléchargement",
+    "CLOSE_DOWNLOAD_DIALOG": "Fermer la boîte de dialogue de téléchargement",
+    "RUNNING_TASK": "Tâche en cours",
+    "DOWNLOAD_FAILED": "Échec du téléchargement",
+    "NO_IGNITION_POINTS": "Aucun point d'ignition",
+    "STARTING_EXTRACTION": "Démarrage de l'extraction des conditions aux limites...",
+    "REQUEST_TIMEOUT": "La requête des conditions aux limites a expiré. Aucune réponse du serveur.",
+    "CLIENT_TIMEOUT": "Délai d'attente client dépassé, aucune réponse reçue",
+    "START_FAILED": "Impossible de démarrer le téléchargement des conditions aux limites",
+    "DOWNLOAD_CANCELLED": "Téléchargement des conditions aux limites annulé",
+    "PROCESSING": "Traitement en cours...",
+    "UNKNOWN_ERROR": "Une erreur inconnue est survenue",
+    "LOADED_COUNT": "{{count}} conditions aux limites chargées",
+    "DOWNLOAD_TIMEOUT": "Le téléchargement des conditions aux limites a expiré. Réessayez ou réduisez la plage de dates.",
+    "DOWNLOAD_ERROR": "Erreur lors du téléchargement des conditions aux limites : {{error}}",
+    "CONNECTION_ERROR": "Erreur de connexion pendant le téléchargement des conditions aux limites"
+  },
+  "SYSTEM_STATUS": {
+    "LOADING": "Chargement de l'état du système...",
+    "UNAVAILABLE": "État du système indisponible",
+    "HEALTHY": "Sain",
+    "DEGRADED": "Dégradé",
+    "STATUS": "Statut",
+    "ACTIVE_JOBS": "Jobs actifs",
+    "ACTIVE_TASKS": "Tâches actives",
+    "TOTAL_MAX": "Total / max",
+    "CPU": "CPU",
+    "MEMORY": "Mémoire"
   }
 }
