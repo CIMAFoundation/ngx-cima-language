@@ -11,6 +11,7 @@
     "DATA_TYPE": "Tipo di dati",
     "DEVELOP": "Sviluppa",
     "FROM_DATE": "Data da",
+    "GG_ITALY:ProvCM01012024_WGS84_static_dew_giallo": "Italia - Confini provinciali",
     "ITALIA": {
       "REGIONE": "Regione",
       "VALUE": "Valore"
@@ -1072,6 +1073,12 @@
   "MIN@": "Minimo Storico",
   "NATIVE": "Nativo",
   "PRECIPITATION": "Precipitazioni",
+  "P_SHARED_STYLES:bordo_bianco": "Bordo bianco",
+  "P_SHARED_STYLES:bordo_blu": "Bordo blu",
+  "P_SHARED_STYLES:bordo_ciano": "Bordo ciano",
+  "P_SHARED_STYLES:bordo_giallo": "Bordo giallo",
+  "P_SHARED_STYLES:bordo_nero": "Bordo nero",
+  "P_SHARED_STYLES:bordo_rosso": "Bordo rosso",
   "RELATIVE_HUMIDITY_AT_2M": "UMIDITÀ RELATIVA A 2M",
   "RELATIVE_HUMIDITY_AT_2M_(NEW)": "UMIDITÀ RELATIVA A 2 M (NUOVA)",
   "SATELLITE_COVERAGE": "Copertura satellitare",

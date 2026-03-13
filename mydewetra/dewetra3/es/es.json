@@ -11,6 +11,7 @@
     "DATA_TYPE": "Tipo de datos",
     "DEVELOP": "Desarrollar",
     "FROM_DATE": "Fecha desde",
+    "GG_ITALY:ProvCM01012024_WGS84_static_dew_giallo": "Italia - Límites provinciales",
     "ITALIA": {
       "REGIONE": "Región",
       "VALUE": "Valor"
@@ -1072,6 +1073,12 @@
   "MIN@": "Mín",
   "NATIVE": "Nativo",
   "PRECIPITATION": "Precipitación",
+  "P_SHARED_STYLES:bordo_bianco": "Borde blanco",
+  "P_SHARED_STYLES:bordo_blu": "Borde azul",
+  "P_SHARED_STYLES:bordo_ciano": "Borde cian",
+  "P_SHARED_STYLES:bordo_giallo": "Borde amarillo",
+  "P_SHARED_STYLES:bordo_nero": "Borde negro",
+  "P_SHARED_STYLES:bordo_rosso": "Borde rojo",
   "RELATIVE_HUMIDITY_AT_2M": "HUMEDAD RELATIVA A 2 M",
   "RELATIVE_HUMIDITY_AT_2M_(NEW)": "HUMEDAD RELATIVA A 2 M (NUEVA)",
   "SATELLITE_COVERAGE": "Cobertura satelital",

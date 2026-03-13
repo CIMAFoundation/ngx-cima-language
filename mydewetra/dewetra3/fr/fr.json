@@ -11,6 +11,7 @@
     "DATA_TYPE": "Type de données",
     "DEVELOP": "Développez",
     "FROM_DATE": "Date du",
+    "GG_ITALY:ProvCM01012024_WGS84_static_dew_giallo": "Italie - Frontières des provinces",
     "ITALIA": {
       "REGIONE": "Région",
       "VALUE": "Valeur"
@@ -1072,6 +1073,12 @@
   "MIN@": "Minimum",
   "NATIVE": "Autochtone",
   "PRECIPITATION": "Précipitations",
+  "P_SHARED_STYLES:bordo_bianco": "Bordure blanche",
+  "P_SHARED_STYLES:bordo_blu": "Bordure bleue",
+  "P_SHARED_STYLES:bordo_ciano": "Bordure cyan",
+  "P_SHARED_STYLES:bordo_giallo": "Bordure jaune",
+  "P_SHARED_STYLES:bordo_nero": "Bordure noire",
+  "P_SHARED_STYLES:bordo_rosso": "Bordure rouge",
   "RELATIVE_HUMIDITY_AT_2M": "HUMIDITÉ RELATIVE À 2 M",
   "RELATIVE_HUMIDITY_AT_2M_(NEW)": "HUMIDITÉ RELATIVE À 2 M (NOUVEAU)",
   "SATELLITE_COVERAGE": "Couverture par satellite",

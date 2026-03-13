@@ -11,6 +11,7 @@
     "DATA_TYPE": "Data Type",
     "DEVELOP": "Develop",
     "FROM_DATE": "Date from",
+    "GG_ITALY:ProvCM01012024_WGS84_static_dew_giallo": "Italy - Province boundaries",
     "ITALIA": {
       "REGIONE": "Region",
       "VALUE": "Value"
@@ -1072,6 +1073,12 @@
   "MIN@": "Historical Min",
   "NATIVE": "Native",
   "PRECIPITATION": "Precipitation",
+  "P_SHARED_STYLES:bordo_bianco": "White Border",
+  "P_SHARED_STYLES:bordo_blu": "Blue Border",
+  "P_SHARED_STYLES:bordo_ciano": "Cyan Border",
+  "P_SHARED_STYLES:bordo_giallo": "Yellow Border",
+  "P_SHARED_STYLES:bordo_nero": "Black Border",
+  "P_SHARED_STYLES:bordo_rosso": "Red Border",
   "RELATIVE_HUMIDITY_AT_2M": "RELATIVE HUMIDITY AT 2M",
   "RELATIVE_HUMIDITY_AT_2M_(NEW)": "RELATIVE HUMIDITY AT 2M (NEW)",
   "SATELLITE_COVERAGE": "Satellite Coverage",
