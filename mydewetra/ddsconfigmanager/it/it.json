@@ -34,7 +34,7 @@
   "INSTANCE_TYPE": "Tipo di istanza",
   "INSTANCE_TYPE_DEVELOPMENT": "Sviluppo",
   "INSTANCE_TYPE_PRODUCTION": "Produzione",
-  "INSTANCE_TYPE_TESTING": "Testing",
+  "INSTANCE_TYPE_TESTING": "Staging",
   "INSTANCES": "Istanze",
   "INVALID_COVERAGE_PROPS_JSON": "Coverage Properties JSON non valido",
   "INVALID_PROPS_JSON": "Properties JSON non valido",

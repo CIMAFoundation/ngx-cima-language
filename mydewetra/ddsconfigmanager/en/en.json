@@ -34,7 +34,7 @@
   "INSTANCE_TYPE": "Instance Type",
   "INSTANCE_TYPE_DEVELOPMENT": "Development",
   "INSTANCE_TYPE_PRODUCTION": "Production",
-  "INSTANCE_TYPE_TESTING": "Testing",
+  "INSTANCE_TYPE_TESTING": "Staging",
   "INSTANCES": "Instances",
   "INVALID_COVERAGE_PROPS_JSON": "Invalid Coverage Properties JSON",
   "INVALID_PROPS_JSON": "Invalid Properties JSON",
