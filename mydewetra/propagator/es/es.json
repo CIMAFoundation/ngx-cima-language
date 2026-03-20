@@ -130,7 +130,12 @@
     "LAYERS_COUNT": "{{count}} capas",
     "RESET_FILTERS": "Restablecer filtros",
     "LAYER_CATEGORIES": "Categorías de capas",
-    "NO_LAYERS_HINT": "Prueba otra búsqueda o limpia los filtros."
+    "NO_LAYERS_HINT": "Prueba otra búsqueda o limpia los filtros.",
+    "SEARCH_LOCATION": "Buscar ubicacion",
+    "SEARCH_LOCATION_PLACEHOLDER": "Buscar ubicacion con OSM",
+    "SEARCH_LOCATION_EMPTY": "Introduce una ubicacion para buscar.",
+    "SEARCH_LOCATION_NO_RESULTS": "No se encontraron ubicaciones.",
+    "SEARCH_LOCATION_UNAVAILABLE": "La busqueda de ubicaciones no esta disponible temporalmente."
   },
   "BOUNDARY_CONDITIONS": {
     "SELECT_TASK_CONFIG": "Selecciona la configuración de tarea",
@@ -149,7 +154,11 @@
     "LOADED_COUNT": "Se cargaron {{count}} condiciones de contorno",
     "DOWNLOAD_TIMEOUT": "La descarga de condiciones de contorno agotó el tiempo de espera. Vuelve a intentarlo o reduce el rango de fechas.",
     "DOWNLOAD_ERROR": "Error al descargar las condiciones de contorno: {{error}}",
-    "CONNECTION_ERROR": "Error de conexión al descargar las condiciones de contorno"
+    "CONNECTION_ERROR": "Error de conexión al descargar las condiciones de contorno",
+    "CLEAR_ALL": "Borrar todo",
+    "CLEAR_ALL_TITLE": "Borrar condiciones de contorno",
+    "CLEAR_ALL_MESSAGE": "Se eliminaran todas las condiciones de contorno excepto la primera.",
+    "CLEAR_ALL_TOOLTIP": "Borrar todas las condiciones de contorno excepto la primera"
   },
   "SYSTEM_STATUS": {
     "LOADING": "Cargando estado del sistema...",

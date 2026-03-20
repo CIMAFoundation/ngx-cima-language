@@ -130,7 +130,12 @@
     "LAYERS_COUNT": "{{count}} couches",
     "RESET_FILTERS": "Réinitialiser les filtres",
     "LAYER_CATEGORIES": "Catégories de couches",
-    "NO_LAYERS_HINT": "Essayez une autre recherche ou effacez les filtres."
+    "NO_LAYERS_HINT": "Essayez une autre recherche ou effacez les filtres.",
+    "SEARCH_LOCATION": "Rechercher un lieu",
+    "SEARCH_LOCATION_PLACEHOLDER": "Rechercher un lieu avec OSM",
+    "SEARCH_LOCATION_EMPTY": "Saisissez un lieu a rechercher.",
+    "SEARCH_LOCATION_NO_RESULTS": "Aucun lieu trouve.",
+    "SEARCH_LOCATION_UNAVAILABLE": "La recherche de lieux est temporairement indisponible."
   },
   "BOUNDARY_CONDITIONS": {
     "SELECT_TASK_CONFIG": "Sélectionner la configuration de tâche",
@@ -149,7 +154,11 @@
     "LOADED_COUNT": "{{count}} conditions aux limites chargées",
     "DOWNLOAD_TIMEOUT": "Le téléchargement des conditions aux limites a expiré. Réessayez ou réduisez la plage de dates.",
     "DOWNLOAD_ERROR": "Erreur lors du téléchargement des conditions aux limites : {{error}}",
-    "CONNECTION_ERROR": "Erreur de connexion pendant le téléchargement des conditions aux limites"
+    "CONNECTION_ERROR": "Erreur de connexion pendant le téléchargement des conditions aux limites",
+    "CLEAR_ALL": "Tout effacer",
+    "CLEAR_ALL_TITLE": "Effacer les conditions aux limites",
+    "CLEAR_ALL_MESSAGE": "Toutes les conditions aux limites sauf la premiere seront supprimees.",
+    "CLEAR_ALL_TOOLTIP": "Effacer toutes les conditions aux limites sauf la premiere"
   },
   "SYSTEM_STATUS": {
     "LOADING": "Chargement de l'état du système...",

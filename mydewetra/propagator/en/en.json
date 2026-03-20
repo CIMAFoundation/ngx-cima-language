@@ -131,7 +131,12 @@
     "LAYERS_COUNT": "{{count}} layers",
     "RESET_FILTERS": "Reset filters",
     "LAYER_CATEGORIES": "Layer categories",
-    "NO_LAYERS_HINT": "Try a different search or clear the filters."
+    "NO_LAYERS_HINT": "Try a different search or clear the filters.",
+    "SEARCH_LOCATION": "Search location",
+    "SEARCH_LOCATION_PLACEHOLDER": "Search location with OSM",
+    "SEARCH_LOCATION_EMPTY": "Enter a location to search.",
+    "SEARCH_LOCATION_NO_RESULTS": "No locations found.",
+    "SEARCH_LOCATION_UNAVAILABLE": "Location search is temporarily unavailable."
   },
   "BOUNDARY_CONDITIONS": {
     "SELECT_TASK_CONFIG": "Select task configuration",
@@ -150,7 +155,11 @@
     "LOADED_COUNT": "Loaded {{count}} boundary conditions",
     "DOWNLOAD_TIMEOUT": "Boundary conditions download timed out. Please try again or reduce the date range.",
     "DOWNLOAD_ERROR": "Error downloading boundary conditions: {{error}}",
-    "CONNECTION_ERROR": "Connection error while downloading boundary conditions"
+    "CONNECTION_ERROR": "Connection error while downloading boundary conditions",
+    "CLEAR_ALL": "Clear all",
+    "CLEAR_ALL_TITLE": "Clear boundary conditions",
+    "CLEAR_ALL_MESSAGE": "All boundary conditions except the first one will be removed.",
+    "CLEAR_ALL_TOOLTIP": "Clear all boundary conditions except the first one"
   },
   "SYSTEM_STATUS": {
     "LOADING": "System status loading...",

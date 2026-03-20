@@ -128,7 +128,12 @@
     "LAYERS_COUNT": "{{count}} layer",
     "RESET_FILTERS": "Reimposta filtri",
     "LAYER_CATEGORIES": "Categorie layer",
-    "NO_LAYERS_HINT": "Prova una ricerca diversa o rimuovi i filtri."
+    "NO_LAYERS_HINT": "Prova una ricerca diversa o rimuovi i filtri.",
+    "SEARCH_LOCATION": "Cerca localita",
+    "SEARCH_LOCATION_PLACEHOLDER": "Cerca localita con OSM",
+    "SEARCH_LOCATION_EMPTY": "Inserisci una localita da cercare.",
+    "SEARCH_LOCATION_NO_RESULTS": "Nessuna localita trovata.",
+    "SEARCH_LOCATION_UNAVAILABLE": "La ricerca localita e temporaneamente non disponibile."
   },
   "BOUNDARY_CONDITIONS": {
     "SELECT_TASK_CONFIG": "Seleziona configurazione task",
@@ -147,7 +152,11 @@
     "LOADED_COUNT": "Caricate {{count}} condizioni al contorno",
     "DOWNLOAD_TIMEOUT": "Il download delle condizioni al contorno è scaduto. Riprova o riduci l'intervallo di date.",
     "DOWNLOAD_ERROR": "Errore durante il download delle condizioni al contorno: {{error}}",
-    "CONNECTION_ERROR": "Errore di connessione durante il download delle condizioni al contorno"
+    "CONNECTION_ERROR": "Errore di connessione durante il download delle condizioni al contorno",
+    "CLEAR_ALL": "Cancella tutto",
+    "CLEAR_ALL_TITLE": "Cancella condizioni al contorno",
+    "CLEAR_ALL_MESSAGE": "Tutte le condizioni al contorno tranne la prima verranno rimosse.",
+    "CLEAR_ALL_TOOLTIP": "Cancella tutte le condizioni al contorno tranne la prima"
   },
   "SYSTEM_STATUS": {
     "LOADING": "Caricamento stato del sistema...",
