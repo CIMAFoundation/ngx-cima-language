@@ -1093,6 +1093,7 @@
     "CONFIRM_REMOVE_TITLE": "Eliminar el sensor de la lista negra",
     "DATE_ADDED": "Fecha añadida",
     "DURATION": "Duración",
+    "EXTEND_SENSOR_TO_BLACKLIST": "Extender el sensor a la lista negra",
     "MUNICIPALITY": "Municipio",
     "NAME": "Nombre de la estación",
     "NOTE": "Nota",

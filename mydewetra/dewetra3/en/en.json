@@ -1093,6 +1093,7 @@
     "CONFIRM_REMOVE_TITLE": "Remove Sensor from Blacklist",
     "DATE_ADDED": "Date Added",
     "DURATION": "Duration",
+    "EXTEND_SENSOR_TO_BLACKLIST": "Extend Sensor to Blacklist",
     "MUNICIPALITY": "Municipality",
     "NAME": "Station Name",
     "NOTE": "Note",

@@ -1093,6 +1093,7 @@
     "CONFIRM_REMOVE_TITLE": "Supprimer le capteur de la liste noire",
     "DATE_ADDED": "Date d'ajout",
     "DURATION": "Durée",
+    "EXTEND_SENSOR_TO_BLACKLIST": "Étendre le capteur à la liste noire",
     "MUNICIPALITY": "Municipalité",
     "NAME": "Nom de la station",
     "NOTE": "Remarque",
