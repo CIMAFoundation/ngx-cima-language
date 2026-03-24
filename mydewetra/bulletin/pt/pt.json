@@ -136,7 +136,8 @@
         "SINGLE": "Seleção única",
         "POLYGON": "Seleção de polígonos",
         "RECTANGLE": "Seleção de retângulo"
-      }
+      },
+      "SHOW_ALL": "Mostrar tudo"
     }
   },
   "HEADER": {

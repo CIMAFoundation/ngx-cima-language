@@ -139,7 +139,8 @@
         "SINGLE": "Single Selection",
         "POLYGON": "Polygon Selection",
         "RECTANGLE": "Rectangle Selection"
-      }
+      },
+      "SHOW_ALL": "Show All"
     }
   },
   "HEADER": {
