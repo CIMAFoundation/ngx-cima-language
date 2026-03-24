@@ -1110,6 +1110,7 @@
     "SENSOR_TYPE": "Type de capteur"
   },
   "SENTINEL_THRESHOLDS_EDITOR_DAMS": "Barrages de l'éditeur Sentinel Thresholds",
+  "SENTINEL_THRESHOLDS_EDITOR_DAMS_FLOW": "Éditeur de seuils Dams Flow",
   "SENTINEL_THRESHOLDS_EDITOR_HYDRO": "Éditeur de seuils Sentinel Hydro",
   "SNOW_DEPTH": "HAUTEUR DE NEIGE",
   "SPATIAL_RESOLUTION": "Résolution spatiale",

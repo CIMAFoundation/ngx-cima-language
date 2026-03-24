@@ -1110,6 +1110,7 @@
     "SENSOR_TYPE": "Sensor Type"
   },
   "SENTINEL_THRESHOLDS_EDITOR_DAMS": "Thresholds Editor Dams",
+  "SENTINEL_THRESHOLDS_EDITOR_DAMS_FLOW": "Thresholds Editor Dams Flow",
   "SENTINEL_THRESHOLDS_EDITOR_HYDRO": "Thresholds Editor Hydro",
   "SNOW_DEPTH": "SNOW DEPTH",
   "SPATIAL_RESOLUTION": "Spatial Resolution",

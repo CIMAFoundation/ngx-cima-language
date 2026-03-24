@@ -1110,6 +1110,7 @@
     "SENSOR_TYPE": "Tipo di sensore"
   },
   "SENTINEL_THRESHOLDS_EDITOR_DAMS": "Editor Soglie Dighe",
+  "SENTINEL_THRESHOLDS_EDITOR_DAMS_FLOW": "Editor delle soglie | Dams Flow",
   "SENTINEL_THRESHOLDS_EDITOR_HYDRO": "Editor Soglie Hydro",
   "SNOW_DEPTH": "ALTEZZA DELLA NEVE",
   "SPATIAL_RESOLUTION": "Risoluzione spaziale",

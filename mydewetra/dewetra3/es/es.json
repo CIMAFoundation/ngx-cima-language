@@ -1110,6 +1110,7 @@
     "SENSOR_TYPE": "Tipo de sensor"
   },
   "SENTINEL_THRESHOLDS_EDITOR_DAMS": "Sentinel Thresholds Editor Presas",
+  "SENTINEL_THRESHOLDS_EDITOR_DAMS_FLOW": "Editor de umbrales: Dams Flow",
   "SENTINEL_THRESHOLDS_EDITOR_HYDRO": "Sentinel Thresholds Editor Hydro",
   "SNOW_DEPTH": "PROFUNDIDAD DE NIEVE",
   "SPATIAL_RESOLUTION": "Resolución espacial",
