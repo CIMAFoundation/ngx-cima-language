@@ -150,7 +150,11 @@
     "geo_search": "Ricerca geografica",
     "help_btn": "Note compilazione",
     "svalidation_request": "Richieste di svalidazione",
-    "download_dpc": "Esportazione eventi"
+    "download_dpc": "Esportazione eventi",
+    "role_viewer": "READ: ruolo di sola visualizzazione degli Eventi",
+    "role_edit": "EDIT: ruolo per la visualizzazione, l'inserimento e la modifica degli Eventi",
+    "role_delete": "DELETE: ruolo che ai permessi del ruolo EDIT aggiunge l'eliminazione degli Eventi",
+    "role_validate": "VALIDATE: ruolo che ai permessi del ruolo DELETE aggiunge la validazione sugli Eventi"
   },
 
   "help_document": {

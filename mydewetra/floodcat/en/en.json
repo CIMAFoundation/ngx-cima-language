@@ -150,7 +150,11 @@
     "geo_search": "Geographic research",
     "help_btn": "Compilation notes",
     "svalidation_request": "Invalidation Requests",
-    "download_dpc": "Event export"
+    "download_dpc": "Event export",
+    "role_viewer": "READ: event view-only role",
+    "role_edit": "EDIT: role for viewing, inserting and editing events",
+    "role_delete": "DELETE: role that adds the deletion of Events to the permissions of the EDIT role",
+    "role_validate": "VALIDATE: role that adds validation on Events to the permissions of the DELETE role"
   },
 
   "help_document": {
