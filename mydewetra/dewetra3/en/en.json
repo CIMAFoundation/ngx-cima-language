@@ -521,6 +521,8 @@
     "CHARTS": "Charts",
     "CUMULATIVE_Y_RAINFALL": "Total accumulated precipitation [mm]",
     "CUM_LABEL": "Rainfall Sub Houly [mm]",
+    "DAMS_FLOW_THR_1": "Flow Threshold 1",
+    "DAMS_FLOW_THR_2": "Flow Threshold 2",
     "DAMS_LEVEL_THR_1": " Quota max Regolazione",
     "DAMS_LEVEL_THR_2": "Quota Allarme",
     "DAMS_LEVEL_THR_3": "Quota Max Invaso",

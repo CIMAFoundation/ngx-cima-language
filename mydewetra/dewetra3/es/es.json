@@ -521,6 +521,8 @@
     "CHARTS": "Gráficos",
     "CUMULATIVE_Y_RAINFALL": "Precipitación total acumulada [mm]",
     "CUM_LABEL": "Precipitación subhoraria [mm]",
+    "DAMS_FLOW_THR_1": "Umbral de flujo 1",
+    "DAMS_FLOW_THR_2": "Umbral de flujo 2",
     "DAMS_LEVEL_THR_1": " Regulación de cuota máxima",
     "DAMS_LEVEL_THR_2": "Alarma de cuotas",
     "DAMS_LEVEL_THR_3": "Cuota Max Invaso",

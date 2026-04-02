@@ -521,6 +521,8 @@
     "CHARTS": "Grafici",
     "CUMULATIVE_Y_RAINFALL": "Totale precipitazione cumulata [mm]",
     "CUM_LABEL": "Precipitazione sub-oraria [mm]",
+    "DAMS_FLOW_THR_1": "Soglia di flusso 1",
+    "DAMS_FLOW_THR_2": "Soglia di flusso 2",
     "DAMS_LEVEL_THR_1": " Quota max Regolazione",
     "DAMS_LEVEL_THR_2": "Quota Allarme",
     "DAMS_LEVEL_THR_3": "Quota Max Invaso",

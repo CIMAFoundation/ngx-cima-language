@@ -521,6 +521,8 @@
     "CHARTS": "Charts",
     "CUMULATIVE_Y_RAINFALL": "Precipitação acumulada [mm]",
     "CUM_LABEL": "Precipitação sub-horária acumulada",
+    "DAMS_FLOW_THR_1": "Limite de fluxo 1",
+    "DAMS_FLOW_THR_2": "Limite de fluxo 2",
     "DAMS_LEVEL_THR_1": " Configuração de cota máxima",
     "DAMS_LEVEL_THR_2": "Cota Alarme",
     "DAMS_LEVEL_THR_3": "Cota máxima de invasão",
