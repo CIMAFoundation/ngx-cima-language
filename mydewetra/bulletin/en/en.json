@@ -14,7 +14,8 @@
       "LAST_MODIFIED": "Last Modified",
       "PUBLISHED": "Published",
       "STATUS": "Status",
-      "VALIDITY": "Validity"
+      "VALIDITY": "Validity",
+      "last_activity_completed": "Last activity completed"
     },
     "OPEN": "Open",
     "TOTAL": "Total",
@@ -155,6 +156,13 @@
     "NEW_BULLETIN": "New",
     "OPEN_EXTERNAL_LINK": "Open External Link",
     "GENERATE_PDF": "Generate PDF",
-    "OTHER_VERSIONS": "Other Versions"
+    "OTHER_VERSIONS": "Other Versions",
+    "english": "English",
+    "italian": "Italian",
+    "português": "Portuguese",
+    "spanish": "Spanish",
+    " عربي ": "Arabic",
+    "français": "French"
+
   }
 }
