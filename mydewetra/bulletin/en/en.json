@@ -150,6 +150,8 @@
     "DIALOG_CANCEL": "Cancel",
     "DIALOG_CONFIRM": "Ok",
     "DOCUMENT_TYPE": "Document Type",
-    "NEW_BULLETIN": "New"
+    "NEW_BULLETIN": "New",
+    "OPEN_EXTERNAL_LINK": "Open External Link",
+    "GENERATE_PDF": "Generate PDF"
   }
 }

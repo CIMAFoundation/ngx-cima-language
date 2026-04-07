@@ -140,13 +140,18 @@
           "SHOW_ALL": "Mostrar todo"
         }
     },
-    "HEADER": {
-        "VERSION": "Versión"
-    },
-    "HOME": {
-        "DOCUMENT_TYPE": "Tipo de documento",
-        "NEW_BULLETIN": "Nuevo",
-        "DIALOG_CANCEL": "Cancelar",
-        "DIALOG_CONFIRM": "Ok"
+"HEADER": {
+    "VERSION": "Versión"
+},
+"HOME": {
+    "DOCUMENT_TYPE": "Tipo de documento",
+    "NEW_BULLETIN": "Nuevo",
+    "DIALOG_CANCEL": "Cancelar",
+    "DIALOG_CONFIRM": "Ok",
+    "OPEN_EXTERNAL_LINK": "Abrir enlace externo",
+    "GENERATE_PDF": "Generar PDF"
     }
+        
+
 }
+

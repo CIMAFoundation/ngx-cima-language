@@ -143,6 +143,8 @@
         "DOCUMENT_TYPE": "Typologie de document",
         "NEW_BULLETIN": "Nouveau",
         "DIALOG_CANCEL": "Annuler",
-        "DIALOG_CONFIRM": "Ok"
+        "DIALOG_CONFIRM": "Ok",
+        "OPEN_EXTERNAL_LINK": "Ouvrir le lien externe",
+        "GENERATE_PDF": "Générer PDF"
     }
 }
