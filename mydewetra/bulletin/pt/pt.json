@@ -58,10 +58,12 @@
     "TRY_CHANGE_ROLE": "Tente mudar de função",
     "UNPUBLISHING": "Cancelando a publicação do boletim",
     "USER_NOT_ENABLED": "Usuário não habilitado",
+    "USER_NOT_ALLOWED": "Usuário não habilitado para este aplicativo.<br>Tente com um usuário diferente.<br>",
     "MOBILE_MSG": "ESTE APLICATIVO NÃO ESTÁ OTIMIZADO<br> PARA USO MÓVEL ",
     "CONFIRM": "ok",
     "CANCEL": "cancelar",
-    "BACK": "voltar"
+    "BACK": "voltar",
+    "PREVIEW": "Visualizar"
   },
   "COMPONENTS": {
     "MULTI_OPTIONS": {

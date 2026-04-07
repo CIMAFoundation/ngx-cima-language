@@ -58,10 +58,12 @@
     "TRY_CHANGE_ROLE": "Try changing role",
     "UNPUBLISHING": "Unpublishing the bulletin",
     "USER_NOT_ENABLED": "User not enabled",
+    "USER_NOT_ALLOWED": "User not enabled for this app.<br>Try different different user.<br>",
     "MOBILE_MSG": "THIS APPLICATION IS NOT OPTIMIZED<br> FOR MOBILE USE ",
     "CONFIRM": "ok",
     "CANCEL": "cancel",
-    "BACK": "back"
+    "BACK": "back",
+    "PREVIEW": "Preview"
   },
   "COMPONENTS": {
     "MULTI_OPTIONS": {

@@ -43,6 +43,7 @@
         "LOADING": "Caricamento",
         "TRY_CHANGE_ROLE": "Prova a cambiare ruolo",
         "USER_NOT_ENABLED": "Utente non abilitato",
+        "USER_NOT_ALLOWED": "Utente non abilitato per questa app.<br>Prova con un utente diverso.<br>",
         "PAGE_LOCKED": "sta editando questo bollettino",
         "PAGE_WAIT": "In attesa di poter editare",
         "PAGE_IDLE": "Utente inattivo",
@@ -61,7 +62,8 @@
         "MOBILE_MSG": "QUESTA APPLICAZIONE NON è OTTIMIZZATA <br> PER L'UTILIZZO MOBILE",
         "CONFIRM": "ok",
         "CANCEL": "annulla",
-        "BACK": "indietro"
+        "BACK": "indietro",
+        "PREVIEW": "Anteprima"
     },
     "LANGUAGE_BAR": {
         "MASTER_LANGUAGE": "Lingua Sorgente",

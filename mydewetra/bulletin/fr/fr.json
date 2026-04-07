@@ -42,6 +42,7 @@
         "LOADING": "En cours de chargement",
         "TRY_CHANGE_ROLE": "Essayez-vous de changer de rôle",
         "USER_NOT_ENABLED": "Utilisateur non autorisé",
+        "USER_NOT_ALLOWED": "Utilisateur non autorisé pour cette application.<br>Essayez avec un utilisateur différent.<br>",
         "PAGE_LOCKED": "est en train d'éditer ce bulletin",
         "PAGE_WAIT": "En attendant de pouvoir éditer",
         "PAGE_IDLE": "Utilisateur inactif",
@@ -57,7 +58,8 @@
         "MOBILE_MSG": "CETTE APPLICATION N'EST PAS OPTIMISÉE<br> POUR UNE UTILISATION MOBILE ",
         "CONFIRM": "ok",
         "CANCEL": "annuler",
-        "BACK": "retour"
+        "BACK": "retour",
+        "PREVIEW": "Aperçu"
     },
     "COMPONENTS": {
         "MULTI_OPTIONS": {

@@ -43,6 +43,7 @@
         "LOADING": "Cargando",
         "TRY_CHANGE_ROLE": "Intenta cambiar perfil",
         "USER_NOT_ENABLED": "Usuario no habilitado",
+        "USER_NOT_ALLOWED": "Usuario no habilitado para esta aplicación.<br>Intenta con un usuario diferente.<br>",
         "PAGE_LOCKED": "está editando este boletín",
         "PAGE_WAIT": "Deseando editar",
         "PAGE_IDLE": "Usuario inactivo",
@@ -61,7 +62,8 @@
         "MOBILE_MSG": "ESTA APLICACIÓN NO ESTÁ OPTIMIZADA<br> PARA USO MÓVIL ",
         "CONFIRM": "ok",
         "CANCEL": "cancelar",
-        "BACK": "espalda"
+        "BACK": "espalda",
+        "PREVIEW": "Vista previa"
     },
     "COMPONENTS": {
         "MULTI_OPTIONS": {
