@@ -149,6 +149,7 @@
     "DOCUMENT_TYPE": "Tipo de Documento",
     "NEW_BULLETIN": "Novo",
     "OPEN_EXTERNAL_LINK": "Abrir link externo",
-    "GENERATE_PDF": "Gerar PDF"
+    "GENERATE_PDF": "Gerar PDF",
+    "OTHER_VERSIONS": "Outras versões"
   }
 }

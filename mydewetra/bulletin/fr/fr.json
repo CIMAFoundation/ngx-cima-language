@@ -145,6 +145,7 @@
         "DIALOG_CANCEL": "Annuler",
         "DIALOG_CONFIRM": "Ok",
         "OPEN_EXTERNAL_LINK": "Ouvrir le lien externe",
-        "GENERATE_PDF": "Générer PDF"
+        "GENERATE_PDF": "Générer PDF",
+        "OTHER_VERSIONS": "Autres versions"
     }
 }
