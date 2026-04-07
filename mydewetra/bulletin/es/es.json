@@ -152,7 +152,13 @@
     "DIALOG_CONFIRM": "Ok",
     "OPEN_EXTERNAL_LINK": "Abrir enlace externo",
     "GENERATE_PDF": "Generar PDF",
-    "OTHER_VERSIONS": "Otras versiones"
+    "OTHER_VERSIONS": "Otras versiones",
+    "english": "Inglés",
+    "italian": "Italiano",
+    "português": "Portugués",
+    "spanish": "Español",
+    "عربي": "Árabe",
+    "français": "Francés"
     }
         
 

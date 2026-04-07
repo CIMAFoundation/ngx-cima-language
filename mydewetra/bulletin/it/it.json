@@ -158,6 +158,12 @@
         "DIALOG_CONFIRM": "Ok",
         "OPEN_EXTERNAL_LINK": "Apri link esterno",
         "GENERATE_PDF": "Genera PDF",
-        "OTHER_VERSIONS": "Altre versioni"
+        "OTHER_VERSIONS": "Altre versioni",
+        "english": "Inglese",
+        "italian": "Italiano",
+        "português": "Portoghese",
+        "spanish": "Spagnolo",
+        "عربي": "Arabo",
+        "français": "Francese"
     }
 }
