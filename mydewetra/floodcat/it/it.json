@@ -562,7 +562,8 @@
     "pop_msg_localization": "Evento geolocalizzato",
     "pop_msg_editable": "Evento modificabile",
     "pop_msg_not_editable": "Evento non modificabile",
-    "pop_msg_open_event": "Apri scheda evento"
+    "pop_msg_open_event": "Apri scheda evento",
+    "pop_msg_invalidation_request": "Richiesta di svalidazione in corso"
   },
 
   "event_dialog": {

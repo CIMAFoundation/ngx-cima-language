@@ -561,7 +561,8 @@
     "pop_msg_localization": "Geolocalized event",
     "pop_msg_editable": "Editable event",
     "pop_msg_not_editable": "Event not editable",
-    "pop_msg_open_event": "Open event details"
+    "pop_msg_open_event": "Open event details",
+    "pop_msg_invalidation_request": "Invalidation request present",
   },
 
   "event_dialog": {
