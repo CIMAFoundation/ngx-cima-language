@@ -36,6 +36,27 @@
       "CLOSE_FLAG_MESSAGE": "Tem certeza de que deseja fechar o boletim? Nem todos os concorrentes terminaram de editar."
     }
   },
+  "BULLETIN": {
+    "NOTIFICATIONS": {
+      "UPDATING": "Atualizando...",
+      "CREATE_ERROR": "Erro ao criar o boletim",
+      "CREATED": "Boletim criado",
+      "DELETE_ERROR": "Erro ao excluir o boletim",
+      "DELETED": "Boletim excluído",
+      "CLONE_ERROR": "Erro ao clonar o boletim",
+      "CLONED": "Boletim clonado",
+      "CLOSE_ERROR": "Erro ao encerrar o boletim",
+      "CLOSED": "Boletim encerrado",
+      "PUBLISH_ERROR": "Erro ao publicar o boletim",
+      "PUBLISHED": "Boletim publicado",
+      "MAKE_PUBLIC_ERROR": "Erro ao tornar o boletim público",
+      "MADE_PUBLIC": "O boletim agora é público",
+      "MAKE_PRIVATE_ERROR": "Erro ao tornar o boletim privado",
+      "MADE_PRIVATE": "O boletim agora é privado",
+      "END_SESSION_ERROR": "Erro ao finalizar a sessão",
+      "SESSION_ENDED": "Sessão encerrada"
+    }
+  },
   "COMMON": {
     "CLONING": "Clonagem do boletim",
     "CLOSING": "Fechando o boletim",

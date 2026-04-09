@@ -36,6 +36,27 @@
       "CLOSE_FLAG_MESSAGE": "ማስታወቂያን መዝጋት እርግጠኛ ነህ? ሁሉም ተወዳዳሪዎች ማስታወቂያውን ለመሻሻል አልጨረሱም።"
 		}
 	},
+	"BULLETIN": {
+		"NOTIFICATIONS": {
+			"UPDATING": "ማስታወቂያ በማዘመን ላይ...",
+			"CREATE_ERROR": "ማስታወቂያን ሲፈጥር ስህተት",
+			"CREATED": "ማስታወቂያ ተፈጥሯል",
+			"DELETE_ERROR": "ማስታወቂያን ሲሰረዝ ስህተት",
+			"DELETED": "ማስታወቂያ ተሰርዟል",
+			"CLONE_ERROR": "ማስታወቂያን ሲኮፒ ስህተት",
+			"CLONED": "ማስታወቂያ ተቅሰፋል",
+			"CLOSE_ERROR": "ማስታወቂያን ሲዘጋ ስህተት",
+			"CLOSED": "ማስታወቂያ ተዘጋ",
+			"PUBLISH_ERROR": "ማስታወቂያን ሲያተም ስህተት",
+			"PUBLISHED": "ማስታወቂያ ታተም",
+			"MAKE_PUBLIC_ERROR": "ማስታወቂያን ለህዝብ ሲያደርግ ስህተት",
+			"MADE_PUBLIC": "ማስታወቂያ አሁን ለህዝብ ነው",
+			"MAKE_PRIVATE_ERROR": "ማስታወቂያን ለግል ሲያደርግ ስህተት",
+			"MADE_PRIVATE": "ማስታወቂያ አሁን ግል ነው",
+			"END_SESSION_ERROR": "የክፍለ ጊዜውን ሲዘጋ ስህተት",
+			"SESSION_ENDED": "ክፍለ ጊዜው ተወገደ"
+		}
+	},
 	"COMMON": {
 		"CREATE_PDF": "ፒዲኤፍ ፍጠር",
 		"GENERATING_PDF": "ፒዲኤፍ በማፍለቅ ላይ",

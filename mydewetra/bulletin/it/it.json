@@ -18,8 +18,8 @@
         },
         "OPEN": "Aperto",
         "TOTAL": "Totale",
-        "ROW": {
-            "CLOSE": "Chiudi",
+    "ROW": {
+      "CLOSE": "Chiudi",
             "DELETE": "Elimina",
             "CLOSED": "Chiuso",
             "DOWNLOAD_PDF": "Scarica PDF",
@@ -33,7 +33,28 @@
             "CLONE": "Clona",
           "VIEW": "Visualizza",
           "CLOSE_FLAG_TITLE": "Avviso di Chiusura Bollettino",
-          "CLOSE_FLAG_MESSAGE": "Sei sicuro di voler chiudere il bollettino? Non tutti i concorrenti hanno finito di modificare."
+      "CLOSE_FLAG_MESSAGE": "Sei sicuro di voler chiudere il bollettino? Non tutti i concorrenti hanno finito di modificare."
+        }
+    },
+    "BULLETIN": {
+        "NOTIFICATIONS": {
+            "UPDATING": "Aggiornamento in corso...",
+            "CREATE_ERROR": "Errore nella creazione del bollettino",
+            "CREATED": "Bollettino creato",
+            "DELETE_ERROR": "Errore nella cancellazione del bollettino",
+            "DELETED": "Bollettino eliminato",
+            "CLONE_ERROR": "Errore durante la clonazione del bollettino",
+            "CLONED": "Bollettino clonato",
+            "CLOSE_ERROR": "Errore durante la chiusura del bollettino",
+            "CLOSED": "Bollettino chiuso",
+            "PUBLISH_ERROR": "Errore durante la pubblicazione del bollettino",
+            "PUBLISHED": "Bollettino pubblicato",
+            "MAKE_PUBLIC_ERROR": "Errore nel rendere pubblico il bollettino",
+            "MADE_PUBLIC": "Il bollettino è ora pubblico",
+            "MAKE_PRIVATE_ERROR": "Errore nel rendere privato il bollettino",
+            "MADE_PRIVATE": "Il bollettino è ora privato",
+            "END_SESSION_ERROR": "Errore durante la chiusura della sessione",
+            "SESSION_ENDED": "Sessione terminata"
         }
     },
     "COMMON": {

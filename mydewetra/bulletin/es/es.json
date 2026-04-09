@@ -36,6 +36,27 @@
           "CLOSE_FLAG_MESSAGE": "¿Estás seguro de que deseas cerrar el boletín? No todos los concurrentes han terminado de editar."
         }
     },
+    "BULLETIN": {
+        "NOTIFICATIONS": {
+            "UPDATING": "Actualizando...",
+            "CREATE_ERROR": "Error al crear el boletín",
+            "CREATED": "Boletín creado",
+            "DELETE_ERROR": "Error al eliminar el boletín",
+            "DELETED": "Boletín eliminado",
+            "CLONE_ERROR": "Error al clonar el boletín",
+            "CLONED": "Boletín clonado",
+            "CLOSE_ERROR": "Error al cerrar el boletín",
+            "CLOSED": "Boletín cerrado",
+            "PUBLISH_ERROR": "Error al publicar el boletín",
+            "PUBLISHED": "Boletín publicado",
+            "MAKE_PUBLIC_ERROR": "Error al hacer público el boletín",
+            "MADE_PUBLIC": "El boletín ahora es público",
+            "MAKE_PRIVATE_ERROR": "Error al hacer privado el boletín",
+            "MADE_PRIVATE": "El boletín ahora es privado",
+            "END_SESSION_ERROR": "Error al finalizar la sesión",
+            "SESSION_ENDED": "Sesión finalizada"
+        }
+    },
     "COMMON": {
         "CREATE_PDF": "Generar PDF",
         "GENERATING_PDF": "GENERACIÓN PDF",
@@ -157,4 +178,3 @@
         
 
 }
-

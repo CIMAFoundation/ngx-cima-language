@@ -36,6 +36,27 @@
       "VIEW": "View"
     }
   },
+  "BULLETIN": {
+    "NOTIFICATIONS": {
+      "UPDATING": "Updating...",
+      "CREATE_ERROR": "Error creating bulletin",
+      "CREATED": "Bulletin created",
+      "DELETE_ERROR": "Error deleting bulletin",
+      "DELETED": "Bulletin deleted",
+      "CLONE_ERROR": "Error cloning bulletin",
+      "CLONED": "Bulletin cloned",
+      "CLOSE_ERROR": "Error closing bulletin",
+      "CLOSED": "Bulletin closed",
+      "PUBLISH_ERROR": "Error publishing bulletin",
+      "PUBLISHED": "Bulletin published",
+      "MAKE_PUBLIC_ERROR": "Error making bulletin public",
+      "MADE_PUBLIC": "Bulletin is now public",
+      "MAKE_PRIVATE_ERROR": "Error making bulletin private",
+      "MADE_PRIVATE": "Bulletin is now private",
+      "END_SESSION_ERROR": "Error ending session",
+      "SESSION_ENDED": "Session ended"
+    }
+  },
   "COMMON": {
     "CLONING": "Cloning the bulletin",
     "CLOSING": "Closing the bulletin",

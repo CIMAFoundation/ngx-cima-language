@@ -35,6 +35,27 @@
           "CLOSE_FLAG_MESSAGE": "Êtes-vous sûr de vouloir fermer le bulletin? Tous les concurrents n'ont pas fini de modifier."
         }
     },
+    "BULLETIN": {
+        "NOTIFICATIONS": {
+            "UPDATING": "Mise à jour en cours...",
+            "CREATE_ERROR": "Erreur lors de la création du bulletin",
+            "CREATED": "Bulletin créé",
+            "DELETE_ERROR": "Erreur lors de la suppression du bulletin",
+            "DELETED": "Bulletin supprimé",
+            "CLONE_ERROR": "Erreur lors du clonage du bulletin",
+            "CLONED": "Bulletin cloné",
+            "CLOSE_ERROR": "Erreur lors de la fermeture du bulletin",
+            "CLOSED": "Bulletin fermé",
+            "PUBLISH_ERROR": "Erreur lors de la publication du bulletin",
+            "PUBLISHED": "Bulletin publié",
+            "MAKE_PUBLIC_ERROR": "Erreur lors du passage du bulletin en public",
+            "MADE_PUBLIC": "Le bulletin est maintenant public",
+            "MAKE_PRIVATE_ERROR": "Erreur lors du passage du bulletin en privé",
+            "MADE_PRIVATE": "Le bulletin est maintenant privé",
+            "END_SESSION_ERROR": "Erreur lors de la fin de la session",
+            "SESSION_ENDED": "Session terminée"
+        }
+    },
     "COMMON": {
         "CREATE_PDF": "Générer PDF",
         "GENERATING_PDF": "GÉNÉRATION DU FICHIER PDF EN COURS",
