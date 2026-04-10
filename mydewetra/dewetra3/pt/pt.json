@@ -6,6 +6,7 @@
   "ADMINISTRATIVE_BOUNDARIES_LEV_1": "LIMITES ADMINISTRATIVOS NÍVEL 1",
   "ADMINISTRATIVE_BOUNDARIES_LEV_2": "LIMITES ADMINISTRATIVOS NÍVEL 2",
   "ANALYSED_SEA_SURFACE_TEMPERATURE": "Temperatura da superfície do mar analisada",
+  "BLACKLISTED_SENSORS": "Sensores na lista negra",
   "DEWETRA3": {
     "AREA_HA": "Área (ha)",
     "DATA_TYPE": "Tipo de dados",
@@ -1100,6 +1101,7 @@
   "MAX@": "máximo",
   "MIN@": "Min",
   "NATIVE": "Nativo",
+  "OPEN_SENSORS_BLACKLIST": "Lista negra de sensores abertos",
   "PRECIPITATION": "Precipitação",
   "P_SHARED_STYLES:bordo_bianco": "Borda branca",
   "P_SHARED_STYLES:bordo_blu": "Borda azul",
