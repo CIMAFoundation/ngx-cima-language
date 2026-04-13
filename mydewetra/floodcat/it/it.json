@@ -699,6 +699,7 @@
     "pheno_ref_delete_title": "Elimina fonte dati",
     "pheno_ref_delete_msg": "Sei sicuro di voler cancellare la fonte dati?",
     "warning_msg_other_mechanism": "ATTENZIONE! Si sta per selezionare un meccanismo generico; si consiglia di utilizzarne uno specifico.",
+    "warning_msg_other_characteristic": "ATTENZIONE! Si sta per selezionare una caratteristica generica; si consiglia di utilizzarne una specifica.",
     "pheno_confirm_delete_location_title": "Cancellare la localizzazione del fenomeno?",
     "pheno_confirm_delete_location_msg": "Confermando la localizzazione del fenomeno sarà eliminata in modo permanente, l'operazione non è annullabile.",
     "pheno_delete_location_success": "Localizzazione del fenomeno cancellata con successo",

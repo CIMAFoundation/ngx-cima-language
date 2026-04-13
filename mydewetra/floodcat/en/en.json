@@ -699,6 +699,7 @@
     "pheno_ref_delete_title": "Delete reference",
     "pheno_ref_delete_msg": "Do you want to delete the reference?",
     "warning_msg_other_mechanism": "WARNING! You are about to select a generic mechanism; it is recommended that you use a specific one.",
+    "warning_msg_other_characteristic": "WARNING! You are about to select a generic characteristic; we recommend using a specific one.",
     "pheno_confirm_delete_location_title": "Erase the localization of the phenomenon?",
     "pheno_confirm_delete_location_msg": "By confirming the location of the phenomenon it will be permanently eliminated, the operation cannot be undone.",
     "pheno_delete_location_success": "Phenomenon localization successfully deleted",
