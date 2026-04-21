@@ -1143,6 +1143,7 @@
   "SENTINEL_THRESHOLDS_EDITOR_DAMS_FLOW": "Editor de umbrales: Dams Flow",
   "SENTINEL_THRESHOLDS_EDITOR_HYDRO": "Sentinel Thresholds Editor Hydro",
   "SNOW_DEPTH": "PROFUNDIDAD DE NIEVE",
+  "SPATIAL_AGGREGATION": "Agregación espacial",
   "SPATIAL_RESOLUTION": "Resolución espacial",
   "TEMPERATURE_AT_2M": "TEMPERATURA A 2 M",
   "THRESHOLD_EDITOR": {
@@ -1177,6 +1178,7 @@
   "THR_2": "Umbral 2",
   "THR_3": "Umbral 3",
   "THR_4": "Umbral 4",
+  "TIME_AGGREGATION": "Agregación temporal",
   "TOOL_LAMINAZIONE": "Reducción de los picos de inundación",
   "TOTAL_PRECIPITATION": "Precipitación total",
   "VARIABLE": "Variable",

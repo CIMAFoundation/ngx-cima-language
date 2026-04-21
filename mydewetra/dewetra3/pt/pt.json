@@ -1143,6 +1143,7 @@
   "SENTINEL_THRESHOLDS_EDITOR_DAMS_FLOW": "Editor de limiares Dams Flow",
   "SENTINEL_THRESHOLDS_EDITOR_HYDRO": "Sentinel Thresholds Editor Hydro",
   "SNOW_DEPTH": "PROFUNDIDADE DA NEVE",
+  "SPATIAL_AGGREGATION": "Agregação espacial",
   "SPATIAL_RESOLUTION": "Resolução espacial",
   "TEMPERATURE_AT_2M": "TEMPERATURA A 2M",
   "THRESHOLD_EDITOR": {
@@ -1177,6 +1178,7 @@
   "THR_2": "Limite 2",
   "THR_3": "Limite 3",
   "THR_4": "Limite 4",
+  "TIME_AGGREGATION": "Agregação de tempo",
   "TOOL_LAMINAZIONE": "Redução do pico de inundação",
   "TOTAL_PRECIPITATION": "Precipitação total",
   "VARIABLE": "Variável",
