@@ -1021,6 +1021,7 @@
     "MED_SEA_OBS_SENTINEL-1A-ASCENDING": "MED Sea Obs (Sentinel-1A) - Ascendente",
     "MED_SEA_OBS_SENTINEL-1A-DESCENDING": "MED Sea Obs (Sentinel-1A) - Descendente",
     "MED_SEA_OBS_SENTINEL-2_MSI-COASTAL_CHLOROPHYLL_CONCENTRATION_L3": "MED Sea Obs (Sentinel-2 MSI) - Concentração costeira de clorofila L3",
+    "MED_SEA_OBS_SENTINEL-2_MSI-COASTAL_CHLOROPHYLL_CONCENTRATION_L4": "MED Sea Obs (Sentinel-2 MSI) - Concentração costeira de clorofila L4",
     "MED_SEA_OBS_SENTINEL-2_MSI-TURBIDITY_L3": "MED Sea Obs (Sentinel-2 MSI) - Turbidez L3",
     "MODIS_HOTSPOTS": "MODIS Hotspots",
     "MULTIHAZARD_IMPACT-BASED_CLASSIFICATION": "Classificação baseada no impacto multiplos perigos",
