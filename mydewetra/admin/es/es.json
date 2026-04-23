@@ -87,5 +87,10 @@
   "DOMAIN": "Dominio",
   "ACTION": "Acción",
   "NO_ACTIVITY": "Ninguna actividad registrada",
-  "ACTIVITY_LOG": "Registro de actividades"
+  "ACTIVITY_LOG": "Registro de actividades",
+  "SEND_WELCOME_MESSAGE": "Enviar mensaje de bienvenida",
+  "LANGUAGE": "Idioma",
+  "SUBJECT": "Asunto",
+  "TEXT": "Texto",
+  "SEND": "Enviar"
 }
