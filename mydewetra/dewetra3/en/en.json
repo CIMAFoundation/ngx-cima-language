@@ -570,6 +570,8 @@
     "yaxis2": "Y2 Axis"
   },
   "DEWETRA3CORE": {
+    "FROM": "From",
+    "TO": "To",
     "ACCUMULATION_SELECTED": "Accumulation selected",
     "AGGREGATIONS": "Aggregations",
     "AREA": "Area",
@@ -1179,7 +1181,7 @@
   "SATELLITE_COVERAGE": "Satellite Coverage",
   "SATELLITE_SURVEY": "Satellite Survey",
   "SAVE_STATE_TOOL": "Save DW3 State",
-  "SEAWETRA.CMEMS.OBS.MOORING": "CMEMS Mooring",
+  "SEAWETRA.CMEMS.OBS.MO": "CMEMS Mooring",
   "SEAWETRA.CMEMS.OBS.MO_ALISEO.LINES": "CMEMS Mooring",
   "SEAWETRA.CMEMS.OBS.PF": "CMEMS Profiler",
   "SEAWETRA.CMEMS.OBS.PF_ALISEO.LINES": "CMEMS Profiler",
