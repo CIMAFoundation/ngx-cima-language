@@ -535,7 +535,7 @@
     "CUM_LABEL": "Precipitazione sub-oraria [mm]",
     "DAMS_FLOW_THR_1": "Qmin",
     "DAMS_FLOW_THR_2": "Qmax",
-    "DAMS_FLOW_THR_3": "UN MASSIMO",
+    "DAMS_FLOW_THR_3": "Qa Max",
     "DAMS_LEVEL_THR_1": " Quota max Regolazione",
     "DAMS_LEVEL_THR_2": "Quota Allarme",
     "DAMS_LEVEL_THR_3": "Quota Max Invaso",
