@@ -288,7 +288,7 @@
     "LOCK": "Blocca Selettore Livelli",
     "MAGIC_SEARCH": {
       "BUILDING_INDEX": "Creazione dell'indice di ricerca...",
-      "FEATURES_SEARCH": "Ricerca delle funzionalità",
+      "FEATURES_SEARCH": "Ricerca delle Feature tra i layer",
       "GEOGRAPHIC_SEARCH": "Ricerca Geografica",
       "LAYERS_SEARCH": "Ricerca Livelli",
       "MAGIC_SEARCH": "Ricerca Magica",
