@@ -1166,6 +1166,7 @@
   "NATIVE": "Autochtone",
   "NET_PRIMARY_PRODUCTION": "Production primaire nette",
   "NITRATE_CONCENTRATION": "Concentration en nitrate",
+  "NO_DATA_AVAILABILITY": "Aucune donnée de disponibilité disponible",
   "OPEN_SENSORS_BLACKLIST": "Ouvrir la liste noire des capteurs",
   "PHOSPHATE_CONCENTRATION": "Concentration en phosphate",
   "PHYTOPLANKTON_CARBON_BIOMASS": "Biomasse de carbone du phytoplancton",
