@@ -19,6 +19,20 @@
     "DEVELOP": "Sviluppa",
     "FROM_DATE": "Data da",
     "GG_ITALY:ProvCM01012024_WGS84_static_dew_giallo": "Italia - Confini provinciali",
+    "G_EUROPE:Europe_RP100_filled_depth": "Pericolo di alluvione in Europa per 100 anni (approfondimento completo)",
+    "G_EUROPE:Europe_RP10_filled_depth": "Pericolo di alluvione in Europa per 10 anni (approfondimento completo)",
+    "G_EUROPE:Europe_RP20_filled_depth": "Pericolo di alluvione in Europa per 20 anni (approfondimento completo)",
+    "G_EUROPE:Europe_RP30_filled_depth": "Pericolo di alluvione in Europa per 30 anni (approfondimento completo)",
+    "G_EUROPE:Europe_RP40_filled_depth": "Pericolo di alluvione in Europa per 40 anni (profondità completa)",
+    "G_EUROPE:Europe_RP500_filled_depth": "Pericolo di alluvione in Europa per 500 anni (profondità completa)",
+    "G_EUROPE:Europe_RP50_filled_depth": "Pericolo di alluvione in Europa per 50 anni (profondità completa)",
+    "G_EUROPE:Europe_RP75_filled_depth": "Pericolo di alluvione in Europa 75 anni (profondità completa)",
+    "G_GLOBAL:flood_hazard_100y_jrc": "Pericolo globale di alluvione per 100 anni (JRC)",
+    "G_GLOBAL:flood_hazard_10y_jrc": "Pericolo globale di alluvione decennale (JRC)",
+    "G_GLOBAL:flood_hazard_200y_jrc": "Rischio globale di alluvione per 200 anni (JRC)",
+    "G_GLOBAL:flood_hazard_20y_jrc": "Rischio globale di alluvione per 20 anni (JRC)",
+    "G_GLOBAL:flood_hazard_500y_jrc": "Rischio globale di alluvione per 500 anni (JRC)",
+    "G_GLOBAL:flood_hazard_50y_jrc": "Pericolo globale di alluvione per 50 anni (JRC)",
     "ITALIA": {
       "REGIONE": "Regione",
       "VALUE": "Valore"
@@ -29,7 +43,13 @@
     "TECH": "Tech",
     "TIME": "Ora",
     "TO_DATE": "Data a",
-    "WIND_V_KT": "Vento (kts)"
+    "WIND_V_KT": "Vento (kts)",
+    "dew:flood_hazard_1000_yrp": "Pericolo di inondazione per 1000 anni",
+    "dew:flood_hazard_100_yrp": "Pericolo di alluvione per 100 anni",
+    "dew:flood_hazard_200_yrp": "Rischio di inondazione per 200 anni",
+    "dew:flood_hazard_25_yrp": "Pericolo di alluvione per 25 anni",
+    "dew:flood_hazard_500_yrp": "Pericolo di inondazione per 500 anni",
+    "dew:flood_hazard_50_yrp": "Pericolo di alluvione per 50 anni"
   },
   "DEWETRA3APP": {
     "ADD_TO_REPORT": "Aggiungi al Rapporto",

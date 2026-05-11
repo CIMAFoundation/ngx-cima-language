@@ -19,6 +19,20 @@
     "DEVELOP": "Classificação",
     "FROM_DATE": "Data de início",
     "GG_ITALY:ProvCM01012024_WGS84_static_dew_giallo": "Itália - Limites das províncias",
+    "G_EUROPE:Europe_RP100_filled_depth": "Risco de inundação na Europa em 100 anos (profundidade preenchida)",
+    "G_EUROPE:Europe_RP10_filled_depth": "Risco de inundação na Europa em 10 anos (profundidade preenchida)",
+    "G_EUROPE:Europe_RP20_filled_depth": "Risco de inundação na Europa em 20 anos (profundidade preenchida)",
+    "G_EUROPE:Europe_RP30_filled_depth": "Risco de inundação na Europa em 30 anos (profundidade preenchida)",
+    "G_EUROPE:Europe_RP40_filled_depth": "Risco de inundação na Europa em 40 anos (profundidade preenchida)",
+    "G_EUROPE:Europe_RP500_filled_depth": "Risco de inundação na Europa de 500 anos (profundidade preenchida)",
+    "G_EUROPE:Europe_RP50_filled_depth": "Risco de inundação na Europa em 50 anos (profundidade preenchida)",
+    "G_EUROPE:Europe_RP75_filled_depth": "Risco de inundação na Europa em 75 anos (profundidade preenchida)",
+    "G_GLOBAL:flood_hazard_100y_jrc": "Risco global de inundação em 100 anos (JRC)",
+    "G_GLOBAL:flood_hazard_10y_jrc": "Risco global de inundação em 10 anos (JRC)",
+    "G_GLOBAL:flood_hazard_200y_jrc": "Risco global de inundação em 200 anos (JRC)",
+    "G_GLOBAL:flood_hazard_20y_jrc": "Risco global de inundação em 20 anos (JRC)",
+    "G_GLOBAL:flood_hazard_500y_jrc": "Risco global de inundação em 500 anos (JRC)",
+    "G_GLOBAL:flood_hazard_50y_jrc": "Risco global de inundação em 50 anos (JRC)",
     "ITALIA": {
       "REGIONE": "Região",
       "VALUE": "Valor"
@@ -29,7 +43,13 @@
     "TECH": "Tecnologia",
     "TIME": "Hora",
     "TO_DATE": "Data de início",
-    "WIND_V_KT": "Vento (kts)"
+    "WIND_V_KT": "Vento (kts)",
+    "dew:flood_hazard_1000_yrp": "Risco de inundação de 1000 anos",
+    "dew:flood_hazard_100_yrp": "Risco de inundação em 100 anos",
+    "dew:flood_hazard_200_yrp": "Risco de inundação em 200 anos",
+    "dew:flood_hazard_25_yrp": "Risco de inundação de 25 anos",
+    "dew:flood_hazard_500_yrp": "Risco de inundação de 500 anos",
+    "dew:flood_hazard_50_yrp": "Risco de inundação em 50 anos"
   },
   "DEWETRA3APP": {
     "ADD_TO_REPORT": "Adicionar ao Relatório",

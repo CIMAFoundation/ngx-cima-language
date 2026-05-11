@@ -19,6 +19,20 @@
     "DEVELOP": "Develop",
     "FROM_DATE": "Date from",
     "GG_ITALY:ProvCM01012024_WGS84_static_dew_giallo": "Italy - Province boundaries",
+    "G_EUROPE:Europe_RP100_filled_depth": "Europe Flood Hazard 100-year (Filled Depth)",
+    "G_EUROPE:Europe_RP10_filled_depth": "Europe Flood Hazard 10-year (Filled Depth)",
+    "G_EUROPE:Europe_RP20_filled_depth": "Europe Flood Hazard 20-year (Filled Depth)",
+    "G_EUROPE:Europe_RP30_filled_depth": "Europe Flood Hazard 30-year (Filled Depth)",
+    "G_EUROPE:Europe_RP40_filled_depth": "Europe Flood Hazard 40-year (Filled Depth)",
+    "G_EUROPE:Europe_RP500_filled_depth": "Europe Flood Hazard 500-year (Filled Depth)",
+    "G_EUROPE:Europe_RP50_filled_depth": "Europe Flood Hazard 50-year (Filled Depth)",
+    "G_EUROPE:Europe_RP75_filled_depth": "Europe Flood Hazard 75-year (Filled Depth)",
+    "G_GLOBAL:flood_hazard_100y_jrc": "Global Flood Hazard 100-year (JRC)",
+    "G_GLOBAL:flood_hazard_10y_jrc": "Global Flood Hazard 10-year (JRC)",
+    "G_GLOBAL:flood_hazard_200y_jrc": "Global Flood Hazard 200-year (JRC)",
+    "G_GLOBAL:flood_hazard_20y_jrc": "Global Flood Hazard 20-year (JRC)",
+    "G_GLOBAL:flood_hazard_500y_jrc": "Global Flood Hazard 500-year (JRC)",
+    "G_GLOBAL:flood_hazard_50y_jrc": "Global Flood Hazard 50-year (JRC)",
     "ITALIA": {
       "REGIONE": "Region",
       "VALUE": "Value"
@@ -29,7 +43,13 @@
     "TECH": "Tech",
     "TIME": "Time",
     "TO_DATE": "Date from",
-    "WIND_V_KT": "Wind (kts)"
+    "WIND_V_KT": "Wind (kts)",
+    "dew:flood_hazard_1000_yrp": "Flood Hazard 1000-year",
+    "dew:flood_hazard_100_yrp": "Flood Hazard 100-year",
+    "dew:flood_hazard_200_yrp": "Flood Hazard 200-year",
+    "dew:flood_hazard_25_yrp": "Flood Hazard 25-year",
+    "dew:flood_hazard_500_yrp": "Flood Hazard 500-year",
+    "dew:flood_hazard_50_yrp": "Flood Hazard 50-year"
   },
   "DEWETRA3APP": {
     "ADD_TO_REPORT": "Add to Report",
