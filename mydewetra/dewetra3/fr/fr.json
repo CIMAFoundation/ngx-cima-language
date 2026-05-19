@@ -632,6 +632,19 @@
     "VALUE": "Valeur",
     "WAITING_FOR_DATA": "En attente de données"
   },
+  "DEWETRA3LEGENDS": {
+    "REPORTING_POINTS": {
+      "FALLING_LEVELS": "Niveaux en baisse",
+      "FORECAST_NOT_YET_PRODUCED": "Prévisions non encore produites",
+      "FORECAST_STATUS": "État des prévisions",
+      "LEGEND": "Légende",
+      "NO_THRESHOLD_EXCEEDANCE": "Aucun dépassement de seuil",
+      "RETURN_PERIOD_20_YEARS": "Période de retour : 20 ans",
+      "RETURN_PERIOD_2_YEARS": "Période de retour : 2 ans",
+      "RETURN_PERIOD_5_YEARS": "Période de retour : 5 ans",
+      "RISING_LEVELS": "Niveaux en hausse"
+    }
+  },
   "DEWETRA3SAVEDSTATE": {
     "CANCEL": "Annuler",
     "CLOSE": "Fermer",
