@@ -655,6 +655,16 @@
       "RETURN_PERIOD_2_YEARS": "Periodo di restituzione: 2 anni",
       "RETURN_PERIOD_5_YEARS": "Periodo di restituzione: 5 anni",
       "RISING_LEVELS": "Livelli crescenti"
+    },
+    "RETURN_PERIOD_MAX": {
+      "LEGEND": "Leggenda",
+      "MAX_RETURN_PERIOD": "Periodo massimo di restituzione",
+      "RP_10_20": "10 - 20 anni",
+      "RP_20_50": "20 - 50 anni",
+      "RP_2_5": "2 - 5 anni",
+      "RP_50_100": "50-100 anni",
+      "RP_5_10": "5 - 10 anni",
+      "RP_GT_100": "> 100 anni"
     }
   },
   "DEWETRA3SAVEDSTATE": {
