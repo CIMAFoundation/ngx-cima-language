@@ -1199,6 +1199,8 @@
   "MAX@": "Historical Max",
   "MIN@": "Historical Min",
   "MIXED_LAYER_DEPTH": "Mixed layer depth",
+  "MOCAMBIQUE.FLOODPROOFS.MULTIDETERMINISTIC": "FloodPROOFS Moçambique, multideterministico",
+  "MOCAMBIQUE.FLOODPROOFS.MULTIDETERMINISTIC_MULTIDETERMINISTICHYDROGRAMCHART": "FloodPROOFS Moçambique, multideterministico - Hidrograma",
   "MOLE_CONCENTRATION_OF_AMMONIUM_IN_SEA_WATER": "Mole concentration of ammonium in sea water",
   "MOLE_CONCENTRATION_OF_DISSOLVED_INORGANIC_CARBON_IN_SEA_WATER": "Mole concentration of dissolved inorganic carbon in sea water",
   "MOLE_CONCENTRATION_OF_SILICATE_IN_SEA_WATER": "Mole concentration of silicate in sea water",
