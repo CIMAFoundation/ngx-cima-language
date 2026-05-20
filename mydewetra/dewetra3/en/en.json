@@ -795,7 +795,7 @@
     "RUN_MM": "Forecast run (model metadata)",
     "SEC_CODE": "Section code",
     "SEC_NAME": "Section name",
-    "SEC_RS": "Remote sensing section value",
+    "SEC_RS": "River Gauge ID",
     "SEZIONE": "Section",
     "TREND": "Trend indicator",
     "TYPE": "Type",

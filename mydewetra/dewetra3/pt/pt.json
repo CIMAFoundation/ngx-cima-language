@@ -795,7 +795,7 @@
     "RUN_MM": "Execução da previsão (metadados do modelo)",
     "SEC_CODE": "CÓDIGO DA SEÇÃO",
     "SEC_NAME": "NOME DA SEÇÃO",
-    "SEC_RS": "Remote sensing section value",
+    "SEC_RS": "Código do Hidrômetro",
     "SEZIONE": "Seção",
     "TREND": "Trend indicator",
     "TYPE": "Tipo",
