@@ -640,6 +640,11 @@
     "WAITING_FOR_DATA": "Waiting for data"
   },
   "DEWETRA3LEGENDS": {
+    "FLOODPROOFS": {
+      "FLOOD_HAZARD_MAP": "Flood hazard map",
+      "FLOOD_HAZARD_MAP_DESCRIPTION": "Raster color ramp derived from the SLD style",
+      "LEGEND": "Legend"
+    },
     "REPORTING_POINTS": {
       "FALLING_LEVELS": "Falling levels",
       "FORECAST_NOT_YET_PRODUCED": "Forecast not yet produced",

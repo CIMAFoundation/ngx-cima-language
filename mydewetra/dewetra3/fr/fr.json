@@ -640,6 +640,11 @@
     "WAITING_FOR_DATA": "En attente de données"
   },
   "DEWETRA3LEGENDS": {
+    "FLOODPROOFS": {
+      "FLOOD_HAZARD_MAP": "Carte des risques d'inondation",
+      "FLOOD_HAZARD_MAP_DESCRIPTION": "Rampe de couleurs matricielle dérivée du style SLD",
+      "LEGEND": "Légende"
+    },
     "REPORTING_POINTS": {
       "FALLING_LEVELS": "Niveaux en baisse",
       "FORECAST_NOT_YET_PRODUCED": "Prévisions non encore produites",
