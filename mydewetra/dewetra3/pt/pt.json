@@ -603,6 +603,7 @@
     "DAMS_LEVEL_THR_2": "Cota Alarme",
     "DAMS_LEVEL_THR_3": "Cota máxima de invasão",
     "DETERMINISTIC": "Determinístico",
+    "DETERMINISTIC_VOLUME": "V",
     "Err_Rel_Qp": "Erro Relativo Médio ao Picco",
     "FROM": "De",
     "FROM_DATE": "A partir da data",

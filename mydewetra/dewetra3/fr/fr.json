@@ -603,6 +603,7 @@
     "DAMS_LEVEL_THR_2": "Alarme de quota",
     "DAMS_LEVEL_THR_3": "Quota Max Invaso",
     "DETERMINISTIC": "Déterministe",
+    "DETERMINISTIC_VOLUME": "V",
     "Err_Rel_Qp": "Erreur relative moyenne à la petite",
     "FROM": "À partir de",
     "FROM_DATE": "À partir de la date",

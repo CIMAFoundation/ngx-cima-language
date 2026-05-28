@@ -603,6 +603,7 @@
     "DAMS_LEVEL_THR_2": "Alarma de cuotas",
     "DAMS_LEVEL_THR_3": "Cuota Max Invaso",
     "DETERMINISTIC": "Determinístico",
+    "DETERMINISTIC_VOLUME": "V",
     "Err_Rel_Qp": "Error relativo Medio al picco",
     "FROM": "Desde",
     "FROM_DATE": "Fecha de inicio",

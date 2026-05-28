@@ -603,6 +603,7 @@
     "DAMS_LEVEL_THR_2": "Soglia stimata vigilanza rinforzata",
     "DAMS_LEVEL_THR_3": "Quota max invaso/pericolo",
     "DETERMINISTIC": "Deterministico",
+    "DETERMINISTIC_VOLUME": "V",
     "Err_Rel_Qp": "Errore relativo medio al picco",
     "FROM": "Da",
     "FROM_DATE": "Dalla data",
