@@ -611,6 +611,8 @@
     "Fonte_Q_so": "Fonte Q Soglia",
     "HOURLY_ACCUM_LABEL": "Precipitação horária acumulada",
     "NashSut": " Nash-Sutcliffe",
+    "PROBABILISTIC": "Q",
+    "PROBABILISTIC_VOLUME": "V",
     "QUAL1_5": "Qualidade da porta observada (max = 5)",
     "Q_ALLARME": "Alarme",
     "Q_ALLERTA": "Alerta",

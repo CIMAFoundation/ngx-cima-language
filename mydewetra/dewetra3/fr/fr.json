@@ -611,6 +611,8 @@
     "Fonte_Q_so": "Source Q Soglia",
     "HOURLY_ACCUM_LABEL": "Accumulation horaire [mm]",
     "NashSut": " Nash-Sutcliffe",
+    "PROBABILISTIC": "Q",
+    "PROBABILISTIC_VOLUME": "V",
     "QUAL1_5": "Qualité d'entrée vérifiée (max = 5)",
     "Q_ALLARME": "Alarme",
     "Q_ALLERTA": "Alerte",
