@@ -42,6 +42,7 @@
   "LAYER_GROUP": "Layer Group",
   "LOADER_WORKS": "Loader works",
   "LOADING": "Loading...",
+  "MEASURE": "Unit of measure",
   "NAME": "Name",
   "NEW": "New",
   "NO_RESULTS": "No results found",
@@ -108,5 +109,6 @@
   "SENSORCLASS": "Classe sensore",
   "SENSORCLASS_IDROMETRI": "Idrometri",
   "SENSORCLASS_PLUVIOMETRI": "Pluviometri",
-  "SENSORCLASS_TERMOMETRI": "Termometri"
+  "SENSORCLASS_TERMOMETRI": "Termometri",
+
 }
