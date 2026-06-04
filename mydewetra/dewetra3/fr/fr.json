@@ -1429,6 +1429,7 @@
   "TIME_AGGREGATION": "Agrégation temporelle",
   "TOOL_LAMINAZIONE": "Réduction des pics d'inondation",
   "TOTAL_PRECIPITATION": "Précipitations totales",
+  "TOTAL_PRECIPITATIONS": "Précipitations totales",
   "TURBIDITY_DERIVED_FROM_MSI_L2R_USING_HR-OC_L2W_PROCESSOR": "Turbidité dérivée du MSI_L2R",
   "VALUE_FILTER": "Filtre de valeur",
   "VARIABLE": "Variable",
