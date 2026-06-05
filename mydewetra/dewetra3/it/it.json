@@ -610,6 +610,7 @@
     "FonteSdD": "Fonte e aggiornamento Scala Deflusso",
     "Fonte_Q_so": "Fonte Q Soglia",
     "HOURLY_ACCUM_LABEL": "Precipitazione oraria cumulata [mm]",
+    "MAXIMUM": "Q",
     "NashSut": " Nash-Sutcliffe",
     "PROBABILISTIC": "Q",
     "PROBABILISTIC_VOLUME": "V",
