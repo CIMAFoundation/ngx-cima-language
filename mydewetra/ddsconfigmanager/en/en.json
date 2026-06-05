@@ -104,12 +104,12 @@
   "SCREEN_TYPE_BUCKETS": "Buckets",
   "SECONDS": "Seconds",
   "STATIC_LAYER_NAME_NO_WHITESPACE":"Whitespace is not allowed in this field.",
-  "SERIES_LAYER_TYPE_PROBABILISTIC_FORECAST": "Previsione probabilistica",
-  "SERIES_LAYER_TYPE_DETERMINISTIC_FORECAST": "Previsione deterministica",
-  "SERIES_LAYER_TYPE_OBSERVATION": "Osservazione",
-  "SENSORCLASS": "Classe sensore",
-  "SENSORCLASS_IDROMETRI": "Idrometri",
-  "SENSORCLASS_PLUVIOMETRI": "Pluviometri",
-  "SENSORCLASS_TERMOMETRI": "Termometri"
+  "SERIES_LAYER_TYPE_PROBABILISTIC_FORECAST": "Probabilistic Forecast",
+  "SERIES_LAYER_TYPE_DETERMINISTIC_FORECAST": "Deterministic Forecast",
+  "SERIES_LAYER_TYPE_OBSERVATION": "Observation",
+  "SENSORCLASS": "Sensor Class",
+  "SENSORCLASS_IDROMETRI": "Hydrometers",
+  "SENSORCLASS_PLUVIOMETRI": "Pluviometers",
+  "SENSORCLASS_TERMOMETRI": "Thermometers"
 
 }
