@@ -110,6 +110,14 @@
   "SENSORCLASS": "Sensor Class",
   "SENSORCLASS_IDROMETRI": "Hydrometers",
   "SENSORCLASS_PLUVIOMETRI": "Pluviometers",
-  "SENSORCLASS_TERMOMETRI": "Thermometers"
-
+  "SENSORCLASS_TERMOMETRI": "Thermometers",
+  "SCREEN_TYPE_SENSORS_MANAGER": "Sensors Manager",
+  "GROUP": "Group",
+  "SELECTED_STATIONS": "Selected Stations",
+  "AVAILABLE_STATIONS": "Available Stations",
+  "SEARCH_SELECTED_STATIONS": "Search selected stations",
+  "SEARCH_AVAILABLE_STATIONS": "Search available stations",
+  "ADD": "Add",
+  "REMOVE": "Remove",
+  "SENSORS_MANAGER_SELECTION_HELPER": "Click selects a single station. Cmd/Ctrl adds or removes items from the selection. Shift selects a range."
 }
