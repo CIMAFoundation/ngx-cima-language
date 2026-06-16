@@ -16,6 +16,12 @@
   "CHLOROPHYLL_CONCENTRATION": "Concentrazione di clorofilla",
   "CONCENTRATION_OF_ZOOPLANKTON_BIOMASS_IN_SEA_WATER": "Concentrazione della biomassa di zooplancton",
   "CUMULATIVE_RAINFALL": "Precipitazioni cumulative",
+  "CUMULATA_7_GIORNI": "Cumulata 7 giorni",
+  "CUMULATA_30_GIORNI": "Cumulata 30 giorni",
+  "CUMULATA_60_GIORNI": "Cumulata 60 giorni",
+  "CUMULATA_90_GIORNI": "Cumulata 90 giorni",
+  "CUMULATA_120_GIORNI": "Cumulata 120 giorni",
+  "DAILY_RAINFALL_FIELD": "Campo di precipitazioni giornaliere",
   "DEWETRA3": {
     "AREA_HA": "Area (ha)",
     "DATA_TYPE": "Tipo di dati",
