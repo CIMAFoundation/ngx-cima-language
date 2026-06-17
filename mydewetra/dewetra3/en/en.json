@@ -72,7 +72,12 @@
       "G_GLOBAL:flood_hazard_JRC_24_RP200": "Flood hazard - Return period 200 years",
       "G_GLOBAL:flood_hazard_JRC_24_RP50": "Flood hazard - Return period 50 years",
       "G_GLOBAL:flood_hazard_JRC_24_RP500": "Flood hazard - Return period 500 years",
-      "G_GLOBAL:flood_hazard_JRC_24_RP75": "Flood hazard - Return period 75 years"
+      "G_GLOBAL:flood_hazard_JRC_24_RP75": "Flood hazard - Return period 75 years",
+      "dew:flood_hazard_1000_yrp": "Global Flood hazard 1000-year (GAR)",
+      "dew:flood_hazard_200_yrp": "Global Flood hazard 200-year (GAR)",
+      "dew:flood_hazard_25_yrp": "Global Flood hazard 25-year (GAR)",
+      "dew:flood_hazard_500_yrp": "Global Flood hazard 500-year (GAR)",
+      "dew:flood_hazard_50_yrp": "Global Flood hazard 50-year (GAR)"
     },
     "TECH": "Tech",
     "TIME": "Time",

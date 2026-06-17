@@ -72,7 +72,12 @@
       "G_GLOBAL:flood_hazard_JRC_24_RP200": "Peligro de inundación: período de devolución 200 años",
       "G_GLOBAL:flood_hazard_JRC_24_RP50": "Riesgo de inundación: período de devolución de 50 años",
       "G_GLOBAL:flood_hazard_JRC_24_RP500": "Peligro de inundación: período de retorno de 500 años",
-      "G_GLOBAL:flood_hazard_JRC_24_RP75": "Riesgo de inundación: período de devolución 75 años"
+      "G_GLOBAL:flood_hazard_JRC_24_RP75": "Riesgo de inundación: período de devolución 75 años",
+      "dew:flood_hazard_1000_yrp": "Peligro mundial de inundación a 1000 años (GAR)",
+      "dew:flood_hazard_200_yrp": "Peligro mundial de inundación en 200 años (GAR)",
+      "dew:flood_hazard_25_yrp": "Peligro mundial de inundación a 25 años (GAR)",
+      "dew:flood_hazard_500_yrp": "Peligro mundial de inundación a 500 años (GAR)",
+      "dew:flood_hazard_50_yrp": "Peligro mundial de inundación a 50 años (GAR)"
     },
     "TECH": "Tecnología",
     "TIME": "Hora",
