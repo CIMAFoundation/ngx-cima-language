@@ -763,6 +763,23 @@
     "GID_1": "Codice amministratore di livello 1",
     "GID_2": "Codice amministratore di livello 2",
     "GID_3": "Codice amministratore di livello 3",
+    "COAU": {
+      "ID": "ID segnalazione",
+      "TIPRICH": "Tipo richiesta",
+      "DATARICH": "Data richiesta",
+      "NUMRICH": "Numero richiesta",
+      "LOCALITA": "Localita",
+      "NFRONTI": "Numero fronti",
+      "TOTMFRO": "Totale metri fronte",
+      "TIPINT": "Tipo intervento",
+      "FATVENTO": "Fattore vento",
+      "OROG": "Orografia",
+      "TIPVEGB": "Tipo vegetazione bassa",
+      "VAVEGB": "Valore vegetazione bassa",
+      "TIPVEGRI": "Tipo vegetazione riparia",
+      "VAVEGRI": "Valore vegetazione riparia",
+      "QUOTA": "Quota"
+    },
     "ITALIA": {
       "ADMIN_B_L1": "Limite amministrativo livello 1",
       "ADMIN_B_L2": "Limite amministrativo livello 2",
