@@ -42,7 +42,7 @@
   "SNACK_WIDGET_CANCEL": "Suppression réussie",
   "SNACK_WIDGET_CANCEL_ERROR": "Erreur lors de la suppression",
   "SNACK_WIDGET_VIEW": "Pour réactiver/afficher le widget, ouvrez la liste des widgets --->",
-  
+
   "COLORS" : {
     "BLACK": "Noir",
     "WHITE": "Blanc",
@@ -56,7 +56,7 @@
     "PINK": "Rose",
     "BROWN": "Marron"
   },
-   
+
     "WIDGETS": {
       "GSMAP_VIETNAM_72": "GSMAP Vietnam 72h",
       "WRF_VIETNAM_72": "WRF Vietnam 72h",
@@ -75,6 +75,8 @@
       "PREVCOM_ALERTA": "Phénomènes météorologiques significatifs prévus",
       "PREVCOM_FASI": "Prévention municipale - PHASES",
       "MULTI_CHL": "Concentration de chlorophylle",
-      "MULTI_SST": "Température de surface de la mer"
+      "MULTI_SST": "Température de surface de la mer",
+      "THRESHOLD_MONITOR_PLUVIO": "Moniteur de seuil pluviométrique",
+      "THRESHOLD_MONITOR_HYDRO": "Moniteur de seuil hydrométrique"
    }
   }

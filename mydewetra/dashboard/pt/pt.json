@@ -56,7 +56,7 @@
     "PINK": "Rosa",
     "BROWN": "Marrom"
   },
-  
+
   "WIDGETS": {
     "GSMAP_VIETNAM_72": "GSMAP Vietnã 72h",
     "WRF_VIETNAM_72": "WRF Vietnã 72h",
@@ -75,6 +75,8 @@
     "PREVCOM_ALERTA": "Fenômenos Meteorológicos Significativos Esperados",
     "PREVCOM_FASI": "Prevenção Municipal - FASES",
     "MULTI_CHL": "Clorofila Concentração",
-    "MULTI_SST": "Temperatura da Superfície do Mar"
-  }    
+    "MULTI_SST": "Temperatura da Superfície do Mar",
+    "THRESHOLD_MONITOR_PLUVIO": "Monitor de Limite Pluviométrico",
+    "THRESHOLD_MONITOR_HYDRO": "Monitor de Limite Hidrométrico"
+  }
 }

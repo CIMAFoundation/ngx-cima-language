@@ -6,7 +6,7 @@
   "EDIT": "Modifica",
   "CANCEL": "Annulla",
   "DELETE": "Cancella Settaggi",
-  
+
   "PREVIOUS": "Precedente",
   "NEXT": "Successivo",
   "FILTER": "Filtra",
@@ -43,7 +43,7 @@
   "SNACK_WIDGET_CANCEL": "Cancellazione avvenuta con successo",
   "SNACK_WIDGET_CANCEL_ERROR": "Errore durante la cancellazione",
   "SNACK_WIDGET_VIEW": "Per riabilitare/visualizzare il widget apri la lista widget --->",
-  
+
 
   "COLORS" : {
 
@@ -78,6 +78,8 @@
     "PREVCOM_ALERTA": "Fenomeni Meteo Significativi Previsti",
     "PREVCOM_FASI": "Prevenzione Comune - FASI",
     "MULTI_CHL": "Clorofilla Concentrazione",
-    "MULTI_SST": "Temperatura Superficiale del Mare"
+    "MULTI_SST": "Temperatura Superficiale del Mare",
+    "THRESHOLD_MONITOR_PLUVIO": "Monitor Soglie Pluvio",
+    "THRESHOLD_MONITOR_HYDRO": "Monitor Soglie Idro"
   }
 }

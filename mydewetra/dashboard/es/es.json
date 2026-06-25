@@ -6,7 +6,7 @@
   "EDIT": "Editar",
   "CANCEL": "Cancelar",
   "DELETE": "Eliminar configuración",
-  
+
   "PREVIOUS": "Anterior",
   "NEXT": "Siguiente",
   "FILTER": "Filtrar",
@@ -76,6 +76,8 @@
       "PREVCOM_ALERTA": "Se esperan fenómenos meteorológicos importantes",
       "PREVCOM_FASI": "Prevención Municipal - FASES",
       "MULTI_CHL": "Concentración de clorofila",
-      "MULTI_SST": "Temperatura Superficial del Mar"
+      "MULTI_SST": "Temperatura Superficial del Mar",
+     "THRESHOLD_MONITOR_PLUVIO": "Monitor de umbral pluviométrico",
+     "THRESHOLD_MONITOR_HYDRO": "Monitor de umbral hidrométrico"
   }
 }
