@@ -18,7 +18,7 @@
   "LOADING_DATA": "Loading",
   "ERROR_LOADING_DATA": "Error loading data",
   "CUMULATED": "Cumulated",
-  "USER_NOT_ENABLED": "User not enabled",
+  "USER_NOT_ENABLED": "Domain not enabled",
   "FUTURE_DATE": "The selected period is in the futur or not valid",
   "MAX_PERIOD": " days is the maximum period selectable for offline export",
   "RADAR_PRODUCT": "Product",
