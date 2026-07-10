@@ -17,6 +17,8 @@
   "NO_RESULT": "No result",
   "LOADING_DATA": "Loading",
   "ERROR_LOADING_DATA": "Error loading data",
+  "MESSAGE_ERROR": "An error occurred while processing the request. Please try again later.",
+  "MESSAGE_SUCCESS": "The request has been successfully processed. You will receive an email with the download link when the data is ready.",
   "CUMULATED": "Cumulated",
   "USER_NOT_ENABLED": "Domain not enabled",
   "FUTURE_DATE": "The selected period is in the futur or not valid",
