@@ -715,7 +715,8 @@
     "FLOODPROOFS": {
       "FLOOD_HAZARD_MAP": "Mappa del rischio di alluvione",
       "FLOOD_HAZARD_MAP_DESCRIPTION": "Rampa cromatica raster derivata dallo stile SLD",
-      "LEGEND": "Leggenda"
+      "LEGEND": "Leggenda",
+      "WATER_DEPTH": "Profondità dell'acqua (cm)"
     },
     "REPORTING_POINTS": {
       "FALLING_LEVELS": "Livelli in calo",

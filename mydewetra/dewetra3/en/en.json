@@ -715,7 +715,8 @@
     "FLOODPROOFS": {
       "FLOOD_HAZARD_MAP": "Flood hazard map",
       "FLOOD_HAZARD_MAP_DESCRIPTION": "Raster color ramp derived from the SLD style",
-      "LEGEND": "Legend"
+      "LEGEND": "Legend",
+      "WATER_DEPTH": "Water depth (cm)"
     },
     "REPORTING_POINTS": {
       "FALLING_LEVELS": "Falling levels",

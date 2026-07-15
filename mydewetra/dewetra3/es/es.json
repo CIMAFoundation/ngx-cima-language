@@ -715,7 +715,8 @@
     "FLOODPROOFS": {
       "FLOOD_HAZARD_MAP": "Mapa de peligro de inundación",
       "FLOOD_HAZARD_MAP_DESCRIPTION": "Rampa de color rasterizada derivada del estilo SLD",
-      "LEGEND": "Leyenda"
+      "LEGEND": "Leyenda",
+      "WATER_DEPTH": "Profundidad del agua (cm)"
     },
     "REPORTING_POINTS": {
       "FALLING_LEVELS": "Niveles en descenso",
