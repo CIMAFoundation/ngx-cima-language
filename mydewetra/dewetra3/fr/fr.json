@@ -369,6 +369,27 @@
       "UPLOAD_METHOD": "Méthode de téléchargement"
     },
     "LOCK": "Sélecteur de couche de verrouillage",
+    "LOGS": {
+      "APPLY": "Postulez",
+      "AUTO_REFRESH": "Actualisation automatique (1 m)",
+      "CLEAR": "Transparent",
+      "EVENT_DETAIL": "Détail de l'événement",
+      "FROM": "À partir de",
+      "LAST_UPDATED": "Dernière mise à jour",
+      "LAYERS": "Couches",
+      "LIVE_MESSAGES": "Messages en direct",
+      "LOADING": "Chargement",
+      "NOW": "Maintenant",
+      "OVERVIEW": "Vue d'ensemble",
+      "SUBTITLE": "Analyse de l'activité de Dewetra3",
+      "TIMELINE": "Chronologie",
+      "TIMEZONE": "Fuseau horaire",
+      "TITLE": "Diagnostics",
+      "TO": "À",
+      "USERS": "Les utilisateurs",
+      "WATCH_WITHOUT_REFRESH": "Regardez sans actualiser",
+      "WEBSOCKET": "Websocket"
+    },
     "MAGIC_SEARCH": {
       "BUILDING_INDEX": "Créer un index de recherche...",
       "FEATURES_SEARCH": "Recherche de fonctionnalités",

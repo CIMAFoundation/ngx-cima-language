@@ -369,6 +369,27 @@
       "UPLOAD_METHOD": "Upload Method"
     },
     "LOCK": "Lock Layer Chooser",
+    "LOGS": {
+      "APPLY": "Apply",
+      "AUTO_REFRESH": "Auto-refresh (1m)",
+      "CLEAR": "Clear",
+      "EVENT_DETAIL": "Event detail",
+      "FROM": "From",
+      "LAST_UPDATED": "Last updated",
+      "LAYERS": "Layers",
+      "LIVE_MESSAGES": "Live messages",
+      "LOADING": "Loading",
+      "NOW": "Now",
+      "OVERVIEW": "Overview",
+      "SUBTITLE": "Dewetra3 activity analysis",
+      "TIMELINE": "Timeline",
+      "TIMEZONE": "Timezone",
+      "TITLE": "Diagnostics",
+      "TO": "To",
+      "USERS": "Users",
+      "WATCH_WITHOUT_REFRESH": "Watch without refresh",
+      "WEBSOCKET": "Websocket"
+    },
     "MAGIC_SEARCH": {
       "BUILDING_INDEX": "Building search index...",
       "FEATURES_SEARCH": "Features Search",

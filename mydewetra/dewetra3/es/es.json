@@ -369,6 +369,27 @@
       "UPLOAD_METHOD": "Método de carga"
     },
     "LOCK": "Selector de capas de bloqueo",
+    "LOGS": {
+      "APPLY": "Aplica",
+      "AUTO_REFRESH": "Actualización automática (1 m)",
+      "CLEAR": "Borrar",
+      "EVENT_DETAIL": "Detalle del evento",
+      "FROM": "Desde",
+      "LAST_UPDATED": "Última actualización",
+      "LAYERS": "Capas",
+      "LIVE_MESSAGES": "Mensajes en directo",
+      "LOADING": "Cargando",
+      "NOW": "Ahora",
+      "OVERVIEW": "Visión general",
+      "SUBTITLE": "Análisis de actividad de Dewetra3",
+      "TIMELINE": "Cronología",
+      "TIMEZONE": "Zona horaria",
+      "TITLE": "Diagnósticos",
+      "TO": "Para",
+      "USERS": "Usuarios",
+      "WATCH_WITHOUT_REFRESH": "Mira sin actualizar",
+      "WEBSOCKET": "Websocket"
+    },
     "MAGIC_SEARCH": {
       "BUILDING_INDEX": "Construyendo un índice de búsqueda...",
       "FEATURES_SEARCH": "Búsqueda de funciones",

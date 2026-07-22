@@ -369,6 +369,27 @@
       "UPLOAD_METHOD": "Metodo di Upload"
     },
     "LOCK": "Blocca Selettore Livelli",
+    "LOGS": {
+      "APPLY": "Applica",
+      "AUTO_REFRESH": "Aggiornamento automatico (1m)",
+      "CLEAR": "Trasparente",
+      "EVENT_DETAIL": "Dettagli dell'evento",
+      "FROM": "Da",
+      "LAST_UPDATED": "Ultimo aggiornamento",
+      "LAYERS": "Strati",
+      "LIVE_MESSAGES": "Messaggi in tempo reale",
+      "LOADING": "Caricamento",
+      "NOW": "Ora",
+      "OVERVIEW": "Panoramica",
+      "SUBTITLE": "Analisi dell'attività di Dewetra3",
+      "TIMELINE": "Cronologia",
+      "TIMEZONE": "Fuso orario",
+      "TITLE": "Diagnostica",
+      "TO": "A",
+      "USERS": "Utenti",
+      "WATCH_WITHOUT_REFRESH": "Guarda senza aggiornare",
+      "WEBSOCKET": "Websocket"
+    },
     "MAGIC_SEARCH": {
       "BUILDING_INDEX": "Creazione dell'indice di ricerca...",
       "FEATURES_SEARCH": "Ricerca delle Feature tra i layer",

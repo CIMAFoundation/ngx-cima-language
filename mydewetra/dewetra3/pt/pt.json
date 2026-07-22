@@ -369,6 +369,27 @@
       "UPLOAD_METHOD": "Método de upload"
     },
     "LOCK": "Bloquear",
+    "LOGS": {
+      "APPLY": "Aplique",
+      "AUTO_REFRESH": "Atualização automática (1m)",
+      "CLEAR": "Claro",
+      "EVENT_DETAIL": "Detalhe do evento",
+      "FROM": "De",
+      "LAST_UPDATED": "Última atualização",
+      "LAYERS": "Camadas",
+      "LIVE_MESSAGES": "Mensagens ao vivo",
+      "LOADING": "Carregando",
+      "NOW": "Agora",
+      "OVERVIEW": "Visão geral",
+      "SUBTITLE": "Análise da atividade de Dewetra3",
+      "TIMELINE": "Cronograma",
+      "TIMEZONE": "Fuso horário",
+      "TITLE": "Diagnóstico",
+      "TO": "Para",
+      "USERS": "Usuários",
+      "WATCH_WITHOUT_REFRESH": "Assista sem atualizar",
+      "WEBSOCKET": "Websoquete"
+    },
     "MAGIC_SEARCH": {
       "BUILDING_INDEX": "Construindo índice de pesquisa...",
       "FEATURES_SEARCH": "Pesquisa de recursos",
