@@ -795,7 +795,7 @@
     "damage_class_opz5": "Very High",
     "another_detail": "Detail inserted, do you want to add another detail?",
     "success_save_detail": "Damage details Updated Successfully",
-    "error_save_details": "Error updating damage details",
+    "error_save_detail": "Error updating damage details",
     "damage_details_other_warning": "ATTENTION! You are about to insert a generic category; it is recommended to use a specific category, if existing."
   },
 

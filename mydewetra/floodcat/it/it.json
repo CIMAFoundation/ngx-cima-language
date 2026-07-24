@@ -795,7 +795,7 @@
     "damage_class_opz5": "Molto alto",
     "another_detail": "Dettaglio inserito, vuoi aggiungere un altro dettaglio?",
     "success_save_detail": "Dettagli di danno salvato con successo",
-    "error_save_details": "Impossibile salvare il dettaglio di danno",
+    "error_save_detail": "Impossibile salvare il dettaglio di danno",
     "damage_details_other_warning": "ATTENZIONE! Si sta utilizzando una sottocategoria di danno generica; si consiglia di utilizzare, se esistente, una sottocategoria specifica."
   },
 
