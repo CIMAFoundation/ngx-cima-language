@@ -251,6 +251,7 @@
     "validation_title": "Stato validazione",
     "validation": "Eventi validati",
     "no_validation": "Eventi non validati",
+    "svalidated": "Eventi svalidati",
     "free_text": "Ricerca libera (Codice evento, Nome evento)",
     "catchment_search": "Ricerca bacino idrografico"
   },

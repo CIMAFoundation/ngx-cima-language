@@ -250,6 +250,7 @@
     "validation_title": "Validation",
     "validation": "Validated events",
     "no_validation": "Events not validated",
+    "svalidated": "Invalidated events",
     "free_text": "Textual Search (Event Code, Event Name)",
     "catchment_search": "Catchment Search"
   },
