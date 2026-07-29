@@ -92,5 +92,14 @@
   "LANGUAGE": "Language",
   "SUBJECT": "Subject",
   "TEXT": "Text",
-  "SEND": "Send"
+  "SEND": "Send",
+  "CHANGE_PHONE_NUMBER": "Change Phone Number",
+  "NEW_PHONE_NUMBER": "New Phone Number",
+  "PHONE_INTERNATIONAL_PREFIX_HINT": "Enter the international prefix, e.g. +39 for Italy",
+  "PHONE_NUMBER_ALREADY_IN_USE": "The entered number is the same as the current one",
+  "PHONE_VERIFICATION_CODE_SENT": "Enter the verification code received via SMS",
+  "PHONE_VERIFICATION_CODE": "Verification Code",
+  "PHONE_VERIFICATION_CODE_INVALID": "The verification code is not valid",
+  "SEND_VERIFICATION_CODE": "Send Code",
+  "VERIFY_CODE": "Verify Code"
 }
