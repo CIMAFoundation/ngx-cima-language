@@ -101,5 +101,7 @@
   "PHONE_VERIFICATION_CODE": "Verification Code",
   "PHONE_VERIFICATION_CODE_INVALID": "The verification code is not valid",
   "SEND_VERIFICATION_CODE": "Send Code",
-  "VERIFY_CODE": "Verify Code"
+  "VERIFY_CODE": "Verify Code",
+  "RETRY": "Retry",
+  "RETRY_CODE_IN": "You can request a new code in"
 }
