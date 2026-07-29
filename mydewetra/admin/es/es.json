@@ -97,7 +97,7 @@
   "NEW_PHONE_NUMBER": "Nuevo número de teléfono",
   "PHONE_INTERNATIONAL_PREFIX_HINT": "Introduce el prefijo internacional, por ejemplo +39 para Italia",
   "PHONE_NUMBER_ALREADY_IN_USE": "El número introducido es el mismo que el actual",
-  "PHONE_VERIFICATION_CODE_SENT": "Introduce el código de verificación recibido por SMS",
+  "PHONE_VERIFICATION_CODE_SENT": "Introduce el código de verificación recibido por SMS en el número de teléfono: ",
   "PHONE_VERIFICATION_CODE": "Código de verificación",
   "PHONE_VERIFICATION_CODE_INVALID": "El código de verificación no es válido",
   "SEND_VERIFICATION_CODE": "Enviar código",
