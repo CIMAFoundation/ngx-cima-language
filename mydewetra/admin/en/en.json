@@ -103,5 +103,7 @@
   "SEND_VERIFICATION_CODE": "Send Code",
   "VERIFY_CODE": "Verify Code",
   "RETRY": "Retry",
-  "RETRY_CODE_IN": "You can request a new code in"
+  "RETRY_CODE_IN": "You can request a new code in",
+  "PHONE_VERIFICATION_CODE_SENT_SUCCESS": "The verification code has been sent successfully",
+  "PHONE_VERIFICATION_CODE_SENT_ERROR": "An error occurred while sending the verification code."
 }
