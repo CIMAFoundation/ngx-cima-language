@@ -43,6 +43,7 @@
   "SNACK_WIDGET_CANCEL": "Eliminación realizada con éxito",
   "SNACK_WIDGET_CANCEL_ERROR": "Error al eliminar",
   "SNACK_WIDGET_VIEW": "Para reactivar/mostrar el widget abre la lista de widgets --->",
+  "OPEN_LAYER": "Abrir capa en Dewetra3",
 
   "COLORS" : {
     "BLACK": "Negro",

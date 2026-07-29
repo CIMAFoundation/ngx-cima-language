@@ -43,6 +43,7 @@
   "SNACK_WIDGET_CANCEL": "Delete successful",
   "SNACK_WIDGET_CANCEL_ERROR": "Error during delete",
   "SNACK_WIDGET_VIEW": "To re-enable/view the widget open the widget list --->",
+  "OPEN_LAYER": "Open layer in Dewetra3",
 
   "COLORS" : {
     "BLACK": "Black",

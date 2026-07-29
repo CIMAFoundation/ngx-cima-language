@@ -42,6 +42,7 @@
   "SNACK_WIDGET_CANCEL": "Exclusão bem-sucedida",
   "SNACK_WIDGET_CANCEL_ERROR": "Erro ao excluir",
   "SNACK_WIDGET_VIEW": "Para reativar/exibir o widget, abra a lista de widgets --->",
+  "OPEN_LAYER": "Abrir camada no Dewetra3",
 
   "COLORS" : {
     "BLACK": "Preto",

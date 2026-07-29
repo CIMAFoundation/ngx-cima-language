@@ -43,6 +43,7 @@
   "SNACK_WIDGET_CANCEL": "Cancellazione avvenuta con successo",
   "SNACK_WIDGET_CANCEL_ERROR": "Errore durante la cancellazione",
   "SNACK_WIDGET_VIEW": "Per riabilitare/visualizzare il widget apri la lista widget --->",
+  "OPEN_LAYER": "Apri layer in Dewetra3",
 
 
   "COLORS" : {

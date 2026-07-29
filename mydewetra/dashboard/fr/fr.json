@@ -42,6 +42,7 @@
   "SNACK_WIDGET_CANCEL": "Suppression réussie",
   "SNACK_WIDGET_CANCEL_ERROR": "Erreur lors de la suppression",
   "SNACK_WIDGET_VIEW": "Pour réactiver/afficher le widget, ouvrez la liste des widgets --->",
+  "OPEN_LAYER": "Ouvrir la couche dans Dewetra3",
 
   "COLORS" : {
     "BLACK": "Noir",
