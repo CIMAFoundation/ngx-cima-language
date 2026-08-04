@@ -135,7 +135,8 @@
     "phenomenon_reference_subjects": "Error loading PHENOMENON REFERENCE SUBJECTS",
     "categories_of_damage": "Error loading DAMAGE CATEGORIES",
     "subcategories_of_damage": "Error loading DAMAGE SUBCATEGORIES",
-    "units_of_measure": "Error loading UNITS OF MEASUREMENT"
+    "units_of_measure": "Error loading UNITS OF MEASUREMENT",
+    "restoration_choices": "Error loading RESTORATION CHOICES"
   },
 
   "toolbar": {

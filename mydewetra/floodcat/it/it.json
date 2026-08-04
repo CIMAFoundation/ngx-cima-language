@@ -135,7 +135,8 @@
     "phenomenon_reference_subjects": "Errore nel caricamento dei SOGGETTI DI RIFERIMENTO DEL FENOMENO",
     "categories_of_damage": "Errore nel caricamento delle CATEGORIE DEI DANNI",
     "subcategories_of_damage": "Errore nel caricamento delle SOTTOCATEGORIE DEI DANNI",
-    "units_of_measure": "Errore nel caricamento delle UNITA' DI MISURA"
+    "units_of_measure": "Errore nel caricamento delle UNITA' DI MISURA",
+    "restoration_choices": "Errore nel caricamento delle opzioni di FABBISOGNO"
   },
 
   "toolbar": {
