@@ -891,6 +891,8 @@
     "new_zip_msg3": "The EVENTS file must be in XLSX format and must have the prefix \"floodcat_eventi_\" in the name (e.g. floodcat_eventi_NOMEDELMIOFILE.xlsx)",
     "new_zip_msg4": "REFERENCES files can be more than one and must be in the formats permitted by the directive",
     "new_zip_msg5": "you can insert the necessary SHAPE files into the ZIP file",
+    "download_msg1": "Error: file not found on the server",
+    "download_msg2": "Error: the server did not respond to the request to download the file",
     "upload_date": "Upload date",
     "waiting_msg": "File uploaded awaiting processing",
     "try_import": "SIMULATE IMPORT",
