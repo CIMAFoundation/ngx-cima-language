@@ -115,6 +115,9 @@
 		"END_SESSION_MODAL_MESSAGE": "ክፍለ ጊዜውን ማቆም ይፈልጋሉ?"
 	},
 	"DYNAMIC": {
+    "TEXT_SCHEMA_TEMPLATE": {
+      "HELP": "እነዚህ ለውጦች ወደ ቀጣዩ ማስታወቂያዎች ይተላሉ። በአሁን ማስታወቂያው አይተላለም።"
+    },
 		"GEOJSON_MAP_EDITOR": {
 			"CHOOSE_LAYER": "ንብርብር ምረጥ",
 			"DELETE": "ሰርዝ",

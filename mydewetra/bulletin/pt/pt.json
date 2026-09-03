@@ -119,6 +119,9 @@
     "END_SESSION_MODAL_MESSAGE": "Deseja encerrar a sessão?"
   },
   "DYNAMIC": {
+    "TEXT_SCHEMA_TEMPLATE": {
+      "HELP": "Essas alterações serão aplicadas aos próximos boletins criados. O boletim atual não será afetado."
+    },
     "GEOJSON_MAP_EDITOR": {
       "CHOOSE_LAYER": "Escolher Camada",
       "DELETE": "Excluir",

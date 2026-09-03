@@ -119,6 +119,9 @@
         }
     },
     "DYNAMIC": {
+      "TEXT_SCHEMA_TEMPLATE": {
+        "HELP": "Queste modifiche saranno applicate ai prossimi bollettini creati. Il bollettino corrente non sarà interessato."
+      },
         "GEOJSON_MAP_EDITOR": {
             "CHOOSE_LAYER": "Scegli Layer",
             "DELETE": "Elimina",

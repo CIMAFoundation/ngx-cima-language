@@ -115,6 +115,9 @@
         "END_SESSION_MODAL_MESSAGE": "Voulez-vous terminer la session?"
     },
     "DYNAMIC": {
+      "TEXT_SCHEMA_TEMPLATE": {
+        "HELP": "Ces modifications seront appliquées aux prochains bulletins créés. Le bulletin actuel ne sera pas affecté."
+      },
         "GEOJSON_MAP_EDITOR": {
             "CHOOSE_LAYER": "Choisir la couche",
             "DELETE": "Supprimer",
