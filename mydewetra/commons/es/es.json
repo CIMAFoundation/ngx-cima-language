@@ -39,7 +39,8 @@
     "RESTORE_TO_NOW": "Restaurar a Ahora",
     "APPLY_CHANGES": "Aplicar Cambios",
     "EXPAND": "Expandir",
-    "MINIMIZE": "Minimizar"
+    "MINIMIZE": "Minimizar",
+    "DATES_RESTORED": "Las fechas y horas se han restaurado de la sesión anterior"
   },
   "TIMEBAR":{
     "NOW": "Ahora"

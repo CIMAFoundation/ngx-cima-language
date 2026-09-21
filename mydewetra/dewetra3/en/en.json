@@ -16,6 +16,7 @@
   "ALKALINITY": "Alkalinity",
   "ALL_VALUES": "All values",
   "ANALYSED_SEA_SURFACE_TEMPERATURE": "Analysed Sea Surface Temperature",
+  "ANOMALY_PERCENT": "anomaly [%]",
   "APPARENT_TEMPERATURE": "Apparent Temperature",
   "BLACKLISTED_SENSORS": "Blacklisted Sensors",
   "CATCHMENT": "Catchment",
@@ -701,7 +702,6 @@
   },
   "DEWETRA3CORE": {
     "ACCUMULATION_SELECTED": "Accumulation selected",
-    "ANOMALY_PERCENT": "anomaly [%]",
     "AGGREGATIONS": "Aggregations",
     "AREA": "Area",
     "AREAS": "Areas",

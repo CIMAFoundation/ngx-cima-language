@@ -16,6 +16,7 @@
   "ALKALINITY": "Alcalinita",
   "ALL_VALUES": "Tutti i valori",
   "ANALYSED_SEA_SURFACE_TEMPERATURE": "Temperatura superficiale del mare analizzata",
+  "ANOMALY_PERCENT": "anomalia [%]",
   "APPARENT_TEMPERATURE": "Temperatura apparente",
   "BLACKLISTED_SENSORS": "Sensori nella lista nera",
   "CATCHMENT": "Bacino",
@@ -702,7 +703,6 @@
   "DEWETRA3CORE": {
     "ACCUMULATION_SELECTED": "Cumulata selezionata",
     "AGGREGATIONS": "Aggregazioni",
-    "ANOMALY_PERCENT": "anomalia [%]",
     "AREA": "Area",
     "AREAS": "Aree",
     "CLOSE": "Chiudi",
