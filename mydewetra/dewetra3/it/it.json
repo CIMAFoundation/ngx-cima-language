@@ -451,6 +451,47 @@
     "PRINT_MAP": "Stampa Mappa",
     "PROPERTIES": "Proprietà",
     "PUSH_MODE": "Modalità Push",
+    "RASTER_CALCULATOR": {
+      "ACTIONS": {
+        "ADD": "Inserisci",
+        "BACK": "Indietro",
+        "CANCEL": "Annulla",
+        "DELETE": "Elimina",
+        "EDIT": "Modifica",
+        "NEXT": "Prossimo",
+        "SAVE": "Salva"
+      },
+      "LAYER_SELECTION": {
+        "ADD_LAYER": "Aggiungi livello",
+        "AVAILABLE_LAYERS": "Strati disponibili",
+        "CONFIRM_DELETE": {
+          "MESSAGE": "Sei sicuro di voler rimuovere questo livello dal calcolo?",
+          "TITLE": "Rimuovi livello"
+        },
+        "DIALOG": {
+          "ADD_TITLE": "Configurazione del livello",
+          "EDIT_TITLE": "Modifica la configurazione del livello"
+        },
+        "FIELDS": {
+          "ACCUMULATION": "Periodo di accumulo",
+          "REFERENCE_TIME": "Tempo di riferimento",
+          "VARIABLE": "Variabile"
+        },
+        "FILTER_LABEL": "Strati di filtro",
+        "FILTER_PLACEHOLDER": "Ricerca per nome o descrizione",
+        "NO_RESULTS": "Nessun livello corrisponde al filtro corrente.",
+        "NO_SELECTED_LAYERS": "Nessun livello selezionato.",
+        "SELECTED_LAYERS": "Livelli selezionati"
+      },
+      "STEPS": {
+        "BENCHMARK_SELECTION": "Selezione del benchmark",
+        "EXPRESSION": "Espressione",
+        "LAYER_SELECTION": "Selezione del livello",
+        "PROCESSING": "Elaborazione",
+        "RESULT": "Risultato"
+      },
+      "TITLE": "Calcolatrice raster"
+    },
     "REFRESH LAYER": "Aggiorna Layer",
     "RELOAD_LAYERS": "Ricarica i livelli",
     "REMOVE_ALL_LAYERS": "Rimuovi Tutti i Livelli",

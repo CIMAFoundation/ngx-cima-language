@@ -451,6 +451,47 @@
     "PRINT_MAP": "Imprimir Mapa",
     "PROPERTIES": "Propriedades",
     "PUSH_MODE": "Modo Push",
+    "RASTER_CALCULATOR": {
+      "ACTIONS": {
+        "ADD": "Adicionar",
+        "BACK": "Voltar",
+        "CANCEL": "Cancelar",
+        "DELETE": "Excluir",
+        "EDIT": "Editar",
+        "NEXT": "Próximo",
+        "SAVE": "Salvar"
+      },
+      "LAYER_SELECTION": {
+        "ADD_LAYER": "Adicionar camada",
+        "AVAILABLE_LAYERS": "Camadas disponíveis",
+        "CONFIRM_DELETE": {
+          "MESSAGE": "Tem certeza de que deseja remover essa camada do cálculo?",
+          "TITLE": "Remover camada"
+        },
+        "DIALOG": {
+          "ADD_TITLE": "Configurar camada",
+          "EDIT_TITLE": "Editar configuração da camada"
+        },
+        "FIELDS": {
+          "ACCUMULATION": "Período de acúmulo",
+          "REFERENCE_TIME": "Hora de referência",
+          "VARIABLE": "Variável"
+        },
+        "FILTER_LABEL": "Camadas de filtro",
+        "FILTER_PLACEHOLDER": "Pesquisar por nome ou descrição",
+        "NO_RESULTS": "Nenhuma camada corresponde ao filtro atual.",
+        "NO_SELECTED_LAYERS": "Nenhuma camada selecionada.",
+        "SELECTED_LAYERS": "Camadas selecionadas"
+      },
+      "STEPS": {
+        "BENCHMARK_SELECTION": "Seleção de benchmark",
+        "EXPRESSION": "Expressão",
+        "LAYER_SELECTION": "Seleção de camadas",
+        "PROCESSING": "Processando",
+        "RESULT": "Resultado"
+      },
+      "TITLE": "Calculadora Raster"
+    },
     "REFRESH LAYER": "Atualizar Camada",
     "RELOAD_LAYERS": "Recarregar Camadas",
     "REMOVE_ALL_LAYERS": "Remover Todas as Camadas",

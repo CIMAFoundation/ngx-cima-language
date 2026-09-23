@@ -451,6 +451,47 @@
     "PRINT_MAP": "Print Map",
     "PROPERTIES": "Properties",
     "PUSH_MODE": "Push Mode",
+    "RASTER_CALCULATOR": {
+      "ACTIONS": {
+        "ADD": "Add",
+        "BACK": "Back",
+        "CANCEL": "Cancel",
+        "DELETE": "Delete",
+        "EDIT": "Edit",
+        "NEXT": "Next",
+        "SAVE": "Save"
+      },
+      "LAYER_SELECTION": {
+        "ADD_LAYER": "Add layer",
+        "AVAILABLE_LAYERS": "Available layers",
+        "CONFIRM_DELETE": {
+          "MESSAGE": "Are you sure you want to remove this layer from the calculation?",
+          "TITLE": "Remove layer"
+        },
+        "DIALOG": {
+          "ADD_TITLE": "Configure layer",
+          "EDIT_TITLE": "Edit layer configuration"
+        },
+        "FIELDS": {
+          "ACCUMULATION": "Accumulation period",
+          "REFERENCE_TIME": "Reference time",
+          "VARIABLE": "Variable"
+        },
+        "FILTER_LABEL": "Filter layers",
+        "FILTER_PLACEHOLDER": "Search by name or description",
+        "NO_RESULTS": "No layers match the current filter.",
+        "NO_SELECTED_LAYERS": "No layers selected.",
+        "SELECTED_LAYERS": "Selected layers"
+      },
+      "STEPS": {
+        "BENCHMARK_SELECTION": "Benchmark selection",
+        "EXPRESSION": "Expression",
+        "LAYER_SELECTION": "Layer selection",
+        "PROCESSING": "Processing",
+        "RESULT": "Result"
+      },
+      "TITLE": "Raster Calculator"
+    },
     "REFRESH LAYER": "Refresh Layer",
     "RELOAD_LAYERS": "Reload Layers",
     "REMOVE_ALL_LAYERS": "Remove All Layers",

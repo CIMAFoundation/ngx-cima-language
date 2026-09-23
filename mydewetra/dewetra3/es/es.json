@@ -451,6 +451,47 @@
     "PRINT_MAP": "Imprimir mapa",
     "PROPERTIES": "Propiedades",
     "PUSH_MODE": "Modo Push",
+    "RASTER_CALCULATOR": {
+      "ACTIONS": {
+        "ADD": "Añadir",
+        "BACK": "Atrás",
+        "CANCEL": "Cancelar",
+        "DELETE": "Borrar",
+        "EDIT": "Editar",
+        "NEXT": "Próxima",
+        "SAVE": "Guardar"
+      },
+      "LAYER_SELECTION": {
+        "ADD_LAYER": "Añadir capa",
+        "AVAILABLE_LAYERS": "Capas disponibles",
+        "CONFIRM_DELETE": {
+          "MESSAGE": "¿Está seguro de que desea eliminar esta capa del cálculo?",
+          "TITLE": "Eliminar capa"
+        },
+        "DIALOG": {
+          "ADD_TITLE": "Configurar capa",
+          "EDIT_TITLE": "Editar la configuración de capas"
+        },
+        "FIELDS": {
+          "ACCUMULATION": "Periodo de acumulación",
+          "REFERENCE_TIME": "Hora de referencia",
+          "VARIABLE": "Variable"
+        },
+        "FILTER_LABEL": "Capas de filtro",
+        "FILTER_PLACEHOLDER": "Búsqueda por nombre o descripción",
+        "NO_RESULTS": "Ninguna capa coincide con el filtro actual.",
+        "NO_SELECTED_LAYERS": "No se ha seleccionado ninguna capa.",
+        "SELECTED_LAYERS": "Capas seleccionadas"
+      },
+      "STEPS": {
+        "BENCHMARK_SELECTION": "Selección de puntos de referencia",
+        "EXPRESSION": "Expresión",
+        "LAYER_SELECTION": "Selección de capas",
+        "PROCESSING": "Procesamiento",
+        "RESULT": "Resultado"
+      },
+      "TITLE": "Calculadora ráster"
+    },
     "REFRESH LAYER": "Actualizar capa",
     "RELOAD_LAYERS": "Recargar capas",
     "REMOVE_ALL_LAYERS": "Eliminar todas las capas",

@@ -451,6 +451,47 @@
     "PRINT_MAP": "Imprimer la carte",
     "PROPERTIES": "Propriétés",
     "PUSH_MODE": "Mode Push",
+    "RASTER_CALCULATOR": {
+      "ACTIONS": {
+        "ADD": "Ajouter",
+        "BACK": "Retour",
+        "CANCEL": "Annuler",
+        "DELETE": "Supprimer",
+        "EDIT": "Modifier",
+        "NEXT": "Suivant",
+        "SAVE": "Enregistrer"
+      },
+      "LAYER_SELECTION": {
+        "ADD_LAYER": "Ajouter une couche",
+        "AVAILABLE_LAYERS": "Couches disponibles",
+        "CONFIRM_DELETE": {
+          "MESSAGE": "Êtes-vous sûr de vouloir supprimer cette couche du calcul ?",
+          "TITLE": "Supprimer la couche"
+        },
+        "DIALOG": {
+          "ADD_TITLE": "Configuration de la couche",
+          "EDIT_TITLE": "Modifier la configuration des couches"
+        },
+        "FIELDS": {
+          "ACCUMULATION": "Période d'accumulation",
+          "REFERENCE_TIME": "Heure de référence",
+          "VARIABLE": "Variable"
+        },
+        "FILTER_LABEL": "Couches filtrantes",
+        "FILTER_PLACEHOLDER": "Recherche par nom ou description",
+        "NO_RESULTS": "Aucune couche ne correspond au filtre actuel.",
+        "NO_SELECTED_LAYERS": "Aucune couche n'a été sélectionnée.",
+        "SELECTED_LAYERS": "Couches sélectionnées"
+      },
+      "STEPS": {
+        "BENCHMARK_SELECTION": "Sélection de référence",
+        "EXPRESSION": "Expression",
+        "LAYER_SELECTION": "Sélection de couches",
+        "PROCESSING": "Traitement",
+        "RESULT": "Résultat"
+      },
+      "TITLE": "Calculateur raster"
+    },
     "REFRESH LAYER": "Actualiser la couche",
     "RELOAD_LAYERS": "Recharger les couches",
     "REMOVE_ALL_LAYERS": "Supprimer toutes les couches",
