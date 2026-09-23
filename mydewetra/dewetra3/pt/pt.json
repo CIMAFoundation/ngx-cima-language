@@ -527,8 +527,7 @@
         "BENCHMARK_SELECTION": "Selecione a camada de referência cuja grade será usada para alinhar os rasters de entrada.",
         "EXPRESSION": "Defina a expressão matemática a ser aplicada às camadas rasterizadas selecionadas.",
         "LAYER_SELECTION": "Selecione as camadas rasterizadas a serem incluídas no cálculo e configure suas propriedades.",
-        "PROCESSING": "Revise a configuração e inicie o processamento do raster.",
-        "RESULT": "Visualize o raster gerado no mapa ou baixe-o como GeoTIFF."
+        "PROCESSING": "Revise a configuração e inicie o processamento do raster."
       },
       "TITLE": "Calculadora Raster"
     },

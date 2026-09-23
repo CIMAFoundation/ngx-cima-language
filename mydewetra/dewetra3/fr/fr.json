@@ -527,8 +527,7 @@
         "BENCHMARK_SELECTION": "Sélectionnez la couche de référence dont la grille sera utilisée pour aligner les rasters en entrée.",
         "EXPRESSION": "Définissez l'expression mathématique à appliquer aux couches raster sélectionnées.",
         "LAYER_SELECTION": "Sélectionnez les couches raster à inclure dans le calcul et configurez leurs propriétés.",
-        "PROCESSING": "Vérifiez la configuration et lancez le traitement du raster.",
-        "RESULT": "Affichez le raster généré sur la carte ou téléchargez-le au format GeoTIFF."
+        "PROCESSING": "Vérifiez la configuration et lancez le traitement du raster."
       },
       "TITLE": "Calculateur raster"
     },

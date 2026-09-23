@@ -527,8 +527,7 @@
         "BENCHMARK_SELECTION": "Seleccione la capa de referencia cuya cuadrícula se utilizará para alinear los rásteres de entrada.",
         "EXPRESSION": "Defina la expresión matemática que se va a aplicar a las capas ráster seleccionadas.",
         "LAYER_SELECTION": "Seleccione las capas ráster que desee incluir en el cálculo y configure sus propiedades.",
-        "PROCESSING": "Revise la configuración e inicie el procesamiento del ráster.",
-        "RESULT": "Vea el ráster generado en el mapa o descárguelo como GeoTIFF."
+        "PROCESSING": "Revise la configuración e inicie el procesamiento del ráster."
       },
       "TITLE": "Calculadora ráster"
     },

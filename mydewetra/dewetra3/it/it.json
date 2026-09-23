@@ -527,8 +527,7 @@
         "BENCHMARK_SELECTION": "Seleziona il livello di riferimento la cui griglia verrà utilizzata per allineare i raster di input.",
         "EXPRESSION": "Definire l'espressione matematica da applicare ai livelli raster selezionati.",
         "LAYER_SELECTION": "Seleziona i livelli raster da includere nel calcolo e configura le loro proprietà.",
-        "PROCESSING": "Rivedi la configurazione e avvia l'elaborazione raster.",
-        "RESULT": "Visualizza il raster generato sulla mappa o scaricalo come GeoTIFF."
+        "PROCESSING": "Rivedi la configurazione e avvia l'elaborazione raster."
       },
       "TITLE": "Raster Calculator"
     },
