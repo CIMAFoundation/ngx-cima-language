@@ -453,44 +453,61 @@
     "PUSH_MODE": "Modalità Push",
     "RASTER_CALCULATOR": {
       "ACTIONS": {
-        "ADD": "Inserisci",
+        "ADD": "Aggiungi",
         "BACK": "Indietro",
         "CANCEL": "Annulla",
         "DELETE": "Elimina",
         "EDIT": "Modifica",
-        "NEXT": "Prossimo",
+        "NEXT": "Avanti",
         "SAVE": "Salva"
       },
+      "EXPRESSION": {
+        "AVERAGE": "Media",
+        "AVERAGE_DIALOG": {
+          "DESCRIPTION": "Seleziona almeno due livelli da includere nella media.",
+          "TITLE": "Calcola la media"
+        },
+        "CLEAR": "Trasparente",
+        "EMPTY": "Selezionate un livello o un'operazione per iniziare a creare l'espressione.",
+        "EXPRESSION": "Espressione",
+        "INVALID": "L'espressione è incompleta o non valida.",
+        "LAYERS": "Strati",
+        "OPERATORS": "Operatori",
+        "PREVIEW": "Anteprima",
+        "UNDO": "Annulla",
+        "VALID": "L'espressione è valida."
+      },
       "LAYER_SELECTION": {
-        "ADD_LAYER": "Aggiungi livello",
-        "AVAILABLE_LAYERS": "Strati disponibili",
+        "ADD_LAYER": "Aggiungi layer",
+        "AVAILABLE_LAYERS": "Layers disponibili",
         "CONFIRM_DELETE": {
-          "MESSAGE": "Sei sicuro di voler rimuovere questo livello dal calcolo?",
-          "TITLE": "Rimuovi livello"
+          "MESSAGE": "Sei sicuro di voler rimuovere questo layer dal calcolo?",
+          "TITLE": "Rimuovi layer"
         },
         "DIALOG": {
-          "ADD_TITLE": "Configurazione del livello",
-          "EDIT_TITLE": "Modifica la configurazione del livello"
+          "ADD_TITLE": "Configurazione del layer",
+          "EDIT_TITLE": "Modifica la configurazione del layer"
         },
         "FIELDS": {
-          "ACCUMULATION": "Periodo di accumulo",
-          "REFERENCE_TIME": "Tempo di riferimento",
+          "ACCUMULATION": "Cumulata",
+          "NAME": "Nome",
+          "REFERENCE_TIME": "Aggregazione temporale",
           "VARIABLE": "Variabile"
         },
-        "FILTER_LABEL": "Strati di filtro",
+        "FILTER_LABEL": "Cerca layer",
         "FILTER_PLACEHOLDER": "Ricerca per nome o descrizione",
-        "NO_RESULTS": "Nessun livello corrisponde al filtro corrente.",
-        "NO_SELECTED_LAYERS": "Nessun livello selezionato.",
-        "SELECTED_LAYERS": "Livelli selezionati"
+        "NO_RESULTS": "Nessun layer corrisponde al filtro corrente.",
+        "NO_SELECTED_LAYERS": "Nessun layer selezionato.",
+        "SELECTED_LAYERS": "Layers selezionati"
       },
       "STEPS": {
         "BENCHMARK_SELECTION": "Selezione del benchmark",
         "EXPRESSION": "Espressione",
-        "LAYER_SELECTION": "Selezione del livello",
+        "LAYER_SELECTION": "Selezione dei layers",
         "PROCESSING": "Elaborazione",
         "RESULT": "Risultato"
       },
-      "TITLE": "Calcolatrice raster"
+      "TITLE": "Raster Calculator"
     },
     "REFRESH LAYER": "Aggiorna Layer",
     "RELOAD_LAYERS": "Ricarica i livelli",
@@ -1468,20 +1485,6 @@
   "P_SHARED_STYLES:bordo_giallo": "Bordo giallo",
   "P_SHARED_STYLES:bordo_nero": "Bordo nero",
   "P_SHARED_STYLES:bordo_rosso": "Bordo rosso",
-  "RASTER_CALCULATOR": {
-    "ACTIONS": {
-      "BACK": "Indietro",
-      "NEXT": "Prossimo"
-    },
-    "STEPS": {
-      "BENCHMARK_SELECTION": "Selezione del benchmark",
-      "EXPRESSION": "Espressione",
-      "LAYER_SELECTION": "Selezione del livello",
-      "PROCESSING": "Elaborazione",
-      "RESULT": "Risultato"
-    },
-    "TITLE": "Calcolatrice raster"
-  },
   "REFD_MAX": "Rosso Max",
   "REGION": "Regione",
   "RELATIVE_HUMIDITY_AT_200": "Umidità relativa a 200",

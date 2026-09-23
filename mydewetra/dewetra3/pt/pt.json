@@ -461,6 +461,22 @@
         "NEXT": "Próximo",
         "SAVE": "Salvar"
       },
+      "EXPRESSION": {
+        "AVERAGE": "Média",
+        "AVERAGE_DIALOG": {
+          "DESCRIPTION": "Selecione pelo menos duas camadas para incluir na média.",
+          "TITLE": "Calcular a média"
+        },
+        "CLEAR": "Claro",
+        "EMPTY": "Selecione uma camada ou uma operação para começar a criar a expressão.",
+        "EXPRESSION": "Expressão",
+        "INVALID": "A expressão está incompleta ou é inválida.",
+        "LAYERS": "Camadas",
+        "OPERATORS": "Operadores",
+        "PREVIEW": "prévia",
+        "UNDO": "Desfazer",
+        "VALID": "A expressão é válida."
+      },
       "LAYER_SELECTION": {
         "ADD_LAYER": "Adicionar camada",
         "AVAILABLE_LAYERS": "Camadas disponíveis",
@@ -474,6 +490,7 @@
         },
         "FIELDS": {
           "ACCUMULATION": "Período de acúmulo",
+          "NAME": "Nome",
           "REFERENCE_TIME": "Hora de referência",
           "VARIABLE": "Variável"
         },
@@ -1468,20 +1485,6 @@
   "P_SHARED_STYLES:bordo_giallo": "Borda amarela",
   "P_SHARED_STYLES:bordo_nero": "Borda preta",
   "P_SHARED_STYLES:bordo_rosso": "Borda vermelha",
-  "RASTER_CALCULATOR": {
-    "ACTIONS": {
-      "BACK": "Voltar",
-      "NEXT": "Próximo"
-    },
-    "STEPS": {
-      "BENCHMARK_SELECTION": "Seleção de benchmark",
-      "EXPRESSION": "Expressão",
-      "LAYER_SELECTION": "Seleção de camadas",
-      "PROCESSING": "Processando",
-      "RESULT": "Resultado"
-    },
-    "TITLE": "Calculadora Raster"
-  },
   "REFD_MAX": "Red Max",
   "REGION": "Região",
   "RELATIVE_HUMIDITY_AT_200": "Umidade relativa em 200",

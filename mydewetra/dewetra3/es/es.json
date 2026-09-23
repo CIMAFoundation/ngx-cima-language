@@ -461,6 +461,22 @@
         "NEXT": "Próxima",
         "SAVE": "Guardar"
       },
+      "EXPRESSION": {
+        "AVERAGE": "Promedio",
+        "AVERAGE_DIALOG": {
+          "DESCRIPTION": "Seleccione al menos dos capas para incluirlas en el promedio.",
+          "TITLE": "Calcular promedio"
+        },
+        "CLEAR": "Borrar",
+        "EMPTY": "Seleccione una capa o una operación para empezar a crear la expresión.",
+        "EXPRESSION": "Expresión",
+        "INVALID": "La expresión está incompleta o no es válida.",
+        "LAYERS": "Capas",
+        "OPERATORS": "Operadores",
+        "PREVIEW": "Vista previa",
+        "UNDO": "Deshacer",
+        "VALID": "La expresión es válida."
+      },
       "LAYER_SELECTION": {
         "ADD_LAYER": "Añadir capa",
         "AVAILABLE_LAYERS": "Capas disponibles",
@@ -474,6 +490,7 @@
         },
         "FIELDS": {
           "ACCUMULATION": "Periodo de acumulación",
+          "NAME": "Nombre",
           "REFERENCE_TIME": "Hora de referencia",
           "VARIABLE": "Variable"
         },
@@ -1468,20 +1485,6 @@
   "P_SHARED_STYLES:bordo_giallo": "Borde amarillo",
   "P_SHARED_STYLES:bordo_nero": "Borde negro",
   "P_SHARED_STYLES:bordo_rosso": "Borde rojo",
-  "RASTER_CALCULATOR": {
-    "ACTIONS": {
-      "BACK": "Atrás",
-      "NEXT": "Próxima"
-    },
-    "STEPS": {
-      "BENCHMARK_SELECTION": "Selección de puntos de referencia",
-      "EXPRESSION": "Expresión",
-      "LAYER_SELECTION": "Selección de capas",
-      "PROCESSING": "Procesamiento",
-      "RESULT": "Resultado"
-    },
-    "TITLE": "Calculadora ráster"
-  },
   "REFD_MAX": "Red Max",
   "REGION": "Región",
   "RELATIVE_HUMIDITY_AT_200": "Humedad relativa a 200",

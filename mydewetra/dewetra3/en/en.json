@@ -461,6 +461,22 @@
         "NEXT": "Next",
         "SAVE": "Save"
       },
+      "EXPRESSION": {
+        "AVERAGE": "Average",
+        "AVERAGE_DIALOG": {
+          "DESCRIPTION": "Select at least two layers to include in the average.",
+          "TITLE": "Calculate average"
+        },
+        "CLEAR": "Clear",
+        "EMPTY": "Select a layer or an operation to start building the expression.",
+        "EXPRESSION": "Expression",
+        "INVALID": "The expression is incomplete or invalid.",
+        "LAYERS": "Layers",
+        "OPERATORS": "Operators",
+        "PREVIEW": "Preview",
+        "UNDO": "Undo",
+        "VALID": "The expression is valid."
+      },
       "LAYER_SELECTION": {
         "ADD_LAYER": "Add layer",
         "AVAILABLE_LAYERS": "Available layers",
@@ -474,6 +490,7 @@
         },
         "FIELDS": {
           "ACCUMULATION": "Accumulation period",
+          "NAME": "Name",
           "REFERENCE_TIME": "Reference time",
           "VARIABLE": "Variable"
         },
@@ -1468,20 +1485,6 @@
   "P_SHARED_STYLES:bordo_giallo": "Yellow Border",
   "P_SHARED_STYLES:bordo_nero": "Black Border",
   "P_SHARED_STYLES:bordo_rosso": "Red Border",
-  "RASTER_CALCULATOR": {
-    "ACTIONS": {
-      "BACK": "Back",
-      "NEXT": "Next"
-    },
-    "STEPS": {
-      "BENCHMARK_SELECTION": "Benchmark selection",
-      "EXPRESSION": "Expression",
-      "LAYER_SELECTION": "Layer selection",
-      "PROCESSING": "Processing",
-      "RESULT": "Result"
-    },
-    "TITLE": "Raster Calculator"
-  },
   "REFD_MAX": "Refd Max",
   "REGION": "Region",
   "RELATIVE_HUMIDITY_AT_200": "Relative Humidity At 200",
