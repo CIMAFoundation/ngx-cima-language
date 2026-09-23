@@ -461,6 +461,10 @@
         "NEXT": "Suivant",
         "SAVE": "Enregistrer"
       },
+      "BENCHMARK_SELECTION": {
+        "NO_LAYERS": "Aucune couche n'est disponible. Sélectionnez au moins une couche à l'étape précédente.",
+        "SELECTED": "Indice de référence sélectionné"
+      },
       "EXPRESSION": {
         "AVERAGE": "Moyenne",
         "AVERAGE_DIALOG": {
@@ -506,6 +510,13 @@
         "LAYER_SELECTION": "Sélection de couches",
         "PROCESSING": "Traitement",
         "RESULT": "Résultat"
+      },
+      "STEP_DESCRIPTIONS": {
+        "BENCHMARK_SELECTION": "Sélectionnez la couche de référence dont la grille sera utilisée pour aligner les rasters en entrée.",
+        "EXPRESSION": "Définissez l'expression mathématique à appliquer aux couches raster sélectionnées.",
+        "LAYER_SELECTION": "Sélectionnez les couches raster à inclure dans le calcul et configurez leurs propriétés.",
+        "PROCESSING": "Vérifiez la configuration et lancez le traitement du raster.",
+        "RESULT": "Affichez le raster généré sur la carte ou téléchargez-le au format GeoTIFF."
       },
       "TITLE": "Calculateur raster"
     },

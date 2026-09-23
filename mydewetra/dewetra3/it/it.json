@@ -461,13 +461,17 @@
         "NEXT": "Avanti",
         "SAVE": "Salva"
       },
+      "BENCHMARK_SELECTION": {
+        "NO_LAYERS": "Non sono disponibili livelli. Seleziona almeno un livello nel passaggio precedente.",
+        "SELECTED": "Benchmark selezionato"
+      },
       "EXPRESSION": {
         "AVERAGE": "Media",
         "AVERAGE_DIALOG": {
           "DESCRIPTION": "Seleziona almeno due livelli da includere nella media.",
           "TITLE": "Calcola la media"
         },
-        "CLEAR": "Trasparente",
+        "CLEAR": "Reinizializza",
         "EMPTY": "Selezionate un livello o un'operazione per iniziare a creare l'espressione.",
         "EXPRESSION": "Espressione",
         "INVALID": "L'espressione è incompleta o non valida.",
@@ -506,6 +510,13 @@
         "LAYER_SELECTION": "Selezione dei layers",
         "PROCESSING": "Elaborazione",
         "RESULT": "Risultato"
+      },
+      "STEP_DESCRIPTIONS": {
+        "BENCHMARK_SELECTION": "Seleziona il livello di riferimento la cui griglia verrà utilizzata per allineare i raster di input.",
+        "EXPRESSION": "Definire l'espressione matematica da applicare ai livelli raster selezionati.",
+        "LAYER_SELECTION": "Seleziona i livelli raster da includere nel calcolo e configura le loro proprietà.",
+        "PROCESSING": "Rivedi la configurazione e avvia l'elaborazione raster.",
+        "RESULT": "Visualizza il raster generato sulla mappa o scaricalo come GeoTIFF."
       },
       "TITLE": "Raster Calculator"
     },

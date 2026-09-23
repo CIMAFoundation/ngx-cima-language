@@ -461,6 +461,10 @@
         "NEXT": "Próxima",
         "SAVE": "Guardar"
       },
+      "BENCHMARK_SELECTION": {
+        "NO_LAYERS": "No hay capas disponibles. Seleccione al menos una capa en el paso anterior.",
+        "SELECTED": "Punto de referencia seleccionado"
+      },
       "EXPRESSION": {
         "AVERAGE": "Promedio",
         "AVERAGE_DIALOG": {
@@ -506,6 +510,13 @@
         "LAYER_SELECTION": "Selección de capas",
         "PROCESSING": "Procesamiento",
         "RESULT": "Resultado"
+      },
+      "STEP_DESCRIPTIONS": {
+        "BENCHMARK_SELECTION": "Seleccione la capa de referencia cuya cuadrícula se utilizará para alinear los rásteres de entrada.",
+        "EXPRESSION": "Defina la expresión matemática que se va a aplicar a las capas ráster seleccionadas.",
+        "LAYER_SELECTION": "Seleccione las capas ráster que desee incluir en el cálculo y configure sus propiedades.",
+        "PROCESSING": "Revise la configuración e inicie el procesamiento del ráster.",
+        "RESULT": "Vea el ráster generado en el mapa o descárguelo como GeoTIFF."
       },
       "TITLE": "Calculadora ráster"
     },

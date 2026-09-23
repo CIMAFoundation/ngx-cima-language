@@ -461,6 +461,10 @@
         "NEXT": "Próximo",
         "SAVE": "Salvar"
       },
+      "BENCHMARK_SELECTION": {
+        "NO_LAYERS": "Nenhuma camada está disponível. Selecione pelo menos uma camada na etapa anterior.",
+        "SELECTED": "Referência selecionada"
+      },
       "EXPRESSION": {
         "AVERAGE": "Média",
         "AVERAGE_DIALOG": {
@@ -506,6 +510,13 @@
         "LAYER_SELECTION": "Seleção de camadas",
         "PROCESSING": "Processando",
         "RESULT": "Resultado"
+      },
+      "STEP_DESCRIPTIONS": {
+        "BENCHMARK_SELECTION": "Selecione a camada de referência cuja grade será usada para alinhar os rasters de entrada.",
+        "EXPRESSION": "Defina a expressão matemática a ser aplicada às camadas rasterizadas selecionadas.",
+        "LAYER_SELECTION": "Selecione as camadas rasterizadas a serem incluídas no cálculo e configure suas propriedades.",
+        "PROCESSING": "Revise a configuração e inicie o processamento do raster.",
+        "RESULT": "Visualize o raster gerado no mapa ou baixe-o como GeoTIFF."
       },
       "TITLE": "Calculadora Raster"
     },

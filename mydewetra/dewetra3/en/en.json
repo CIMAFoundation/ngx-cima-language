@@ -461,6 +461,10 @@
         "NEXT": "Next",
         "SAVE": "Save"
       },
+      "BENCHMARK_SELECTION": {
+        "NO_LAYERS": "No layers are available. Select at least one layer in the previous step.",
+        "SELECTED": "Selected benchmark"
+      },
       "EXPRESSION": {
         "AVERAGE": "Average",
         "AVERAGE_DIALOG": {
@@ -506,6 +510,13 @@
         "LAYER_SELECTION": "Layer selection",
         "PROCESSING": "Processing",
         "RESULT": "Result"
+      },
+      "STEP_DESCRIPTIONS": {
+        "BENCHMARK_SELECTION": "Select the benchmark layer whose grid will be used to align the input rasters.",
+        "EXPRESSION": "Define the mathematical expression to apply to the selected raster layers.",
+        "LAYER_SELECTION": "Select the raster layers to include in the calculation and configure their properties.",
+        "PROCESSING": "Review the configuration and start the raster processing.",
+        "RESULT": "View the generated raster on the map or download it as a GeoTIFF."
       },
       "TITLE": "Raster Calculator"
     },
