@@ -1427,6 +1427,20 @@
   "P_SHARED_STYLES:bordo_giallo": "Yellow Border",
   "P_SHARED_STYLES:bordo_nero": "Black Border",
   "P_SHARED_STYLES:bordo_rosso": "Red Border",
+  "RASTER_CALCULATOR": {
+    "ACTIONS": {
+      "BACK": "Back",
+      "NEXT": "Next"
+    },
+    "STEPS": {
+      "BENCHMARK_SELECTION": "Benchmark selection",
+      "EXPRESSION": "Expression",
+      "LAYER_SELECTION": "Layer selection",
+      "PROCESSING": "Processing",
+      "RESULT": "Result"
+    },
+    "TITLE": "Raster Calculator"
+  },
   "REFD_MAX": "Refd Max",
   "REGION": "Region",
   "RELATIVE_HUMIDITY_AT_200": "Relative Humidity At 200",

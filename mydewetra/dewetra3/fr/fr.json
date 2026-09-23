@@ -1427,6 +1427,20 @@
   "P_SHARED_STYLES:bordo_giallo": "Bordure jaune",
   "P_SHARED_STYLES:bordo_nero": "Bordure noire",
   "P_SHARED_STYLES:bordo_rosso": "Bordure rouge",
+  "RASTER_CALCULATOR": {
+    "ACTIONS": {
+      "BACK": "Retour",
+      "NEXT": "Suivant"
+    },
+    "STEPS": {
+      "BENCHMARK_SELECTION": "Sélection de référence",
+      "EXPRESSION": "Expression",
+      "LAYER_SELECTION": "Sélection de couches",
+      "PROCESSING": "Traitement",
+      "RESULT": "Résultat"
+    },
+    "TITLE": "Calculateur raster"
+  },
   "REFD_MAX": "Max rouge",
   "REGION": "Région",
   "RELATIVE_HUMIDITY_AT_200": "Humidité relative à 200",

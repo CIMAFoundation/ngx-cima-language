@@ -1427,6 +1427,20 @@
   "P_SHARED_STYLES:bordo_giallo": "Borde amarillo",
   "P_SHARED_STYLES:bordo_nero": "Borde negro",
   "P_SHARED_STYLES:bordo_rosso": "Borde rojo",
+  "RASTER_CALCULATOR": {
+    "ACTIONS": {
+      "BACK": "Atrás",
+      "NEXT": "Próxima"
+    },
+    "STEPS": {
+      "BENCHMARK_SELECTION": "Selección de puntos de referencia",
+      "EXPRESSION": "Expresión",
+      "LAYER_SELECTION": "Selección de capas",
+      "PROCESSING": "Procesamiento",
+      "RESULT": "Resultado"
+    },
+    "TITLE": "Calculadora ráster"
+  },
   "REFD_MAX": "Red Max",
   "REGION": "Región",
   "RELATIVE_HUMIDITY_AT_200": "Humedad relativa a 200",
