@@ -457,9 +457,13 @@
         "BACK": "Retour",
         "CANCEL": "Annuler",
         "DELETE": "Supprimer",
+        "DOWNLOAD_GEOTIFF": "Télécharger GeoTIFF",
         "EDIT": "Modifier",
+        "EXECUTE": "Combinaison de course",
+        "NEW_COMBINATION": "Nouvelle combinaison",
         "NEXT": "Suivant",
-        "SAVE": "Enregistrer"
+        "SAVE": "Enregistrer",
+        "VIEW_ON_MAP": "Afficher sur la carte"
       },
       "BENCHMARK_SELECTION": {
         "NO_LAYERS": "Aucune couche n'est disponible. Sélectionnez au moins une couche à l'étape précédente.",
@@ -504,12 +508,20 @@
         "NO_SELECTED_LAYERS": "Aucune couche n'a été sélectionnée.",
         "SELECTED_LAYERS": "Couches sélectionnées"
       },
+      "PROCESSING": {
+        "BACKGROUND_HINT": "Vous pouvez continuer à utiliser l'application pendant que le traitement s'exécute en arrière-plan.",
+        "COMPLETED_DESCRIPTION": "La combinaison de raster est prête. Visualisez-le sur la carte ou téléchargez-le au format GeoTIFF.",
+        "COMPLETED_TITLE": "Traitement terminé",
+        "ERROR_DESCRIPTION": "La combinaison de raster n'a pas pu être terminée.",
+        "ERROR_TITLE": "Echec du traitement",
+        "RUNNING_DESCRIPTION": "Les couches raster sélectionnées sont en cours de combinaison.",
+        "RUNNING_TITLE": "Traitement en cours"
+      },
       "STEPS": {
         "BENCHMARK_SELECTION": "Sélection de référence",
         "EXPRESSION": "Expression",
         "LAYER_SELECTION": "Sélection de couches",
-        "PROCESSING": "Traitement",
-        "RESULT": "Résultat"
+        "PROCESSING": "Traitement"
       },
       "STEP_DESCRIPTIONS": {
         "BENCHMARK_SELECTION": "Sélectionnez la couche de référence dont la grille sera utilisée pour aligner les rasters en entrée.",

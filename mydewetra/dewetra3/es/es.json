@@ -457,9 +457,13 @@
         "BACK": "Atrás",
         "CANCEL": "Cancelar",
         "DELETE": "Borrar",
+        "DOWNLOAD_GEOTIFF": "Descargar GeoTIFF",
         "EDIT": "Editar",
+        "EXECUTE": "Combinación de carreras",
+        "NEW_COMBINATION": "Nueva combinación",
         "NEXT": "Próxima",
-        "SAVE": "Guardar"
+        "SAVE": "Guardar",
+        "VIEW_ON_MAP": "Ver en el mapa"
       },
       "BENCHMARK_SELECTION": {
         "NO_LAYERS": "No hay capas disponibles. Seleccione al menos una capa en el paso anterior.",
@@ -504,12 +508,20 @@
         "NO_SELECTED_LAYERS": "No se ha seleccionado ninguna capa.",
         "SELECTED_LAYERS": "Capas seleccionadas"
       },
+      "PROCESSING": {
+        "BACKGROUND_HINT": "Puede seguir utilizando la aplicación mientras el procesamiento se ejecuta en segundo plano.",
+        "COMPLETED_DESCRIPTION": "La combinación de ráster está lista. Véala en el mapa o descárguela como GeoTIFF.",
+        "COMPLETED_TITLE": "Tramitación finalizada",
+        "ERROR_DESCRIPTION": "No se pudo completar la combinación de ráster.",
+        "ERROR_TITLE": "Fallo en el procesamiento",
+        "RUNNING_DESCRIPTION": "Las capas ráster seleccionadas se están combinando.",
+        "RUNNING_TITLE": "Procesamiento en curso"
+      },
       "STEPS": {
         "BENCHMARK_SELECTION": "Selección de puntos de referencia",
         "EXPRESSION": "Expresión",
         "LAYER_SELECTION": "Selección de capas",
-        "PROCESSING": "Procesamiento",
-        "RESULT": "Resultado"
+        "PROCESSING": "Procesamiento"
       },
       "STEP_DESCRIPTIONS": {
         "BENCHMARK_SELECTION": "Seleccione la capa de referencia cuya cuadrícula se utilizará para alinear los rásteres de entrada.",

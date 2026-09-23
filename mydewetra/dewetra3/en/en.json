@@ -457,9 +457,13 @@
         "BACK": "Back",
         "CANCEL": "Cancel",
         "DELETE": "Delete",
+        "DOWNLOAD_GEOTIFF": "Download GeoTIFF",
         "EDIT": "Edit",
+        "EXECUTE": "Run combination",
+        "NEW_COMBINATION": "New combination",
         "NEXT": "Next",
-        "SAVE": "Save"
+        "SAVE": "Save",
+        "VIEW_ON_MAP": "View on map"
       },
       "BENCHMARK_SELECTION": {
         "NO_LAYERS": "No layers are available. Select at least one layer in the previous step.",
@@ -504,12 +508,20 @@
         "NO_SELECTED_LAYERS": "No layers selected.",
         "SELECTED_LAYERS": "Selected layers"
       },
+      "PROCESSING": {
+        "BACKGROUND_HINT": "You can continue using the application while processing runs in the background.",
+        "COMPLETED_DESCRIPTION": "The raster combination is ready. View it on the map or download it as a GeoTIFF.",
+        "COMPLETED_TITLE": "Processing completed",
+        "ERROR_DESCRIPTION": "The raster combination could not be completed.",
+        "ERROR_TITLE": "Processing failed",
+        "RUNNING_DESCRIPTION": "The selected raster layers are being combined.",
+        "RUNNING_TITLE": "Processing in progress"
+      },
       "STEPS": {
         "BENCHMARK_SELECTION": "Benchmark selection",
         "EXPRESSION": "Expression",
         "LAYER_SELECTION": "Layer selection",
-        "PROCESSING": "Processing",
-        "RESULT": "Result"
+        "PROCESSING": "Processing"
       },
       "STEP_DESCRIPTIONS": {
         "BENCHMARK_SELECTION": "Select the benchmark layer whose grid will be used to align the input rasters.",

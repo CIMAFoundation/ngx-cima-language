@@ -457,9 +457,13 @@
         "BACK": "Voltar",
         "CANCEL": "Cancelar",
         "DELETE": "Excluir",
+        "DOWNLOAD_GEOTIFF": "Baixar GeoTIFF",
         "EDIT": "Editar",
+        "EXECUTE": "Combinação de execução",
+        "NEW_COMBINATION": "Nova combinação",
         "NEXT": "Próximo",
-        "SAVE": "Salvar"
+        "SAVE": "Salvar",
+        "VIEW_ON_MAP": "Visualizar no mapa"
       },
       "BENCHMARK_SELECTION": {
         "NO_LAYERS": "Nenhuma camada está disponível. Selecione pelo menos uma camada na etapa anterior.",
@@ -504,12 +508,20 @@
         "NO_SELECTED_LAYERS": "Nenhuma camada selecionada.",
         "SELECTED_LAYERS": "Camadas selecionadas"
       },
+      "PROCESSING": {
+        "BACKGROUND_HINT": "Você pode continuar usando o aplicativo enquanto o processamento é executado em segundo plano.",
+        "COMPLETED_DESCRIPTION": "A combinação raster está pronta. Visualize-o no mapa ou baixe-o como GeoTIFF.",
+        "COMPLETED_TITLE": "Processamento concluído",
+        "ERROR_DESCRIPTION": "A combinação de varredura não pôde ser concluída.",
+        "ERROR_TITLE": "Falha no processamento",
+        "RUNNING_DESCRIPTION": "As camadas rasterizadas selecionadas estão sendo combinadas.",
+        "RUNNING_TITLE": "Processamento em andamento"
+      },
       "STEPS": {
         "BENCHMARK_SELECTION": "Seleção de benchmark",
         "EXPRESSION": "Expressão",
         "LAYER_SELECTION": "Seleção de camadas",
-        "PROCESSING": "Processando",
-        "RESULT": "Resultado"
+        "PROCESSING": "Processando"
       },
       "STEP_DESCRIPTIONS": {
         "BENCHMARK_SELECTION": "Selecione a camada de referência cuja grade será usada para alinhar os rasters de entrada.",

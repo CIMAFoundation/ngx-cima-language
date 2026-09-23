@@ -457,9 +457,13 @@
         "BACK": "Indietro",
         "CANCEL": "Annulla",
         "DELETE": "Elimina",
+        "DOWNLOAD_GEOTIFF": "Scarica GeoTIFF",
         "EDIT": "Modifica",
+        "EXECUTE": "Combinazione Esegui",
+        "NEW_COMBINATION": "Nuova combinazione",
         "NEXT": "Avanti",
-        "SAVE": "Salva"
+        "SAVE": "Salva",
+        "VIEW_ON_MAP": "Visualizza sulla mappa"
       },
       "BENCHMARK_SELECTION": {
         "NO_LAYERS": "Non sono disponibili livelli. Seleziona almeno un livello nel passaggio precedente.",
@@ -504,12 +508,20 @@
         "NO_SELECTED_LAYERS": "Nessun layer selezionato.",
         "SELECTED_LAYERS": "Layers selezionati"
       },
+      "PROCESSING": {
+        "BACKGROUND_HINT": "È possibile continuare a utilizzare l'applicazione mentre l'elaborazione viene eseguita in background.",
+        "COMPLETED_DESCRIPTION": "La combinazione raster è pronta. Visualizzala sulla mappa o scaricala come GeoTIFF.",
+        "COMPLETED_TITLE": "Elaborazione completata",
+        "ERROR_DESCRIPTION": "La combinazione raster non può essere completata.",
+        "ERROR_TITLE": "Elaborazione non riuscita",
+        "RUNNING_DESCRIPTION": "I livelli raster selezionati vengono combinati.",
+        "RUNNING_TITLE": "Elaborazione in corso"
+      },
       "STEPS": {
         "BENCHMARK_SELECTION": "Selezione del benchmark",
         "EXPRESSION": "Espressione",
         "LAYER_SELECTION": "Selezione dei layers",
-        "PROCESSING": "Elaborazione",
-        "RESULT": "Risultato"
+        "PROCESSING": "Elaborazione"
       },
       "STEP_DESCRIPTIONS": {
         "BENCHMARK_SELECTION": "Seleziona il livello di riferimento la cui griglia verrà utilizzata per allineare i raster di input.",
