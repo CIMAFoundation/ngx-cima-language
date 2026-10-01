@@ -45,6 +45,40 @@
   "SNACK_WIDGET_VIEW": "To re-enable/view the widget open the widget list --->",
   "OPEN_LAYER": "Open layer in Dewetra3",
 
+  "ERRORS": {
+    "NOT_FOUND": {
+      "TYPE_LABEL": "HTTP {{status}}",
+      "TITLE": "Widget unavailable",
+      "MESSAGE": "The widget may be temporarily under maintenance."
+    },
+    "SERVER": {
+      "TYPE_LABEL": "HTTP {{status}}",
+      "TITLE": "Service temporarily unavailable",
+      "MESSAGE": "Try again later."
+    },
+    "NETWORK": {
+      "TYPE_LABEL": "Network error",
+      "TITLE": "Connection unavailable",
+      "MESSAGE": "Check your connection and try again."
+    },
+    "IMAGE": {
+      "TYPE_LABEL": "Image error",
+      "TITLE": "Image unavailable",
+      "MESSAGE": "The graphic content cannot be displayed."
+    },
+    "EMPTY": {
+      "TYPE_LABEL": "Empty data",
+      "TITLE": "Data unavailable",
+      "MESSAGE": "There is no data to display."
+    },
+    "UNKNOWN": {
+      "TYPE_LABEL": "Generic error",
+      "HTTP_TYPE_LABEL": "HTTP {{status}}",
+      "TITLE": "Widget unavailable",
+      "MESSAGE": "An unexpected error occurred."
+    }
+  },
+
   "COLORS" : {
     "BLACK": "Black",
     "WHITE": "White",

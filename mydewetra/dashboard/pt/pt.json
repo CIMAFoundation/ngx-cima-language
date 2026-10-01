@@ -44,6 +44,40 @@
   "SNACK_WIDGET_VIEW": "Para reativar/exibir o widget, abra a lista de widgets --->",
   "OPEN_LAYER": "Abrir camada no Dewetra3",
 
+  "ERRORS": {
+    "NOT_FOUND": {
+      "TYPE_LABEL": "HTTP {{status}}",
+      "TITLE": "Widget indisponível",
+      "MESSAGE": "O widget pode estar temporariamente em manutenção."
+    },
+    "SERVER": {
+      "TYPE_LABEL": "HTTP {{status}}",
+      "TITLE": "Serviço temporariamente indisponível",
+      "MESSAGE": "Tente novamente mais tarde."
+    },
+    "NETWORK": {
+      "TYPE_LABEL": "Erro de rede",
+      "TITLE": "Ligação indisponível",
+      "MESSAGE": "Verifique a ligação e tente novamente."
+    },
+    "IMAGE": {
+      "TYPE_LABEL": "Erro de imagem",
+      "TITLE": "Imagem indisponível",
+      "MESSAGE": "O conteúdo gráfico não pode ser apresentado."
+    },
+    "EMPTY": {
+      "TYPE_LABEL": "Dados vazios",
+      "TITLE": "Dados indisponíveis",
+      "MESSAGE": "Não existem dados para apresentar."
+    },
+    "UNKNOWN": {
+      "TYPE_LABEL": "Erro genérico",
+      "HTTP_TYPE_LABEL": "HTTP {{status}}",
+      "TITLE": "Widget indisponível",
+      "MESSAGE": "Ocorreu um erro inesperado."
+    }
+  },
+
   "COLORS" : {
     "BLACK": "Preto",
     "WHITE": "Branco",
