@@ -616,6 +616,7 @@
       "FP_ITALIA_MONITORAGGIO_NOWCASTING": "FP Italie : surveillance et prévisions",
       "FP_ITALIA_PREVISIONE": "Prévisions pour FP Italy",
       "FRANE": "Glissements de terrain",
+      "GENERAL_LAYERS": "Couches générales",
       "GEOPHYSICAL_DATA": "Données géophysiques",
       "GEOTIFF": "GeoTIFF",
       "HAZARD": "Danger",
@@ -702,6 +703,7 @@
       "WATER_STORAGE": "Stockage de l'eau",
       "WAVES": "Vagues",
       "WEATHER-INDUCED_FIRES": "Incendies provoqués par les conditions météorologiques",
+      "WEATHER_AND_CLIMATE": "Météo et climat",
       "WEATHER_INDUCED_FIRES": "Incendies provoqués par les conditions météorologiques",
       "WIND": "Vent"
     },
