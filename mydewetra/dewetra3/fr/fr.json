@@ -531,6 +531,10 @@
       },
       "TITLE": "Calculateur raster"
     },
+    "REALTIME_DEGRADED": "Les mises à jour en temps réel ne sont pas disponibles pour « {{layer}} ». La reconnexion automatique est en cours.",
+    "REALTIME_DEGRADED_SHORT": "Mises à jour dégradées en temps réel",
+    "REALTIME_DEGRADED_WITH_FALLBACK": "Le WebSocket n'est pas disponible pour « {{layer}} ». La couche continue de s'actualiser périodiquement.",
+    "REALTIME_RESTORED": "Mises à jour en temps réel restaurées pour « {{layer}} ».",
     "REFRESH LAYER": "Actualiser la couche",
     "RELOAD_LAYERS": "Recharger les couches",
     "REMOVE_ALL_LAYERS": "Supprimer toutes les couches",

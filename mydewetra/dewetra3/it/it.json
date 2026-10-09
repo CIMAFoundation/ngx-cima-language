@@ -531,6 +531,10 @@
       },
       "TITLE": "Raster Calculator"
     },
+    "REALTIME_DEGRADED": "Gli aggiornamenti in tempo reale non sono disponibili per «{{layer}}». La riconnessione automatica è in corso.",
+    "REALTIME_DEGRADED_SHORT": "Aggiornamenti in tempo reale degradati",
+    "REALTIME_DEGRADED_WITH_FALLBACK": "Il WebSocket non è disponibile per «{{layer}}». Il layer continua ad aggiornarsi periodicamente.",
+    "REALTIME_RESTORED": "Aggiornamenti in tempo reale ripristinati per «{{layer}}».",
     "REFRESH LAYER": "Aggiorna Layer",
     "RELOAD_LAYERS": "Ricarica i livelli",
     "REMOVE_ALL_LAYERS": "Rimuovi Tutti i Livelli",

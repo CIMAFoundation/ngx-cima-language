@@ -531,6 +531,10 @@
       },
       "TITLE": "Calculadora Raster"
     },
+    "REALTIME_DEGRADED": "As atualizações em tempo real não estão disponíveis para “{{layer}}”. A reconexão automática está em andamento.",
+    "REALTIME_DEGRADED_SHORT": "Atualizações degradadas em tempo real",
+    "REALTIME_DEGRADED_WITH_FALLBACK": "O WebSocket não está disponível para “{{layer}}”. A camada continua sendo atualizada periodicamente.",
+    "REALTIME_RESTORED": "Atualizações em tempo real restauradas para “{{layer}}”.",
     "REFRESH LAYER": "Atualizar Camada",
     "RELOAD_LAYERS": "Recarregar Camadas",
     "REMOVE_ALL_LAYERS": "Remover Todas as Camadas",
