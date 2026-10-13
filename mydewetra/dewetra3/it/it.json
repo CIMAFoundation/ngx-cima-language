@@ -440,6 +440,7 @@
     "NO_LAYERS_FOUND": "Nessun Livello Trovato",
     "NO_LAYER_SELECTED": "Nessun Livello Selezionato",
     "OBSERVATIONS": "Osservazioni",
+    "OFFLINE_MESSAGE": "Nessuna connessione Internet. I dati e gli aggiornamenti automatici potrebbero non essere disponibili.",
     "OPEN_FULL_SCREEN": "Apri Schermo Intero",
     "OVER_INFO": "Info Hover",
     "OVER_INFO_HINT": "Sposta il mouse sulla mappa, sul livello appropriato, per vedere i dettagli.",

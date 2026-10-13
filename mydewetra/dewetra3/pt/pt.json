@@ -440,6 +440,7 @@
     "NO_LAYERS_FOUND": "Nenhuma Camada Encontrada",
     "NO_LAYER_SELECTED": "Nenhuma Camada Selecionada",
     "OBSERVATIONS": "Observações",
+    "OFFLINE_MESSAGE": "Sem conexão com a Internet. Os dados e as atualizações automáticas podem não estar disponíveis.",
     "OPEN_FULL_SCREEN": "Abrir em Tela Cheia",
     "OVER_INFO": "Informações Adicionais",
     "OVER_INFO_HINT": "Mova o mouse sobre o mapa, na camada apropriada, para ver os detalhes.",

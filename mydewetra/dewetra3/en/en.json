@@ -440,6 +440,7 @@
     "NO_LAYERS_FOUND": "No layers found",
     "NO_LAYER_SELECTED": "No Layer Selected",
     "OBSERVATIONS": "Observations",
+    "OFFLINE_MESSAGE": "No Internet connection. Data and automatic updates may be unavailable.",
     "OPEN_FULL_SCREEN": "Open Full Screen",
     "OVER_INFO": "Hover Info",
     "OVER_INFO_HINT": "Move the mouse over the map, on the appropriate layer, to see the details.",

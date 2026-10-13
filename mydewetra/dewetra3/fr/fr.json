@@ -440,6 +440,7 @@
     "NO_LAYERS_FOUND": "Aucune couche n'a été trouvée",
     "NO_LAYER_SELECTED": "Aucune couche sélectionnée",
     "OBSERVATIONS": "Observations",
+    "OFFLINE_MESSAGE": "Pas de connexion Internet. Les données et les mises à jour automatiques peuvent ne pas être disponibles.",
     "OPEN_FULL_SCREEN": "Ouvrir en plein écran",
     "OVER_INFO": "À propos de Info",
     "OVER_INFO_HINT": "Passez la souris sur la carte, sur la couche appropriée, pour voir les détails.",

@@ -440,6 +440,7 @@
     "NO_LAYERS_FOUND": "No se ha encontrado ninguna capa",
     "NO_LAYER_SELECTED": "No se ha seleccionado ninguna capa",
     "OBSERVATIONS": "Observaciones",
+    "OFFLINE_MESSAGE": "No hay conexión a Internet. Es posible que las actualizaciones automáticas y de datos no estén disponibles.",
     "OPEN_FULL_SCREEN": "Abrir pantalla completa",
     "OVER_INFO": "Acerca de Info",
     "OVER_INFO_HINT": "Mueva el ratón sobre el mapa, en la capa correspondiente, para ver los detalles.",
