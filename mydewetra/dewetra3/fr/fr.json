@@ -499,10 +499,10 @@
           "EDIT_TITLE": "Modifier la configuration des couches"
         },
         "FIELDS": {
+          "": "Variable",
           "ACCUMULATION": "Période d'accumulation",
           "NAME": "Nom",
-          "REFERENCE_TIME": "Heure de référence",
-          "VARIABLE": "Variable"
+          "REFERENVARIABLECE_TIME": "Heure de référence"
         },
         "FILTER_LABEL": "Couches filtrantes",
         "FILTER_PLACEHOLDER": "Recherche par nom ou description",
@@ -791,6 +791,7 @@
     "yaxis2": "Axe Y2"
   },
   "DEWETRA3CORE": {
+    "ABSOLUTE_VALUE": "Valeur absolue",
     "ACCUMULATION_SELECTED": "Accumulation sélectionnée",
     "AGGREGATIONS": "Agrégations",
     "AREA": "Région",
@@ -814,6 +815,7 @@
     "MINIMUM_EXCEEDING": "Dépassement du minimum",
     "NEW_MEASUREMENT": "Nouvelle mesure",
     "OTHER_PROPERTIES": "Autres propriétés",
+    "PERCENTAGE": "Pourcentage",
     "POLYGON_CONTINUE": "Polygone Continuer",
     "POLYGON_END": "Fin du polygone",
     "POLYGON_START": "Début du polygone",
@@ -830,6 +832,7 @@
     "TOTAL_AREA": "Superficie totale",
     "TOTAL_LENGTH": "Longueur totale",
     "VALUE": "Valeur",
+    "VARIABLES": "Variables",
     "WAITING_FOR_DATA": "En attente de données"
   },
   "DEWETRA3LEGENDS": {
@@ -1076,6 +1079,7 @@
   "DRIFTER": "Drifter",
   "EMERGENCY_RESPONSE": "Intervention d'urgence",
   "EVENT_HAZARDS": "Danger lié aux événements",
+  "FLOOD": "Inondation",
   "FLOODED_AREAS": "Zones inondées",
   "FLOODPROOFS_BURKINA_FASO_MULTIMODEL_-_REPORTING_POINTS": "FloodProofs Burkina Faso, multidéterministe - Points à rapporter",
   "FLOODPROOFS_BURKINA_FASO_MULTIMODEL_-_REPORTING_POINTS_-_MULTIDETERMINISTICHYDROGRAMCHART": "FloodProofs Burkina Faso, multidéterministe - Hidrograma",
@@ -1201,6 +1205,7 @@
     "DAMS": "Barrages",
     "DISTRITOS_DE_MOÇAMBIQUE": "Districts du Mozambique",
     "DRY_MATTER_PRODUCTIVITY": "Productivité de la matière sèche",
+    "EAST_AFRICA_FA_CROP_BURKINAFASO": "Afrique de l'Est FA Crop Burkina Faso",
     "ECMWF-ENS_(10-DAY_PREC_)": "ECMWF-ENS (période de 10 jours)",
     "ECMWF-ENS_(P>150MM)": "ECMWF-ENS (P>150 mm)",
     "ECMWF-ENS_(P>300MM)": "ECMWF-ENS (P>300 mm)",
@@ -1350,6 +1355,8 @@
     "MOZAMBIQUE_MAXIMUM_FLOOD_EXTENT": "MOZAMBIQUE À L'ÉPREUVE DES INONDATIONS - Etendue maximale des inondations",
     "MOZAMBIQUE_MAXIMUM_RETURN_PERIOD": "FLOODPROOFS Mozambique - Période de retour maximale",
     "MULTIHAZARD_IMPACT-BASED_CLASSIFICATION": "Classification basée sur les impacts multirisques",
+    "MULTIHAZARD_IMPACT_BASED_CLASSIFICATION_VOLTA": "Classification Volta basée sur les impacts multirisques",
+    "MULTIHAZARD_LEVELS_SHP_PROVINCE_BURKINAFASO": "Province du navire à niveaux multirisques au Burkina Faso",
     "MULTIHAZARD_METEOROLOGICAL_LEVEL": "Niveau météorologique multialéa",
     "NIASSA_GROUP": "GROUPE NIASSA",
     "NIVEIS_DE_INUNDAÇÃO_DO_RIO_LIMPOPO": "Níveis de inundação do Rio Limpopo",
@@ -1521,6 +1528,7 @@
   "P_SHARED_STYLES:bordo_giallo": "Bordure jaune",
   "P_SHARED_STYLES:bordo_nero": "Bordure noire",
   "P_SHARED_STYLES:bordo_rosso": "Bordure rouge",
+  "RAIN": "Pluie",
   "REFD_MAX": "Max rouge",
   "REGION": "Région",
   "RELATIVE_HUMIDITY_AT_200": "Humidité relative à 200",
