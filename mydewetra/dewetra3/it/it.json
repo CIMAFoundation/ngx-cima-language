@@ -1,6 +1,7 @@
 {
   "ABSOLUTE_DYNAMIC_TOPOGRAPHY": "Topografia dinamica assoluta",
   "ABSOLUTE_GEOSTROPHIC_VELOCITY": "Velocità geostrofica assoluta",
+  "ABSOLUTE_VALUE": "Valore assoluto",
   "ACCUMULATED_PRECIPITATION": "Precipitazione cumulata",
   "ACCUMULATED_TOTAL_GRID_SCALE_GRAUPEL": "Scala di griglia totale accumulata Graupel",
   "ACCUMULATED_TOTAL_GRID_SCALE_HAIL": "Grandine accumulata su scala totale della rete",
@@ -791,7 +792,6 @@
     "yaxis2": "Asse Y2"
   },
   "DEWETRA3CORE": {
-    "ABSOLUTE_VALUE": "Valore assoluto",
     "ACCUMULATION_SELECTED": "Cumulata selezionata",
     "AGGREGATIONS": "Aggregazioni",
     "AREA": "Area",
@@ -815,7 +815,6 @@
     "MINIMUM_EXCEEDING": "Minimo Superamento",
     "NEW_MEASUREMENT": "Nuova Misurazione",
     "OTHER_PROPERTIES": "Altre proprietà",
-    "PERCENTAGE": "Percentuale",
     "POLYGON_CONTINUE": "Continua Poligono",
     "POLYGON_END": "Fine Poligono",
     "POLYGON_START": "Inizio Poligono",
@@ -832,7 +831,6 @@
     "TOTAL_AREA": "Area Totale",
     "TOTAL_LENGTH": "Lunghezza Totale",
     "VALUE": "Valore",
-    "VARIABLES": "Variabili",
     "WAITING_FOR_DATA": "In attesa dei dati"
   },
   "DEWETRA3LEGENDS": {
@@ -1517,6 +1515,7 @@
   "OVER_80_MM": "Oltre 80 mm",
   "OVER_90_MM": "Oltre 90 mm",
   "PBLH": "Pblh",
+  "PERCENTAGE": "Percentuale",
   "PHOSPHATE_CONCENTRATION": "Concentrazione di fosfati",
   "PHYTOPLANKTON_CARBON_BIOMASS": "Biomassa del fitoplancton",
   "PRECIPITATION": "Precipitazioni",
@@ -1655,6 +1654,7 @@
   "UNIVERSAL_THERMAL_CLIMATE_INDEX": "Indice climatico termico universale",
   "VALUE_FILTER": "Filtro dei valori",
   "VARIABLE": "Variabile",
+  "VARIABLES": "Variabili",
   "VAVH": "Altezza significativa delle onde superficiali del mare",
   "VDIR": "Onda superficiale del mare dalla direzione",
   "VENTO A 10 M": "Vento A 10 M",
