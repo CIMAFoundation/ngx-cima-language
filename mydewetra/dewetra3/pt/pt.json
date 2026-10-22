@@ -806,6 +806,7 @@
     "DRAW_POLYLINE": "Desenhar polilinha",
     "DYNAMIC_PALETTE_MAX": "Paleta dinâmica Max",
     "DYNAMIC_PALETTE_MIN": "Paleta dinâmica Min",
+    "DYNAMIC_PALETTE_USE_DEFAULT": "Use o padrão min/max",
     "FROM": "De",
     "LAST": "Último",
     "LAYER_ID": "ID da Camada",

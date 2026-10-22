@@ -806,6 +806,7 @@
     "DRAW_POLYLINE": "Disegna Polilinea",
     "DYNAMIC_PALETTE_MAX": "Dynamic Palette Max",
     "DYNAMIC_PALETTE_MIN": "Palette dinamica Min",
+    "DYNAMIC_PALETTE_USE_DEFAULT": "Usa min/max predefiniti",
     "FROM": "Da",
     "LAST": "Ultimo",
     "LAYER_ID": "ID del Layer",

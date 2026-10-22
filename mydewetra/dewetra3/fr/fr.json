@@ -806,6 +806,7 @@
     "DRAW_POLYLINE": "Dessiner une polyligne",
     "DYNAMIC_PALETTE_MAX": "Palette dynamique Max",
     "DYNAMIC_PALETTE_MIN": "Palette dynamique Min",
+    "DYNAMIC_PALETTE_USE_DEFAULT": "Utiliser la valeur min/max par défaut",
     "FROM": "À partir de",
     "LAST": "Dernier",
     "LAYER_ID": "ID de couche",
