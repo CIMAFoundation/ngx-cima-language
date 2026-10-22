@@ -1227,6 +1227,7 @@
     "ECMWF-ENS_(P>300MM)": "ECMWF-ENS (P>300 mm)",
     "ECMWF-ENS_(P>50MM)": "ECMWF-ENS (P>50 mm)",
     "ECMWF_IFS_OPENDATA_AFRICA": "ECMWF IFS OpenData AFRICA",
+    "ECMWF_IFS_OPENDATA_AFRICA_DESC": "Prévisions de précipitations IFS OpenData de l'ECMWF pour l'AFRIQUE",
     "ECMWF_OPENDATA_AFRICA": "ECMWF OpenData AFRICA",
     "ECONOMICAL_EXPOSITION_TO_FLOOD": "Exposition économique aux inondations",
     "EMSR348_BEIRA_MOZ_20190316": "emsr348 beira MOZ 20190316",
