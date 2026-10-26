@@ -1293,6 +1293,7 @@
     "GSMAP": "GSmap",
     "GSMAP_MOZAMBIQUE": "GSmap Mozambique",
     "GSMAP_NOWCASTING": "Transmisión instantánea de GSmap",
+    "GSMAP_NOWCASTING_DESC": "RIKEN Nowcast (lluvia)",
     "GSMAP_REAL_TIME": "GSMap en tiempo real",
     "HAZARD_JRC_AFRICA_10": "hazard_jrc_africa_10",
     "HAZARD_JRC_AFRICA_100": "hazard_jrc_africa_100",

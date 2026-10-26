@@ -1293,6 +1293,7 @@
     "GSMAP": "GSMap",
     "GSMAP_MOZAMBIQUE": "GSmap Mozambique",
     "GSMAP_NOWCASTING": "GSMAP Nowcasting",
+    "GSMAP_NOWCASTING_DESC": "Prévisions météorologiques de RIKEN (précipitations)",
     "GSMAP_REAL_TIME": "GSmap en temps réel",
     "HAZARD_JRC_AFRICA_10": "hazard jrc_africa_10",
     "HAZARD_JRC_AFRICA_100": "hazard jrc_africa_100",

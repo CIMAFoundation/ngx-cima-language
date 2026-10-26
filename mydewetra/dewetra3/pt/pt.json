@@ -1293,6 +1293,7 @@
     "GSMAP": "GSMaP",
     "GSMAP_MOZAMBIQUE": "GSMaP Moçambique",
     "GSMAP_NOWCASTING": "GSMaP Nowcasting",
+    "GSMAP_NOWCASTING_DESC": "RIKEN Nowcast (chuva)",
     "GSMAP_REAL_TIME": "GSMap Tempo Real",
     "HAZARD_JRC_AFRICA_10": "Perigo JRC África 10 anos",
     "HAZARD_JRC_AFRICA_100": "JRC Perigo - África 100 anos",
