@@ -693,6 +693,7 @@
       "SCENARIO": "Scénario",
       "SEASONAL_FORECAST": "Prévisions saisonnières",
       "SICCITA": "Sécheresse",
+      "SICOMARPLUS": "SICOMAR Plus",
       "SIMUL__FLOODED_AREAS": "Zones inondées simulées",
       "SOCIETY_AND_POPULATION": "Société et population",
       "SOIL_MOISTURE": "Humidité du sol",
@@ -1452,13 +1453,7 @@
     "VULNERABILIDADE_A_SISMO": "Vulnérabilité au séisme",
     "WEATHER_STATIONS_MOZAMBIQUE": "Stations météo Mozambique",
     "WORLD_POPULATION_(GPV_V4_-_2015)": "Population mondiale (GPV v4 - 2015)",
-    "ZMB_S1B_FLOODED_AREAS_(LUAPULA_2020-03)": "ZMB S1B Zones inondées (Luapula 2020-03)",
-    "FLOODPROOFS_VOLTA_DETERMINISTIC_R": "FloodPROOFS Volta Déterministe - Points de rapport",
-    "FLOODPROOFS_BURKINA_FASO_MULTIDETERMINISTIC_R": "FloodPROOFS Burkina Faso multidéterministe - Points de rapport",
-    "WEST_AFRICA_HYPE_V1_2": "Afrique de l'Ouest HYPE v1.2",
-    "WEST_AFRICA_HYPE_V1_2_DESCRIPTION": "Ce modèle de prévision hydrologique a été développé par le SMHI et Agrhymet dans le cadre du projet européen Fanfar.",
-    "GHS_POPULATION_DENSITY_2025" : "Densité de population GHS 2025",
-    "GHS_POPULATION_DENSITY_2025_DESCRIPTION": "Les estimations de la population résidente pour l’année cible 2025, fournies par le CIESIN GPWv4, ont été désagrégées depuis des unités de recensement ou des unités administratives vers des cellules de grille, en s’appuyant sur la répartition et la densité du bâti telles qu’elles sont cartographiées dans la couche mondiale « Global Human Settlement Layer » (GHSL) pour la période correspondante."
+    "ZMB_S1B_FLOODED_AREAS_(LUAPULA_2020-03)": "ZMB S1B Zones inondées (Luapula 2020-03)"
   },
   "LIGHTNING_POTENTIAL_INDEX": "Indice de potentiel de foudre",
   "MARCHE.FLOODPROOFS.DETERMINISTICECMWF": "FloodProofs DET. - ECMWF",
