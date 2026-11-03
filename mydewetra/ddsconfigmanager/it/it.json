@@ -128,6 +128,7 @@
   "BUCKET_BROWSER_LOAD_ERROR": "Impossibile caricare il contenuto.",
   "BUCKET_BROWSER_NO_FILES": "Questa cartella non contiene file",
   "BUCKET_BROWSER_SELECT_BUCKET": "Seleziona un bucket per sfogliare i file",
-  "BUCKET_BROWSER_FILTER_EXTENSIONS": "Filtra files"
+  "BUCKET_BROWSER_FILTER_EXTENSIONS": "Filtra files",
+  "BUCKET_BROWSER_PATH_NOT_FOUND": "Percorso o File non trovato"
 
 }

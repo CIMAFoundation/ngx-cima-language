@@ -128,5 +128,6 @@
   "BUCKET_BROWSER_LOAD_ERROR": "Unable to load content.",
   "BUCKET_BROWSER_NO_FILES": "This folder contains no files",
   "BUCKET_BROWSER_SELECT_BUCKET": "Select a bucket to browse files",
-  "BUCKET_BROWSER_FILTER_EXTENSIONS": "Filter files"
+  "BUCKET_BROWSER_FILTER_EXTENSIONS": "Filter files",
+  "BUCKET_BROWSER_PATH_NOT_FOUND": "Path or File not found"
 }
