@@ -127,5 +127,6 @@
   "BUCKET_BROWSER_TOGGLE_FOLDER": "Toggle folder",
   "BUCKET_BROWSER_LOAD_ERROR": "Unable to load content.",
   "BUCKET_BROWSER_NO_FILES": "This folder contains no files",
-  "BUCKET_BROWSER_SELECT_BUCKET": "Select a bucket to browse files"
+  "BUCKET_BROWSER_SELECT_BUCKET": "Select a bucket to browse files",
+  "BUCKET_BROWSER_FILTER_EXTENSIONS": "Filter files"
 }
