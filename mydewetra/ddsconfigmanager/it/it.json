@@ -120,6 +120,13 @@
   "SEARCH_AVAILABLE_STATIONS": "Cerca nelle stazioni disponibili",
   "ADD": "Aggiungi",
   "REMOVE": "Rimuovi",
-  "SENSORS_MANAGER_SELECTION_HELPER": "Il click seleziona una sola stazione. Cmd/Ctrl aggiunge o rimuove elementi dalla selezione. Shift seleziona un intervallo."
+  "SENSORS_MANAGER_SELECTION_HELPER": "Il click seleziona una sola stazione. Cmd/Ctrl aggiunge o rimuove elementi dalla selezione. Shift seleziona un intervallo.",
+  "RETRY": "Riprova",
+  "BUCKET_BROWSER_FOLDERS": "Cartelle del bucket",
+  "BUCKET_BROWSER_FILES": "File della cartella",
+  "BUCKET_BROWSER_TOGGLE_FOLDER": "Espandi o comprimi",
+  "BUCKET_BROWSER_LOAD_ERROR": "Impossibile caricare il contenuto.",
+  "BUCKET_BROWSER_NO_FILES": "Questa cartella non contiene file",
+  "BUCKET_BROWSER_SELECT_BUCKET": "Seleziona un bucket per sfogliare i file"
 
 }

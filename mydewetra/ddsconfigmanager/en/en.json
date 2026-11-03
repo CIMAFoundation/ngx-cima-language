@@ -120,5 +120,12 @@
   "SEARCH_AVAILABLE_STATIONS": "Search available stations",
   "ADD": "Add",
   "REMOVE": "Remove",
-  "SENSORS_MANAGER_SELECTION_HELPER": "Click selects a single station. Cmd/Ctrl adds or removes items from the selection. Shift selects a range."
+  "SENSORS_MANAGER_SELECTION_HELPER": "Click selects a single station. Cmd/Ctrl adds or removes items from the selection. Shift selects a range.",
+  "RETRY": "Retry",
+  "BUCKET_BROWSER_FOLDERS": "Bucket Folders",
+  "BUCKET_BROWSER_FILES": "Bucket Files",
+  "BUCKET_BROWSER_TOGGLE_FOLDER": "Toggle folder",
+  "BUCKET_BROWSER_LOAD_ERROR": "Unable to load content.",
+  "BUCKET_BROWSER_NO_FILES": "This folder contains no files",
+  "BUCKET_BROWSER_SELECT_BUCKET": "Select a bucket to browse files"
 }
