@@ -1080,6 +1080,73 @@
     "UPLOAD": "Carica",
     "WRITE_A_MESSAGE": "Scrivi un messaggio..."
   },
+  "DIAGNOSTICS": {
+    "CATALOG_ERROR": "Impossibile caricare il catalogo dei layer",
+    "CHARS": "caratteri",
+    "CHARTS": {
+      "APPLY": "Applica",
+      "CONFIG": "Configurazione grafico",
+      "CONFIG_HINT": "Le modifiche valgono solo in questa pagina e non vengono salvate.",
+      "CONFIG_NOT_OBJECT": "La configurazione deve essere un oggetto JSON",
+      "OVERRIDE_ACTIVE": "Configurazione modificata attiva",
+      "RESET": "Ripristina",
+      "SHOW_EVENT": "Grafico feature",
+      "SHOW_PUNCTUAL": "Grafico puntuale"
+    },
+    "COPIED": "Copiato",
+    "COPY": "Copia",
+    "DOWNLOAD": "Scarica",
+    "FROM": "Da",
+    "LOAD": "Carica layer",
+    "LOADING": "Caricamento…",
+    "LOAD_CONFIRM": "Il caricamento esegue chiamate reali (es. pubblicazione DDS) e scrive nei log attività. Continuare?",
+    "LOAD_HINT": "Esegue chiamate reali e scrive nei log attività",
+    "MAP_PICKER": {
+      "CONFIRM": "Conferma",
+      "FEATURE": "Feature",
+      "HINT": "Clicca un punto per info e serie puntuale, oppure una feature del layer per il grafico evento.",
+      "HINT_NOT_LOADED": "Layer non caricato: puoi scegliere solo un punto. Caricalo per vedere le feature.",
+      "POINT": "Punto",
+      "TITLE": "Scegli sulla mappa"
+    },
+    "NO_ACTIVE_LAYERS": "Nessun layer attivo: apri questa pagina navigando dalla mappa per ispezionare i layer caricati.",
+    "PANELS": {
+      "DATA": "Dati",
+      "MODEL": "Modello",
+      "STATE": "Stato"
+    },
+    "PICKER": {
+      "ACTIVE": "Layer attivi",
+      "CATALOG": "Catalogo",
+      "FILTER": "Filtra catalogo",
+      "LAYER": "Layer",
+      "MAP": "Mappa {{map}}",
+      "PLACEHOLDER": "Scegli un layer"
+    },
+    "PICK_ON_MAP": "Scegli sulla mappa",
+    "PROBE": {
+      "COORDINATES_REQUIRED": "Inserisci latitudine e longitudine",
+      "EVENT_DATA": "Dati evento (JSON)",
+      "INFO": "Info mappa",
+      "LAT": "Latitudine",
+      "LON": "Longitudine",
+      "NEEDS_LOAD": "Carica il layer per eseguire le prove",
+      "PUNCTUAL": "Serie puntuale",
+      "SERIES": "Serie evento",
+      "STATUS_DONE": "Completata",
+      "STATUS_ERROR": "Errore",
+      "STATUS_RUNNING": "In corso"
+    },
+    "SUBTITLE": "Dati raw di layer e servizi",
+    "TABS": {
+      "CHARTS": "Grafici",
+      "LAYER": "Layer",
+      "PROBE": "Prove"
+    },
+    "TITLE": "Diagnostica dati",
+    "TO": "A",
+    "TRUNCATED": "Testo troncato a video: copia o scarica per il contenuto completo."
+  },
   "DIREZIONE_DELLA_CORRENTE": "Direzione attuale",
   "DIREZIONE_DELLA_CORRENTE_BAROTROPICA": "Direzione della corrente barotropica",
   "DIREZIONE_MEDIA_DELL'ONDA": "Direzione media dell'onda",
@@ -1632,6 +1699,7 @@
     },
     "LIVE_TITLE": "Messaggi websocket in tempo reale",
     "NARROWED_HINT": "Contatori e righe sono limitati dal filtro su evento, close code o anomalie. Stati, watch, insight, sessioni e recovery considerano tutti gli eventi del periodo.",
+    "OPEN_DIAGNOSTICS": "Apri nella diagnostica dati",
     "OWN_EVENTS_ONLY": "Solo i tuoi eventi",
     "OWN_EVENTS_ONLY_HINT": "Sono mostrati solo i tuoi eventi. Richiedi il ruolo di amministratore dei log per vedere tutti gli utenti.",
     "PROBLEMATIC_TITLE": "Utenti/layer problematici",

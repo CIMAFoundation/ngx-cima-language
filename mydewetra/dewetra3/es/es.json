@@ -1080,6 +1080,73 @@
     "UPLOAD": "Cargar",
     "WRITE_A_MESSAGE": "Escribe un mensaje..."
   },
+  "DIAGNOSTICS": {
+    "CATALOG_ERROR": "No se pudo cargar el catálogo de capas",
+    "CHARS": "caracteres",
+    "CHARTS": {
+      "APPLY": "Aplicar",
+      "CONFIG": "Configuración del gráfico",
+      "CONFIG_HINT": "Los cambios solo se aplican a esta página y no se guardan.",
+      "CONFIG_NOT_OBJECT": "La configuración debe ser un objeto JSON",
+      "OVERRIDE_ACTIVE": "Configuración modificada activa",
+      "RESET": "Restablecer",
+      "SHOW_EVENT": "Gráfico de la entidad",
+      "SHOW_PUNCTUAL": "Gráfico puntual"
+    },
+    "COPIED": "Copiado",
+    "COPY": "Copiar",
+    "DOWNLOAD": "Descargar",
+    "FROM": "Desde",
+    "LOAD": "Cargar capa",
+    "LOADING": "Cargando…",
+    "LOAD_CONFIRM": "La carga realiza llamadas reales (p. ej. publicación DDS) y escribe en los registros de actividad. ¿Continuar?",
+    "LOAD_HINT": "Realiza llamadas reales y escribe en los registros de actividad",
+    "MAP_PICKER": {
+      "CONFIRM": "Confirmar",
+      "FEATURE": "Entidad",
+      "HINT": "Haz clic en un punto para información y serie puntual, o en una entidad de la capa para el gráfico del evento.",
+      "HINT_NOT_LOADED": "Capa no cargada: solo puedes elegir un punto. Cárgala para ver sus entidades.",
+      "POINT": "Punto",
+      "TITLE": "Elegir en el mapa"
+    },
+    "NO_ACTIVE_LAYERS": "Sin capas activas: abre esta página navegando desde el mapa para inspeccionar las capas cargadas.",
+    "PANELS": {
+      "DATA": "Datos",
+      "MODEL": "Modelo",
+      "STATE": "Estado"
+    },
+    "PICKER": {
+      "ACTIVE": "Capas activas",
+      "CATALOG": "Catálogo",
+      "FILTER": "Filtrar catálogo",
+      "LAYER": "Capa",
+      "MAP": "Mapa {{map}}",
+      "PLACEHOLDER": "Elige una capa"
+    },
+    "PICK_ON_MAP": "Elegir en el mapa",
+    "PROBE": {
+      "COORDINATES_REQUIRED": "Introduce latitud y longitud",
+      "EVENT_DATA": "Datos del evento (JSON)",
+      "INFO": "Información del mapa",
+      "LAT": "Latitud",
+      "LON": "Longitud",
+      "NEEDS_LOAD": "Carga la capa para ejecutar las pruebas",
+      "PUNCTUAL": "Serie puntual",
+      "SERIES": "Serie del evento",
+      "STATUS_DONE": "Completada",
+      "STATUS_ERROR": "Error",
+      "STATUS_RUNNING": "En curso"
+    },
+    "SUBTITLE": "Datos sin procesar de capas y servicios",
+    "TABS": {
+      "CHARTS": "Gráficos",
+      "LAYER": "Capa",
+      "PROBE": "Pruebas"
+    },
+    "TITLE": "Diagnóstico de datos",
+    "TO": "Hasta",
+    "TRUNCATED": "Texto truncado en pantalla: cópialo o descárgalo para ver el contenido completo."
+  },
   "DIREZIONE_DELLA_CORRENTE": "Dirección actual",
   "DIREZIONE_DELLA_CORRENTE_BAROTROPICA": "Dirección de la corriente barotrópica",
   "DIREZIONE_MEDIA_DELL'ONDA": "Dirección media de onda",
@@ -1632,6 +1699,7 @@
     },
     "LIVE_TITLE": "Mensajes websocket en tiempo real",
     "NARROWED_HINT": "Contadores y filas están limitados por el filtro de evento, close code o anomalías. Estados, watches, insights, sesiones y recuperación consideran todos los eventos del período.",
+    "OPEN_DIAGNOSTICS": "Abrir en el diagnóstico de datos",
     "OWN_EVENTS_ONLY": "Solo tus eventos",
     "OWN_EVENTS_ONLY_HINT": "Solo se muestran tus eventos. Solicita el rol de administrador de logs para ver a todos los usuarios.",
     "PROBLEMATIC_TITLE": "Usuarios/capas con problemas",

@@ -1080,6 +1080,73 @@
     "UPLOAD": "Téléverser",
     "WRITE_A_MESSAGE": "Écrivez un message..."
   },
+  "DIAGNOSTICS": {
+    "CATALOG_ERROR": "Impossible de charger le catalogue des couches",
+    "CHARS": "caractères",
+    "CHARTS": {
+      "APPLY": "Appliquer",
+      "CONFIG": "Configuration du graphique",
+      "CONFIG_HINT": "Les modifications ne s'appliquent qu'à cette page et ne sont pas enregistrées.",
+      "CONFIG_NOT_OBJECT": "La configuration doit être un objet JSON",
+      "OVERRIDE_ACTIVE": "Configuration modifiée active",
+      "RESET": "Réinitialiser",
+      "SHOW_EVENT": "Graphique de l'entité",
+      "SHOW_PUNCTUAL": "Graphique ponctuel"
+    },
+    "COPIED": "Copié",
+    "COPY": "Copier",
+    "DOWNLOAD": "Télécharger",
+    "FROM": "Du",
+    "LOAD": "Charger la couche",
+    "LOADING": "Chargement…",
+    "LOAD_CONFIRM": "Le chargement effectue de vrais appels (ex. publication DDS) et écrit dans les journaux d'activité. Continuer ?",
+    "LOAD_HINT": "Effectue de vrais appels et écrit dans les journaux d'activité",
+    "MAP_PICKER": {
+      "CONFIRM": "Confirmer",
+      "FEATURE": "Entité",
+      "HINT": "Cliquez sur un point pour les infos et la série ponctuelle, ou sur une entité de la couche pour le graphique d'événement.",
+      "HINT_NOT_LOADED": "Couche non chargée : vous pouvez seulement choisir un point. Chargez-la pour voir ses entités.",
+      "POINT": "Point",
+      "TITLE": "Choisir sur la carte"
+    },
+    "NO_ACTIVE_LAYERS": "Aucune couche active : ouvrez cette page depuis la carte pour inspecter les couches chargées.",
+    "PANELS": {
+      "DATA": "Données",
+      "MODEL": "Modèle",
+      "STATE": "État"
+    },
+    "PICKER": {
+      "ACTIVE": "Couches actives",
+      "CATALOG": "Catalogue",
+      "FILTER": "Filtrer le catalogue",
+      "LAYER": "Couche",
+      "MAP": "Carte {{map}}",
+      "PLACEHOLDER": "Choisir une couche"
+    },
+    "PICK_ON_MAP": "Choisir sur la carte",
+    "PROBE": {
+      "COORDINATES_REQUIRED": "Saisissez la latitude et la longitude",
+      "EVENT_DATA": "Données de l'événement (JSON)",
+      "INFO": "Infos carte",
+      "LAT": "Latitude",
+      "LON": "Longitude",
+      "NEEDS_LOAD": "Chargez la couche pour lancer les tests",
+      "PUNCTUAL": "Série ponctuelle",
+      "SERIES": "Série d'événement",
+      "STATUS_DONE": "Terminé",
+      "STATUS_ERROR": "Erreur",
+      "STATUS_RUNNING": "En cours"
+    },
+    "SUBTITLE": "Données brutes des couches et des services",
+    "TABS": {
+      "CHARTS": "Graphiques",
+      "LAYER": "Couche",
+      "PROBE": "Tests"
+    },
+    "TITLE": "Diagnostic des données",
+    "TO": "Au",
+    "TRUNCATED": "Texte tronqué à l'écran : copiez-le ou téléchargez-le pour le contenu complet."
+  },
   "DIREZIONE_DELLA_CORRENTE": "Direction actuelle",
   "DIREZIONE_DELLA_CORRENTE_BAROTROPICA": "Direction du courant barotropique",
   "DIREZIONE_MEDIA_DELL'ONDA": "Direction moyenne des ondes",
@@ -1632,6 +1699,7 @@
     },
     "LIVE_TITLE": "Messages websocket en temps réel",
     "NARROWED_HINT": "Les compteurs et les lignes sont limités par le filtre d'événement, de close code ou d'anomalies. Les états, watches, insights, sessions et récupérations considèrent tous les événements de la période.",
+    "OPEN_DIAGNOSTICS": "Ouvrir dans le diagnostic des données",
     "OWN_EVENTS_ONLY": "Vos événements uniquement",
     "OWN_EVENTS_ONLY_HINT": "Seuls vos événements sont affichés. Demandez le rôle d'administrateur des logs pour voir tous les utilisateurs.",
     "PROBLEMATIC_TITLE": "Utilisateurs/couches problématiques",

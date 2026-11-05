@@ -1080,6 +1080,73 @@
     "UPLOAD": "Upload",
     "WRITE_A_MESSAGE": "Write a message..."
   },
+  "DIAGNOSTICS": {
+    "CATALOG_ERROR": "Could not load the layer catalog",
+    "CHARS": "characters",
+    "CHARTS": {
+      "APPLY": "Apply",
+      "CONFIG": "Chart configuration",
+      "CONFIG_HINT": "Changes apply only to this page and are not saved.",
+      "CONFIG_NOT_OBJECT": "The configuration must be a JSON object",
+      "OVERRIDE_ACTIVE": "Edited configuration active",
+      "RESET": "Reset",
+      "SHOW_EVENT": "Feature chart",
+      "SHOW_PUNCTUAL": "Point chart"
+    },
+    "COPIED": "Copied",
+    "COPY": "Copy",
+    "DOWNLOAD": "Download",
+    "FROM": "From",
+    "LOAD": "Load layer",
+    "LOADING": "Loading…",
+    "LOAD_CONFIRM": "Loading makes real calls (e.g. DDS publish) and writes to the activity logs. Continue?",
+    "LOAD_HINT": "Makes real calls and writes to the activity logs",
+    "MAP_PICKER": {
+      "CONFIRM": "Confirm",
+      "FEATURE": "Feature",
+      "HINT": "Click a point for info and point series, or a layer feature for the event chart.",
+      "HINT_NOT_LOADED": "Layer not loaded: you can only pick a point. Load it to see its features.",
+      "POINT": "Point",
+      "TITLE": "Pick on map"
+    },
+    "NO_ACTIVE_LAYERS": "No active layers: open this page by navigating from the map to inspect the loaded layers.",
+    "PANELS": {
+      "DATA": "Data",
+      "MODEL": "Model",
+      "STATE": "State"
+    },
+    "PICKER": {
+      "ACTIVE": "Active layers",
+      "CATALOG": "Catalog",
+      "FILTER": "Filter catalog",
+      "LAYER": "Layer",
+      "MAP": "Map {{map}}",
+      "PLACEHOLDER": "Choose a layer"
+    },
+    "PICK_ON_MAP": "Pick on map",
+    "PROBE": {
+      "COORDINATES_REQUIRED": "Enter latitude and longitude",
+      "EVENT_DATA": "Event data (JSON)",
+      "INFO": "Map info",
+      "LAT": "Latitude",
+      "LON": "Longitude",
+      "NEEDS_LOAD": "Load the layer to run probes",
+      "PUNCTUAL": "Point series",
+      "SERIES": "Event series",
+      "STATUS_DONE": "Completed",
+      "STATUS_ERROR": "Error",
+      "STATUS_RUNNING": "Running"
+    },
+    "SUBTITLE": "Raw layer and service data",
+    "TABS": {
+      "CHARTS": "Charts",
+      "LAYER": "Layer",
+      "PROBE": "Probes"
+    },
+    "TITLE": "Data diagnostics",
+    "TO": "To",
+    "TRUNCATED": "Text truncated on screen: copy or download it for the full content."
+  },
   "DIREZIONE_DELLA_CORRENTE": "Current Direction",
   "DIREZIONE_DELLA_CORRENTE_BAROTROPICA": "Barotropic Current Direction",
   "DIREZIONE_MEDIA_DELL'ONDA": "Mean Wave Direction",
@@ -1632,6 +1699,7 @@
     },
     "LIVE_TITLE": "Live websocket messages",
     "NARROWED_HINT": "Counters and rows are limited by the event, close code or anomalies filter. Statuses, watches, insights, sessions and recovery consider all events in the period.",
+    "OPEN_DIAGNOSTICS": "Open in data diagnostics",
     "OWN_EVENTS_ONLY": "Your events only",
     "OWN_EVENTS_ONLY_HINT": "Only your own events are shown. Ask for the logs admin role to see every user.",
     "PROBLEMATIC_TITLE": "Problematic users/layers",

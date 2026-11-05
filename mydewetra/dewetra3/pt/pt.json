@@ -1080,6 +1080,73 @@
     "UPLOAD": "Carregar",
     "WRITE_A_MESSAGE": "Escreva uma mensagem..."
   },
+  "DIAGNOSTICS": {
+    "CATALOG_ERROR": "Não foi possível carregar o catálogo de camadas",
+    "CHARS": "caracteres",
+    "CHARTS": {
+      "APPLY": "Aplicar",
+      "CONFIG": "Configuração do gráfico",
+      "CONFIG_HINT": "As alterações aplicam-se apenas a esta página e não são guardadas.",
+      "CONFIG_NOT_OBJECT": "A configuração deve ser um objeto JSON",
+      "OVERRIDE_ACTIVE": "Configuração modificada ativa",
+      "RESET": "Repor",
+      "SHOW_EVENT": "Gráfico da feature",
+      "SHOW_PUNCTUAL": "Gráfico pontual"
+    },
+    "COPIED": "Copiado",
+    "COPY": "Copiar",
+    "DOWNLOAD": "Transferir",
+    "FROM": "De",
+    "LOAD": "Carregar camada",
+    "LOADING": "A carregar…",
+    "LOAD_CONFIRM": "O carregamento faz chamadas reais (ex. publicação DDS) e escreve nos registos de atividade. Continuar?",
+    "LOAD_HINT": "Faz chamadas reais e escreve nos registos de atividade",
+    "MAP_PICKER": {
+      "CONFIRM": "Confirmar",
+      "FEATURE": "Feature",
+      "HINT": "Clique num ponto para informações e série pontual, ou numa feature da camada para o gráfico do evento.",
+      "HINT_NOT_LOADED": "Camada não carregada: só pode escolher um ponto. Carregue-a para ver as features.",
+      "POINT": "Ponto",
+      "TITLE": "Escolher no mapa"
+    },
+    "NO_ACTIVE_LAYERS": "Sem camadas ativas: abra esta página a partir do mapa para inspecionar as camadas carregadas.",
+    "PANELS": {
+      "DATA": "Dados",
+      "MODEL": "Modelo",
+      "STATE": "Estado"
+    },
+    "PICKER": {
+      "ACTIVE": "Camadas ativas",
+      "CATALOG": "Catálogo",
+      "FILTER": "Filtrar catálogo",
+      "LAYER": "Camada",
+      "MAP": "Mapa {{map}}",
+      "PLACEHOLDER": "Escolha uma camada"
+    },
+    "PICK_ON_MAP": "Escolher no mapa",
+    "PROBE": {
+      "COORDINATES_REQUIRED": "Insira latitude e longitude",
+      "EVENT_DATA": "Dados do evento (JSON)",
+      "INFO": "Informações do mapa",
+      "LAT": "Latitude",
+      "LON": "Longitude",
+      "NEEDS_LOAD": "Carregue a camada para executar os testes",
+      "PUNCTUAL": "Série pontual",
+      "SERIES": "Série do evento",
+      "STATUS_DONE": "Concluído",
+      "STATUS_ERROR": "Erro",
+      "STATUS_RUNNING": "Em execução"
+    },
+    "SUBTITLE": "Dados brutos de camadas e serviços",
+    "TABS": {
+      "CHARTS": "Gráficos",
+      "LAYER": "Camada",
+      "PROBE": "Testes"
+    },
+    "TITLE": "Diagnóstico de dados",
+    "TO": "Até",
+    "TRUNCATED": "Texto truncado no ecrã: copie ou transfira para o conteúdo completo."
+  },
   "DIREZIONE_DELLA_CORRENTE": "Direção atual",
   "DIREZIONE_DELLA_CORRENTE_BAROTROPICA": "Direção da corrente barotrópica",
   "DIREZIONE_MEDIA_DELL'ONDA": "Direção média da onda",
@@ -1632,6 +1699,7 @@
     },
     "LIVE_TITLE": "Mensagens websocket em tempo real",
     "NARROWED_HINT": "Contadores e linhas estão limitados pelo filtro de evento, close code ou anomalias. Estados, watches, insights, sessões e recuperação consideram todos os eventos do período.",
+    "OPEN_DIAGNOSTICS": "Abrir no diagnóstico de dados",
     "OWN_EVENTS_ONLY": "Apenas os seus eventos",
     "OWN_EVENTS_ONLY_HINT": "São mostrados apenas os seus eventos. Solicite a função de administrador de logs para ver todos os utilizadores.",
     "PROBLEMATIC_TITLE": "Utilizadores/camadas com problemas",
