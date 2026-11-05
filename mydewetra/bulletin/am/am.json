@@ -169,5 +169,37 @@
 		"NEW_BULLETIN": "አዲስ",
 		"DIALOG_CANCEL": "ይቅር",
 		"DIALOG_CONFIRM": "እሺ"
-	}
+	},
+  "PREFLIGHT": {
+    "TITLE": "የመረጃ መገኘት ማረጋገጫ",
+    "DISCLAIMER": "ይህ ማረጋገጫ የአሁኑን መረጃ እና ውቅር ያሳያል፤ ዋስትና አይደለም።",
+    "LAST_CHECKED": "ለመጨረሻ ጊዜ የተረጋገጠው በ{{time}}።",
+    "STATUS_OK": "እሺ",
+    "STATUS_WARNING": "ማስጠንቀቂያ",
+    "STATUS_ERROR": "ስህተት",
+    "STATUS_UNKNOWN": "ያልታወቀ",
+    "CAN_CREATE": "መፍጠር ተፈቅዷል",
+    "CANNOT_CREATE": "መፍጠር አልተፈቀደም",
+    "COMPONENTS": "{{count}} ክፍሎች",
+    "EXPECTED": "የሚጠበቀው",
+    "HAPPENED": "የተገኘው",
+    "CHECK": "ማረጋገጫ",
+    "NO_DIAGNOSTICS": "ለክፍሎቹ ምንም የምርመራ ውጤት አልተመለሰም።",
+    "REQUEST_FAILED": "የመረጃ ማረጋገጫው ሊጠናቀቅ አልቻለም፦ {{error}}",
+    "CHECK_AGAIN": "እንደገና አረጋግጥ",
+    "CLOSE": "ዝጋ",
+    "CREATE_ANYWAY": "ቢሆንም ፍጠር",
+    "CONFIRM_TITLE": "ማስታወቂያውን ልፍጠር?",
+    "CONFIRM_MESSAGE": "የመረጃ ማረጋገጫው አንዳንድ ችግሮችን አግኝቷል። ቢሆንም ማስታወቂያውን መፍጠር ይፈልጋሉ?",
+    "BLOCKED_TITLE": "አዲስ ማስታወቂያ አይገኝም",
+    "BLOCKED_MESSAGE": "ከታች በተዘረዘሩት ችግሮች ምክንያት ማስታወቂያው አሁን ሊፈጠር አይችልም። እባክዎ ቆይተው እንደገና ይሞክሩ።",
+    "POLICY_DEFAULTS_OK": "መረጃ በማይገኝበት ጊዜ እያንዳንዱ ክፍል በነባሪ እሴቶቹ ሊፈጠር ይችላል።",
+    "POLICY_REQUIRES_DATA": "እነዚህ ክፍሎች ለመጀመር መረጃ ያስፈልጋቸዋል፦ {{components}}።",
+    "POLICY_UNREADABLE": "የአስጀማሪዎቹን ውቅር ማንበብ አልተቻለም።",
+    "INDICATOR_LOADING": "የመረጃ መገኘት በማረጋገጥ ላይ...",
+    "INDICATOR_OK": "የመረጃ ማረጋገጫ፦ ሁሉም ይገኛል",
+    "INDICATOR_WARNING": "የመረጃ ማረጋገጫ፦ ማስጠንቀቂያዎች፣ ለዝርዝሮች ይጫኑ",
+    "INDICATOR_ERROR": "የመረጃ ማረጋገጫ፦ ስህተቶች፣ ለዝርዝሮች ይጫኑ",
+    "INDICATOR_FAILED": "የመረጃ ማረጋገጫው አልተሳካም፣ ለዝርዝሮች ይጫኑ"
+  }
 }
