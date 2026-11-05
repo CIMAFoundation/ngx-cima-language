@@ -173,5 +173,37 @@
         "OPEN_EXTERNAL_LINK": "Ouvrir le lien externe",
         "GENERATE_PDF": "Générer un brouillon PDF",
         "OTHER_VERSIONS": "Autres versions"
-    }
+    },
+  "PREFLIGHT": {
+    "TITLE": "Vérification de la disponibilité des données",
+    "DISCLAIMER": "Cette vérification reflète les données et la configuration actuelles ; elle ne constitue pas une garantie.",
+    "LAST_CHECKED": "Dernière vérification à {{time}}.",
+    "STATUS_OK": "OK",
+    "STATUS_WARNING": "Avertissement",
+    "STATUS_ERROR": "Erreur",
+    "STATUS_UNKNOWN": "Inconnu",
+    "CAN_CREATE": "Création autorisée",
+    "CANNOT_CREATE": "Création non autorisée",
+    "COMPONENTS": "{{count}} composants",
+    "EXPECTED": "Attendu",
+    "HAPPENED": "Constaté",
+    "CHECK": "Vérification",
+    "NO_DIAGNOSTICS": "Aucun diagnostic renvoyé pour les composants.",
+    "REQUEST_FAILED": "La vérification des données n'a pas pu être effectuée : {{error}}",
+    "CHECK_AGAIN": "Vérifier à nouveau",
+    "CLOSE": "Fermer",
+    "CREATE_ANYWAY": "Créer quand même",
+    "CONFIRM_TITLE": "Créer le bulletin ?",
+    "CONFIRM_MESSAGE": "La vérification des données a détecté des problèmes. Voulez-vous créer le bulletin quand même ?",
+    "BLOCKED_TITLE": "Nouveau bulletin indisponible",
+    "BLOCKED_MESSAGE": "Le bulletin ne peut pas être créé maintenant à cause des problèmes ci-dessous. Veuillez réessayer plus tard.",
+    "POLICY_DEFAULTS_OK": "Chaque composant peut être créé avec ses valeurs par défaut lorsque les données ne sont pas disponibles.",
+    "POLICY_REQUIRES_DATA": "Ces composants ont besoin de données pour être initialisés : {{components}}.",
+    "POLICY_UNREADABLE": "Impossible de lire la configuration des initialiseurs.",
+    "INDICATOR_LOADING": "Vérification de la disponibilité des données...",
+    "INDICATOR_OK": "Vérification des données : tout est disponible",
+    "INDICATOR_WARNING": "Vérification des données : avertissements, cliquez pour les détails",
+    "INDICATOR_ERROR": "Vérification des données : erreurs, cliquez pour les détails",
+    "INDICATOR_FAILED": "Échec de la vérification des données, cliquez pour les détails"
+  }
 }

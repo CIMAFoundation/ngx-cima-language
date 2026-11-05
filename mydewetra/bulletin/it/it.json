@@ -183,5 +183,37 @@
         "OPEN_EXTERNAL_LINK": "Apri link esterno",
         "GENERATE_PDF": "Genera bozza PDF",
         "OTHER_VERSIONS": "Altre versioni"
-    }
+    },
+  "PREFLIGHT": {
+    "TITLE": "Verifica disponibilità dati",
+    "DISCLAIMER": "La verifica riflette i dati e la configurazione attuali; non è una garanzia.",
+    "LAST_CHECKED": "Ultima verifica alle {{time}}.",
+    "STATUS_OK": "OK",
+    "STATUS_WARNING": "Attenzione",
+    "STATUS_ERROR": "Errore",
+    "STATUS_UNKNOWN": "Sconosciuto",
+    "CAN_CREATE": "Creazione consentita",
+    "CANNOT_CREATE": "Creazione non consentita",
+    "COMPONENTS": "{{count}} componenti",
+    "EXPECTED": "Atteso",
+    "HAPPENED": "Riscontrato",
+    "CHECK": "Verifica",
+    "NO_DIAGNOSTICS": "Nessuna diagnostica restituita per i componenti.",
+    "REQUEST_FAILED": "Non è stato possibile completare la verifica dei dati: {{error}}",
+    "CHECK_AGAIN": "Verifica di nuovo",
+    "CLOSE": "Chiudi",
+    "CREATE_ANYWAY": "Crea comunque",
+    "CONFIRM_TITLE": "Creare il bollettino?",
+    "CONFIRM_MESSAGE": "La verifica dei dati ha trovato dei problemi. Vuoi creare comunque il bollettino?",
+    "BLOCKED_TITLE": "Nuovo bollettino non disponibile",
+    "BLOCKED_MESSAGE": "Il bollettino non può essere creato ora a causa dei problemi riportati sotto. Riprova più tardi.",
+    "POLICY_DEFAULTS_OK": "Tutti i componenti possono essere creati con i valori predefiniti quando i dati non sono disponibili.",
+    "POLICY_REQUIRES_DATA": "Questi componenti richiedono dati per essere inizializzati: {{components}}.",
+    "POLICY_UNREADABLE": "Impossibile leggere la configurazione degli inizializzatori.",
+    "INDICATOR_LOADING": "Verifica della disponibilità dei dati in corso...",
+    "INDICATOR_OK": "Verifica dati: tutto disponibile",
+    "INDICATOR_WARNING": "Verifica dati: avvisi, clicca per i dettagli",
+    "INDICATOR_ERROR": "Verifica dati: errori, clicca per i dettagli",
+    "INDICATOR_FAILED": "Verifica dati non riuscita, clicca per i dettagli"
+  }
 }

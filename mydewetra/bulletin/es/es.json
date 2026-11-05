@@ -177,7 +177,37 @@
     "OPEN_EXTERNAL_LINK": "Abrir enlace externo",
     "GENERATE_PDF": "Generar borrador PDF",
     "OTHER_VERSIONS": "Otras versiones"
-    }
-
-
+    },
+  "PREFLIGHT": {
+    "TITLE": "Verificación de disponibilidad de datos",
+    "DISCLAIMER": "Esta verificación refleja los datos y la configuración actuales; no es una garantía.",
+    "LAST_CHECKED": "Última verificación a las {{time}}.",
+    "STATUS_OK": "OK",
+    "STATUS_WARNING": "Advertencia",
+    "STATUS_ERROR": "Error",
+    "STATUS_UNKNOWN": "Desconocido",
+    "CAN_CREATE": "Creación permitida",
+    "CANNOT_CREATE": "Creación no permitida",
+    "COMPONENTS": "{{count}} componentes",
+    "EXPECTED": "Esperado",
+    "HAPPENED": "Encontrado",
+    "CHECK": "Verificación",
+    "NO_DIAGNOSTICS": "No se devolvió ningún diagnóstico de los componentes.",
+    "REQUEST_FAILED": "No se pudo completar la verificación de datos: {{error}}",
+    "CHECK_AGAIN": "Verificar de nuevo",
+    "CLOSE": "Cerrar",
+    "CREATE_ANYWAY": "Crear de todos modos",
+    "CONFIRM_TITLE": "¿Crear el boletín?",
+    "CONFIRM_MESSAGE": "La verificación de datos encontró problemas. ¿Desea crear el boletín de todos modos?",
+    "BLOCKED_TITLE": "Nuevo boletín no disponible",
+    "BLOCKED_MESSAGE": "El boletín no se puede crear ahora debido a los problemas indicados abajo. Vuelva a intentarlo más tarde.",
+    "POLICY_DEFAULTS_OK": "Todos los componentes pueden crearse con sus valores predeterminados cuando no hay datos disponibles.",
+    "POLICY_REQUIRES_DATA": "Estos componentes necesitan datos para inicializarse: {{components}}.",
+    "POLICY_UNREADABLE": "No se puede leer la configuración de los inicializadores.",
+    "INDICATOR_LOADING": "Verificando la disponibilidad de datos...",
+    "INDICATOR_OK": "Verificación de datos: todo disponible",
+    "INDICATOR_WARNING": "Verificación de datos: advertencias, haga clic para ver los detalles",
+    "INDICATOR_ERROR": "Verificación de datos: errores, haga clic para ver los detalles",
+    "INDICATOR_FAILED": "La verificación de datos falló, haga clic para ver los detalles"
+  }
 }
