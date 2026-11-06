@@ -836,7 +836,8 @@
     "TOTAL_AREA": "Superficie totale",
     "TOTAL_LENGTH": "Longueur totale",
     "VALUE": "Valeur",
-    "WAITING_FOR_DATA": "En attente de données"
+    "WAITING_FOR_DATA": "En attente de données",
+    "WIND_ANIMATED": "Vent animé"
   },
   "DEWETRA3LEGENDS": {
     "FLOODPROOFS": {
@@ -1801,6 +1802,32 @@
   "MASS_CONCENTRATION_OF_CHLOROPHYLL_A": "Concentration massique de chlorophylle-a",
   "MAX@": "Max",
   "MAX_UPDRAFT_HELICITY": "Hélicité maximale du courant ascendant",
+  "METEO": {
+    "CLOSE": "Fermer",
+    "DATASET": "Jeu de données",
+    "FORECAST_TIME": "Échéance de prévision",
+    "HINT": "Survolez la carte pour lire les valeurs. Cliquez pour épingler la fenêtre tout en explorant d'autres valeurs.",
+    "HINT_TOUCH": "Touchez la carte pour lire les valeurs à cet endroit.",
+    "INSTALL_APP": "Installer l'app",
+    "INSTALL_IOS_HINT": "Pour installer l'app : Partager, puis Sur l'écran d'accueil.",
+    "LEGEND": "Légende",
+    "LOADING": "Chargement...",
+    "MAP_STYLE": "Style de carte",
+    "NEXT": "Suivant",
+    "NO_DATA": "Aucune donnée disponible pour cette variable",
+    "NO_DATASETS": "Aucun jeu de données de prévision disponible",
+    "NO_DATA_AT_LOCATION": "Aucune donnée à cet endroit",
+    "OPEN_PANEL": "Ouvrir les commandes",
+    "PAUSE": "Pause",
+    "PLAY": "Lecture",
+    "PREVIOUS": "Précédent",
+    "RUN": "Run",
+    "SPEED": "Vitesse",
+    "VARIABLES": "Variables",
+    "WIND_ANIMATED": "Vent animé",
+    "WIND_FIELD": "Champ coloré",
+    "WIND_UNAVAILABLE": "Vent animé indisponible : seul le champ coloré est affiché."
+  },
   "METEO-VIGILANCE_AREA": "Zone de météorovigilance",
   "MIN@": "Minimum",
   "MIXED_LAYER_DEPTH": "Profondeur de couche mixte",

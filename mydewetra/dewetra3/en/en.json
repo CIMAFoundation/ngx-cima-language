@@ -836,7 +836,8 @@
     "TOTAL_AREA": "Total Area",
     "TOTAL_LENGTH": "Total Length",
     "VALUE": "Value",
-    "WAITING_FOR_DATA": "Waiting for data"
+    "WAITING_FOR_DATA": "Waiting for data",
+    "WIND_ANIMATED": "Animated wind"
   },
   "DEWETRA3LEGENDS": {
     "FLOODPROOFS": {
@@ -1801,6 +1802,32 @@
   "MASS_CONCENTRATION_OF_CHLOROPHYLL_A": "Mass concentration of chlorophyll-a",
   "MAX@": "Historical Max",
   "MAX_UPDRAFT_HELICITY": "Max Updraft Helicity",
+  "METEO": {
+    "CLOSE": "Close",
+    "DATASET": "Dataset",
+    "FORECAST_TIME": "Forecast time",
+    "HINT": "Hover over the map to view values. Click to pin the popup while exploring other values.",
+    "HINT_TOUCH": "Tap the map to read the values at that point.",
+    "INSTALL_APP": "Install app",
+    "INSTALL_IOS_HINT": "To install the app: Share, then Add to Home Screen.",
+    "LEGEND": "Legend",
+    "LOADING": "Loading...",
+    "MAP_STYLE": "Map style",
+    "NEXT": "Next",
+    "NO_DATA": "No data available for this variable",
+    "NO_DATASETS": "No forecast datasets available",
+    "NO_DATA_AT_LOCATION": "No data at this location",
+    "OPEN_PANEL": "Open controls",
+    "PAUSE": "Pause",
+    "PLAY": "Play",
+    "PREVIOUS": "Previous",
+    "RUN": "Run",
+    "SPEED": "Speed",
+    "VARIABLES": "Variables",
+    "WIND_ANIMATED": "Animated wind",
+    "WIND_FIELD": "Colored field",
+    "WIND_UNAVAILABLE": "Animated wind not available: showing the colored field only."
+  },
   "METEO-VIGILANCE_AREA": "Meteo-Vigilance Area",
   "MIN@": "Historical Min",
   "MIXED_LAYER_DEPTH": "Mixed layer depth",
