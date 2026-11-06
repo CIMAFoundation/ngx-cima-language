@@ -20,7 +20,7 @@
     "DISMISS": "Dismiss"
   },
   "SIMULATION_PARAMS": {
-    "NEW_SIMULATION_FROM_SET": "Clone Simulation",
+    "NEW_SIMULATION_FROM_SET": "Clone",
     "NAME": "Name",
     "DATE": "Date",
     "TILE_SET": "Dataset",
@@ -125,7 +125,7 @@
   },
   "SIMULATION_ARTIFACTS": {
     "DOWNLOAD_TITLE": "Download Simulation Data",
-    "DOWNLOAD_BUTTON": "Simulation Data",
+    "DOWNLOAD_BUTTON": "Data",
     "CLOSE_DIALOG": "Close Dialog",
     "NETCDF_OUTPUT": "NetCDF Output",
     "ISOCHRONES_GPKG": "Isochrone GPKG",
