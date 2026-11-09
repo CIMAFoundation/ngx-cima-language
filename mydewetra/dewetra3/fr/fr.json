@@ -847,6 +847,17 @@
       "LEGEND": "Légende",
       "WATER_DEPTH": "Profondeur de l'eau (cm)"
     },
+    "KGE_STATS": {
+      "KGE_0_0_4": "0,0 à 0,4",
+      "KGE_0_4_0_7": "0,4 à 0,7",
+      "KGE_0_7_1": "0,7 — 1",
+      "KGE_INF_M10": "-Informations — -10",
+      "KGE_M10_M5": "-10 et -5",
+      "KGE_M1_5_0": "-1,5 à 0",
+      "KGE_M5_M1_5": "-5 et -1,5",
+      "LEGEND": "Légende de KGE",
+      "NODATA": "Aucune donnée"
+    },
     "REPORTING_POINTS": {
       "FALLING_LEVELS": "Niveaux en baisse",
       "FORECAST_NOT_YET_PRODUCED": "Prévisions non encore produites",
