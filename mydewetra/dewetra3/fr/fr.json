@@ -1,4 +1,5 @@
 {
+  "flood_tot": "Total affecté",
   "ABSOLUTE_DYNAMIC_TOPOGRAPHY": "Topographie dynamique absolue",
   "ABSOLUTE_GEOSTROPHIC_VELOCITY": "Vitesse géostrophique absolue",
   "ABSOLUTE_VALUE": "Valeur absolue",
@@ -42,7 +43,6 @@
     "DATA_TYPE": "Type de données",
     "DEVELOP": "Développez",
     "FROM_DATE": "Date du",
-    "flood_tot": "Total affecté",
     "GG_ITALY:ProvCM01012024_WGS84_static_dew_giallo": "Italie - Frontières des provinces",
     "G_AFRICA:Children_0-5_gs": "Enfants africains de 0 à 5 ans (total)",
     "G_AFRICA:ElderlyWomen_65plus_gs": "Afrique Personnes âgées de 65 ans et plus (femmes)",
