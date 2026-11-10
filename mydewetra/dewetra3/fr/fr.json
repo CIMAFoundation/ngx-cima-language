@@ -1,4 +1,11 @@
 {
+  "AFFECTED POP": "Population affectée [-]",
+  "AFFECTED BUILT UP": "Zones bâties affectées [-]",
+  "AFFECTED CROP": "Terres agricoles affectées [ha]",
+  "AFFECTED GRAZING": "Pâturages affectés [ha]",
+  "AFFECTED LIVESTOCK": "Bétail affecté [-]",
+  "AFFECTED POP DETAILED": "Population affectée détaillée [-]",
+  "DISPLACED POP": "Population déplacée [-]"
   "CODE_ADM": "Code administratif",
   "GID_0": "Code pays",
   "NAME_0": "Pays",
