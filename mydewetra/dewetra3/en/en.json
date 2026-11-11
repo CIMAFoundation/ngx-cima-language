@@ -563,8 +563,8 @@
     "TAGS_ITEMS": {
       "ADMINISTRATIVE_UNITS": "Administrative Units",
       "AIR_QUALITY": "Air Quality",
-      "AIS_LEG_SEASONAL_DATA": "AIS leg Seasonal Data",
-      "AIS_MMSI_SEASONAL_DATA": "AIS mmsi Seasonal Data",
+      "AIS_LEG_SEASONAL_DATA": "AIS - leg Seasonal Data",
+      "AIS_MMSI_SEASONAL_DATA": "AIS - mmsi Seasonal Data",
       "ALISEO": "Aliseo",
       "ALLUVIONI": "Floods",
       "ALLUVIONI_-_AREE_INONDATE": "Floods - Flooded Areas",
