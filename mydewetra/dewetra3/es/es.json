@@ -563,6 +563,8 @@
     "TAGS_ITEMS": {
       "ADMINISTRATIVE_UNITS": "Unidades administrativas",
       "AIR_QUALITY": "Calidad del aire",
+      "AIS_LEG_sEASONAL_DATA": "Datos estacionales del tramo AIS",
+      "AIS_MMSI_SEASONAL_DATA": "Datos estacionales de AIS mmsi",
       "ALISEO": "Aliseo",
       "ALLUVIONI": "Inundaciones",
       "ALLUVIONI_-_AREE_INONDATE": "Inundaciones: áreas inundadas",
