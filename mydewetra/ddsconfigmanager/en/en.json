@@ -129,5 +129,13 @@
   "BUCKET_BROWSER_NO_FILES": "This folder contains no files",
   "BUCKET_BROWSER_SELECT_BUCKET": "Select a bucket to browse files",
   "BUCKET_BROWSER_FILTER_EXTENSIONS": "Filter files",
-  "BUCKET_BROWSER_PATH_NOT_FOUND": "Path or File not found"
+  "BUCKET_BROWSER_PATH_NOT_FOUND": "Path or File not found",
+  "DDS_ERROR_GENERIC": "An error occurred. Please try again.",
+  "DDS_ERROR_CONNECTION": "Unable to contact the server. Check your connection and try again.",
+  "DDS_ERROR_UNAUTHORIZED": "Your session has expired or sign-in is required. Please sign in again.",
+  "DDS_ERROR_FORBIDDEN": "You do not have permission to access this resource or perform this operation.",
+  "DDS_ERROR_NOT_FOUND": "The requested resource was not found.",
+  "DDS_ERROR_CONFLICT": "The operation conflicts with the current data. Reload and try again.",
+  "DDS_ERROR_TOO_MANY_REQUESTS": "Too many requests. Wait a moment and try again.",
+  "DDS_ERROR_SERVER": "Server error. Please try again later."
 }

@@ -129,6 +129,14 @@
   "BUCKET_BROWSER_NO_FILES": "Questa cartella non contiene file",
   "BUCKET_BROWSER_SELECT_BUCKET": "Seleziona un bucket per sfogliare i file",
   "BUCKET_BROWSER_FILTER_EXTENSIONS": "Filtra files",
-  "BUCKET_BROWSER_PATH_NOT_FOUND": "Percorso o File non trovato"
+  "BUCKET_BROWSER_PATH_NOT_FOUND": "Percorso o File non trovato",
+  "DDS_ERROR_GENERIC": "Si è verificato un errore. Riprova.",
+  "DDS_ERROR_CONNECTION": "Impossibile contattare il server. Verifica la connessione e riprova.",
+  "DDS_ERROR_UNAUTHORIZED": "Sessione scaduta o accesso richiesto. Accedi nuovamente.",
+  "DDS_ERROR_FORBIDDEN": "Non hai i permessi per accedere a questa risorsa o eseguire questa operazione.",
+  "DDS_ERROR_NOT_FOUND": "La risorsa richiesta non è stata trovata.",
+  "DDS_ERROR_CONFLICT": "L'operazione è in conflitto con lo stato attuale dei dati. Ricarica e riprova.",
+  "DDS_ERROR_TOO_MANY_REQUESTS": "Troppe richieste. Attendi qualche istante e riprova.",
+  "DDS_ERROR_SERVER": "Errore del server. Riprova più tardi."
 
 }
