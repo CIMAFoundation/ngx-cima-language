@@ -142,5 +142,6 @@
   "SENSORCLASS_WIND_DIRECTION": "Wind Direction",
   "SENSORCLASS_RELATIVE_HUMIDITY": "Relative Humidity",
   "SENSORCLASS_ATMOSPHERIC_PRESSURE": "Atmospheric Pressure",
-  "SENSORCLASS_RADIOMETER": "Radiometer"
+  "SENSORCLASS_RADIOMETER": "Radiometer",
+  "FORMAT": "Format"
 }
