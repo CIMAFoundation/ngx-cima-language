@@ -137,5 +137,10 @@
   "DDS_ERROR_NOT_FOUND": "The requested resource was not found.",
   "DDS_ERROR_CONFLICT": "The operation conflicts with the current data. Reload and try again.",
   "DDS_ERROR_TOO_MANY_REQUESTS": "Too many requests. Wait a moment and try again.",
-  "DDS_ERROR_SERVER": "Server error. Please try again later."
+  "DDS_ERROR_SERVER": "Server error. Please try again later.",
+  "SENSORCLASS_WIND_SPEED": "Wind Speed",
+  "SENSORCLASS_WIND_DIRECTION": "Wind Direction",
+  "SENSORCLASS_RELATIVE_HUMIDITY": "Relative Humidity",
+  "SENSORCLASS_ATMOSPHERIC_PRESSURE": "Atmospheric Pressure",
+  "SENSORCLASS_RADIOMETER": "Radiometer"
 }
