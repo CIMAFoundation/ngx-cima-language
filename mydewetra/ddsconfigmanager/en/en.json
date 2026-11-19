@@ -143,5 +143,7 @@
   "SENSORCLASS_RELATIVE_HUMIDITY": "Relative Humidity",
   "SENSORCLASS_ATMOSPHERIC_PRESSURE": "Atmospheric Pressure",
   "SENSORCLASS_RADIOMETER": "Radiometer",
-  "FORMAT": "Format"
+  "FORMAT": "Format",
+  "SERIES_LAYER_TYPE_MULTIDETERMINISTIC_FORECAST": "Multideterministic Forecast"
+
 }
