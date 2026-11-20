@@ -234,5 +234,15 @@
       "UNSUPPORTED_SENTENCE": "This browser cannot record audio."
     },
     "CLOSE": "Close chat"
+  },
+  "DYNAMIC_SELECT": {
+    "PLACEHOLDER": "Select",
+    "SEARCH": "Search by name or ID",
+    "NO_RESULTS": "No results",
+    "SHOW_ALL": "Show all items",
+    "SHOW_SELECTED": "Show only selected items",
+    "OPTIONS": "Options",
+    "SELECT_ALL": "Select all",
+    "CLEAR_SELECTION": "Clear selection"
   }
 }

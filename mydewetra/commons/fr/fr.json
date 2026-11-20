@@ -234,6 +234,16 @@
       "UNSUPPORTED_SENTENCE": "Ce navigateur ne peut pas enregistrer de son."
     },
     "CLOSE": "Fermer la discussion"
+  },
+  "DYNAMIC_SELECT": {
+    "PLACEHOLDER": "Sélectionner",
+    "SEARCH": "Rechercher par nom ou par identifiant",
+    "NO_RESULTS": "Aucun résultat",
+    "SHOW_ALL": "Afficher toutes les options",
+    "SHOW_SELECTED": "Afficher uniquement les options sélectionnées",
+    "OPTIONS": "Options",
+    "SELECT_ALL": "Tout sélectionner",
+    "CLEAR_SELECTION": "Effacer la sélection"
   }
 }
 

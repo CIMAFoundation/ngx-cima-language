@@ -234,6 +234,16 @@
       "UNSUPPORTED_SENTENCE": "Este navegador não pode gravar áudio."
     },
     "CLOSE": "Fechar chat"
+  },
+  "DYNAMIC_SELECT": {
+    "PLACEHOLDER": "Selecionar",
+    "SEARCH": "Pesquisar por nome ou ID",
+    "NO_RESULTS": "Sem resultados",
+    "SHOW_ALL": "Mostrar todas as opções",
+    "SHOW_SELECTED": "Mostrar apenas as opções selecionadas",
+    "OPTIONS": "Opções",
+    "SELECT_ALL": "Selecionar tudo",
+    "CLEAR_SELECTION": "Limpar a seleção"
   }
 }
 
