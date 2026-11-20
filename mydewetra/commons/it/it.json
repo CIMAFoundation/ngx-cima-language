@@ -59,7 +59,15 @@
     "NO_NOTIFICATIONS_RECEIVED": "Nessuna notifica ricevuta"
   },
   "FILE_DROP": {
-    "FILE_EXCEEDS_SIZE_LIMIT": "Il file supera il limite di dimensione consentito. Massima dimensione consentita:"
+    "UPLOAD_INSTRUCTIONS": "Trascina qui i file o usa il pulsante per selezionarli",
+    "DROP_FILES_OR": "Trascina qui i file oppure",
+    "BROWSE_FILES": "Seleziona file",
+    "FILE_NAME": "Nome file",
+    "FILE_SIZE": "Dimensione",
+    "FILE_TYPE": "Tipo di file",
+    "LAST_MODIFIED": "Ultima modifica",
+    "REMOVE_FILE": "Rimuovi",
+    "FILE_EXCEEDS_SIZE_LIMIT": "Il file supera il limite di {{maxSize}}."
   },
   "ERRORS": {
     "PERMISSION_DENIED": "Spiacenti, non hai il permesso per accedere a questa piattaforma.",

@@ -50,7 +50,15 @@
     "NO_NOTIFICATIONS_RECEIVED": "Aucune notification reçue"
   },
   "FILE_DROP": {
-    "FILE_EXCEEDS_SIZE_LIMIT": "Le fichier dépasse la taille maximale autorisée. Taille maximale autorisée :"
+    "UPLOAD_INSTRUCTIONS": "Déposez les fichiers ici ou utilisez le bouton pour les sélectionner",
+    "DROP_FILES_OR": "Déposez les fichiers ici ou",
+    "BROWSE_FILES": "Sélectionner des fichiers",
+    "FILE_NAME": "Nom du fichier",
+    "FILE_SIZE": "Taille",
+    "FILE_TYPE": "Type de fichier",
+    "LAST_MODIFIED": "Dernière modification",
+    "REMOVE_FILE": "Retirer",
+    "FILE_EXCEEDS_SIZE_LIMIT": "Le fichier dépasse la taille maximale autorisée de {{maxSize}}."
   },
   "CONFIRM": {
     "DEFAULT_TITLE": "Confirmation",

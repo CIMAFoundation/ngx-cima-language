@@ -50,7 +50,15 @@
     "NO_NOTIFICATIONS_RECEIVED": "No notifications received"
   },
   "FILE_DROP": {
-    "FILE_EXCEEDS_SIZE_LIMIT": "The file exceeds the allowed size limit. Maximum allowed size:"
+    "UPLOAD_INSTRUCTIONS": "Drop files here or use the button to select them",
+    "DROP_FILES_OR": "Drop files here or",
+    "BROWSE_FILES": "Browse files",
+    "FILE_NAME": "File name",
+    "FILE_SIZE": "Size",
+    "FILE_TYPE": "File type",
+    "LAST_MODIFIED": "Last modified",
+    "REMOVE_FILE": "Remove",
+    "FILE_EXCEEDS_SIZE_LIMIT": "The file exceeds the {{maxSize}} size limit."
   },
   "CONFIRM": {
     "DEFAULT_TITLE": "Confirm",
