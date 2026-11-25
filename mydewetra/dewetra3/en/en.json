@@ -1304,7 +1304,7 @@
     "ADVISORY_FLAGS": "advisory flags",
     "AEROPORTOS_DO_MOÇAMBIQUE": "Aeroportos do Moçambique",
     "AFFECTED_BUILT_UP": "Affected built-up value [M$]",
-    "AFFECTED_CROP": "Affected agricultural land [ha]",
+    "AFFECTED_CROP": "Affected cropland [ha]",
     "AFFECTED_GRAZING": "Affected grazing land [ha]",
     "AFFECTED_LANDCOVER": "Affected landcover",
     "AFFECTED_LIVESTOCK": "Affected livestock [-]",
