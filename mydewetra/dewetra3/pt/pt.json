@@ -1457,6 +1457,8 @@
     "GSMAP_NOWCASTING": "GSMaP Nowcasting",
     "GSMAP_NOWCASTING_DESC": "RIKEN Nowcast (chuva)",
     "GSMAP_REAL_TIME": "GSMap Tempo Real",
+    "GUYANA_NWP_GFS_DET": "GFS DA GUIANA DETERMINÍSTICO",
+    "GUYANA_NWP_GFS_PROB": "PROBABILÍSTICA DE GFS DA GUIANA",
     "HAZARD_JRC_AFRICA_10": "Perigo JRC África 10 anos",
     "HAZARD_JRC_AFRICA_100": "JRC Perigo - África 100 anos",
     "HAZARD_JRC_AFRICA_200": "JRC Perigo - África 50 anos",

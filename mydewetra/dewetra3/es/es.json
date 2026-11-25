@@ -1457,6 +1457,8 @@
     "GSMAP_NOWCASTING": "Transmisión instantánea de GSmap",
     "GSMAP_NOWCASTING_DESC": "RIKEN Nowcast (lluvia)",
     "GSMAP_REAL_TIME": "GSMap en tiempo real",
+    "GUYANA_NWP_GFS_DET": "DETERMINISTA GFS DE GUYANA",
+    "GUYANA_NWP_GFS_PROB": "PROBABILÍSTICO DE GUYANA GFS",
     "HAZARD_JRC_AFRICA_10": "hazard_jrc_africa_10",
     "HAZARD_JRC_AFRICA_100": "hazard_jrc_africa_100",
     "HAZARD_JRC_AFRICA_200": "hazard_jrc_africa_200",
