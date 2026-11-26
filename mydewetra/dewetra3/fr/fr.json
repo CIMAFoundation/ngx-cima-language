@@ -743,6 +743,14 @@
     "TODAY": "Aujourd'hui",
     "TREE_MODE": "Mode arbre",
     "UNLOCK": "Déverrouiller le Layer Chooser",
+    "WMST": {
+      "DAY": "Jour (UTC)",
+      "INSTANT": "Instant (UTC)",
+      "LATEST": "Dernier disponible",
+      "LOAD_ERROR": "Impossible de charger les instants disponibles",
+      "MONTH": "Mois",
+      "NO_INSTANTS": "Aucun instant disponible"
+    },
     "ZOOM_FILTER": "Filtre de zoom",
     "ZOOM_TO_LAYER": "Zoomer sur la couche",
     "event": "Évènements",
@@ -1194,6 +1202,7 @@
     "ADD_ERROR": "Impossible d'ajouter la couche",
     "DEFAULT_STYLE": "Style par défaut",
     "EXTERNAL": "Externe",
+    "EXTRA_PARAMS": "Paramètres supplémentaires",
     "FILTER": "Filtrer les couches",
     "LAYERS": "Couches disponibles",
     "LOAD": "Charger les capabilities",
@@ -1204,8 +1213,13 @@
     "STYLE": "Style",
     "TARGET_MAP": "Carte",
     "TIME_LAYER": "Couche temporelle : le temps par défaut du serveur est affiché",
+    "TIME_STEP": "Pas de temps",
+    "TIME_STEP_DEKAD": "Décades (1, 11, 21)",
+    "TIME_STEP_SERVER": "Déclaré par le serveur",
     "TITLE": "Ajouter un WMS externe",
-    "URL": "URL du serveur WMS"
+    "URL": "URL du serveur WMS",
+    "VERSION": "Version WMS",
+    "VERSION_SERVER": "Déclarée par le serveur"
   },
   "EXTREME_PRECIPITATION_-_MULTIMODEL": "Précipitations extrêmes - multimodèle",
   "FANFAR.INSITU": "West Africa HYPE v1.2 + stations locales",
