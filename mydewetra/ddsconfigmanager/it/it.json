@@ -144,5 +144,6 @@
   "SENSORCLASS_ATMOSPHERIC_PRESSURE": "Pressione Atmosferica",
   "SENSORCLASS_RADIOMETER": "Radiometro",
   "FORMAT": "Formato",
-  "SERIES_LAYER_TYPE_MULTIDETERMINISTIC_FORECAST": "Previsione multideterministica"
+  "SERIES_LAYER_TYPE_MULTIDETERMINISTIC_FORECAST": "Previsione multideterministica",
+  "SERIES_LAYER_TYPE_NWP_DETERMINISTIC_FORECAST": "Previsione deterministica NWP"
 }
